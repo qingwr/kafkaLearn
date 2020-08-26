@@ -1,0 +1,4563 @@
+{
+	"packageUrl": "http://client.dasijiaoyu.com/dev_update/update_android_res/",
+	"assets": {
+		"res/friend/sp_2.png": {
+			"md5": "2a005e97157824dc9d6a36cd3c7f2030"
+		},
+		"res/class/levelTxt_10.png": {
+			"md5": "46042c9830ed935dbbc368db93b504d6"
+		},
+		"src/component/ForgetLayer.jsc": {
+			"md5": "7619ec62039012492ffb5d0252e2627b"
+		},
+		"res/honor_2/hjstshz.png": {
+			"md5": "7099d7b9d2abad8900017a8f2889eab1"
+		},
+		"res/ranklist/ranklist_back.png": {
+			"md5": "b97781369ba6a5596cd540ba1ad1154e"
+		},
+		"res/spritMiddle/bg_sea_theme_1.jpg": {
+			"md5": "5aa959fce348b4ab1f3107d8d6b4108f"
+		},
+		"res/head_img_set/img_head59.png": {
+			"md5": "9c66c1abe17a9488a56902c420346903"
+		},
+		"res/friend/online.png": {
+			"md5": "1987fb3a134c8383bca8615ee94dfe11"
+		},
+		"res/class/bg.png": {
+			"md5": "17e572cdba3374bcf03ae34adf98a2c6"
+		},
+		"src/component/TaskXieZhuLayer.jsc": {
+			"md5": "964f6c9d786d97b659b2330812f96da6"
+		},
+		"res/team/teamhelpbg/teammakesurebg.png": {
+			"md5": "b9034233e43694b5f136dded31e5a971"
+		},
+		"res/ggao/g3.png": {
+			"md5": "88a3cf95998491e3c87bf49ad2feef46"
+		},
+		"res/spritMiddle/btn_xingrongci2_spirit_icon.png": {
+			"md5": "4ddde8770c730112b45cbd9d76bc650b"
+		},
+		"res/mp3/success/stwo2.mp3": {
+			"md5": "5d2404ddf8550a4ca2ca19a19ea732fc"
+		},
+		"res/userinfo/userinfo_exit2.png": {
+			"md5": "9fec97b12d68f79c673a01cffe2e6cc8"
+		},
+		"res/kingtitle/kingtitle10.png": {
+			"md5": "6c03ef0ef431f139a2913c6431b816fb"
+		},
+		"res/honor_result/cgxns.png": {
+			"md5": "05cf8065210eaa3e6c482381b4aeee75"
+		},
+		"res/button_asy/btn-pre_click.png": {
+			"md5": "1787fc0e11a47438ef0fc45dc378511a"
+		},
+		"res/unlock_sps/dongci.png": {
+			"md5": "f108c971bf808717c505e1601616850b"
+		},
+		"res/honor/rank_down_select.png": {
+			"md5": "82a9d04e017d49dfd69b66dac6f29e2a"
+		},
+		"res/spritbg/btn_xingrongcicifa_spirit_icon.png": {
+			"md5": "f90541b3c4dca6a21aed9690e07d86fe"
+		},
+		"res/course/1_2_hide_strong.png": {
+			"md5": "b0f396b7c03d529e4bef2027aa81adb9"
+		},
+		"res/honorland/img_honor_right.png": {
+			"md5": "c3850752c2c297e05fa6b26fd7b84f48"
+		},
+		"res/class_award/class_touxiangkuang2.png": {
+			"md5": "641815e469d22582d047eb4d7e67e0db"
+		},
+		"src/component/FeiLayer.jsc": {
+			"md5": "fdbf0b7f930ca43576e3a45957b00aa0"
+		},
+		"res/head_img_set/img_head23.png": {
+			"md5": "e57e67f371213ec651706003a547782a"
+		},
+		"res/unlock_sps/jinjieshuci.png": {
+			"md5": "d2d19bf65d1fc2131b9a7c74b5940337"
+		},
+		"res/class/userinfo_bg.png": {
+			"md5": "269fa00af0f790c83389c859c38279a3"
+		},
+		"res/common/btn_commit.png": {
+			"md5": "94540fd7e175ce8e16cee65ad21c16c9"
+		},
+		"res/agreement/setUpBtn.png": {
+			"md5": "25de323bedd6543cfc42955f13e47dd4"
+		},
+		"res/button_asy/btn_press.png": {
+			"md5": "40ed28fc002f57e3f3dac74b0f1b3a0e"
+		},
+		"res/leaveMsg/biaoqing_click.png": {
+			"md5": "1032300b56f6f576a6e24ca762bb650f"
+		},
+		"res/common/en_transtale.png": {
+			"md5": "e5c4fd766732d4ff9769645d0a4ee114"
+		},
+		"res/Ziphone_HeadImgSetLayer.json": {
+			"md5": "70d74725776e8ef9e41608903a0da65d"
+		},
+		"res/scoreRecord/report_3.png": {
+			"md5": "0e7f7bd01f8de2588ec0f770eead1a68"
+		},
+		"res/course/1_1.png": {
+			"md5": "d92a3f7a454474423c4f734b892fe347"
+		},
+		"res/class/seasonBg.png": {
+			"md5": "a097fa1e80eb08e6fa4b1106439daae2"
+		},
+		"res/login/login_btn_1.png": {
+			"md5": "52edb170ae99e533eb1bc772d23b778a"
+		},
+		"res/Ziphone_projectSummary.json": {
+			"md5": "0332b24987093d443c9245934534344a"
+		},
+		"res/common/tips.png": {
+			"md5": "10486dd44c6bb511ba1c085f9f5615f1"
+		},
+		"res/class_award/class_huizhang.png": {
+			"md5": "b67315441ae9fcc9c1751f7e08374131"
+		},
+		"res/plist/huiben_anims.png": {
+			"md5": "7bac7fc2a1628caf03323f6e0d773fdc"
+		},
+		"res/Ziphone_FriendLayer.json": {
+			"md5": "12c6b4cd71c5b19e824a81aa4e6ade1a"
+		},
+		"res/honor/unlocked_edit.png": {
+			"md5": "e7c7bddb34b0d5563ce1bfd539e7c421"
+		},
+		"res/spritMiddle/huihuasp2_spirit_text.png": {
+			"md5": "376cf66bcbc0e0a3691f522e402f1d66"
+		},
+		"res/learn/spritisLandBg.jpg": {
+			"md5": "46ba9022f0c1cf34320500038a6a3181"
+		},
+		"res/Ziphone_TeamCreateOrJoin.json": {
+			"md5": "abc77354126fdfaa38c92855dc7173c0"
+		},
+		"src/team/TeamenterRequestLayer.jsc": {
+			"md5": "1bab93b3232ee1055d8c43d3f96fab52"
+		},
+		"res/head_img_set/img_head25.png": {
+			"md5": "f92b46b624f8d186e6fa3fde5b301224"
+		},
+		"res/Ziphone_PictureBookLayer.json": {
+			"md5": "0f49e604250bb452b54ecd9ae28db080"
+		},
+		"res/friend/introduceFriendImg.png": {
+			"md5": "736a05ca04f442d66ed06a5c0cd926c4"
+		},
+		"res/honor_result/wzdf.png": {
+			"md5": "7bfc2167a1f69788a875fa5eadfe279b"
+		},
+		"res/class_award/appletx5.png": {
+			"md5": "d0a587c326a26303ffb7d47e9cea24ed"
+		},
+		"res/course/1_4.png": {
+			"md5": "f3aece3198b4ac0e64de4b953caf8c69"
+		},
+		"src/component/LoadingBgLayer.jsc": {
+			"md5": "1486e586141158a4b98e6c797f8fcfb0"
+		},
+		"res/class_award/all_class_paiming_tsxz4.png": {
+			"md5": "86b88ceaa17cb3a56da8a2244b7842ce"
+		},
+		"res/head_img_set/img_head16.png": {
+			"md5": "683faaa88e858e2f91876497046f2385"
+		},
+		"res/honorland/btn_honor_house.png": {
+			"md5": "017134283b81494e9b639635cf34513a"
+		},
+		"res/head_img_set/img_head8.png": {
+			"md5": "894af8c7e9e42902aede39563a93bdec"
+		},
+		"res/userinfo/select_bg.png": {
+			"md5": "8d96f748122a45c4e0c160eca87c6b35"
+		},
+		"res/ranklist_asy/ranklist_back_year.png": {
+			"md5": "7eee018206a7b5d530da09fca83f8cae"
+		},
+		"res/honor_2/cgxwz.png": {
+			"md5": "0ed72b4c54979f5c1a9b830c44d4c643"
+		},
+		"res/test_study/huiben_item.png": {
+			"md5": "461ed48dcf7074051ad8441c215ec394"
+		},
+		"res/honor_2/ggwz.png": {
+			"md5": "0dd84935f6fb282cd7e3ffae097851d3"
+		},
+		"res/update_check/btn_update.png": {
+			"md5": "ae7eecbc389ff3d52be4373dfeb1f169"
+		},
+		"res/huizhang/huizhang8.png": {
+			"md5": "26f50735837b6e562431c65f68e0a5c1"
+		},
+		"res/spritbg/choiced_bg.png": {
+			"md5": "77e7d035b02104e1ef4862de990fa63a"
+		},
+		"res/head_img_set/appletx5.png": {
+			"md5": "d0a587c326a26303ffb7d47e9cea24ed"
+		},
+		"res/login/btn_radio1.png": {
+			"md5": "7f4e5f556196380bd2a01bf6b7840511"
+		},
+		"res/honor_2/zzdw.png": {
+			"md5": "6954faa281a9a83197af613d1a05723e"
+		},
+		"res/learn/learnBg.jpg": {
+			"md5": "9fcfb20f51bda1ad2e3503ce06071420"
+		},
+		"res/spritbg/btn_jinjiexingrong_spirit_icon.png": {
+			"md5": "9936a8924ea89b4b64e52438ef78367a"
+		},
+		"res/honor_result/group_rank_5.png": {
+			"md5": "5d9ec78034d6936b03fab6fe7940ef39"
+		},
+		"res/class_award/tstx1.png": {
+			"md5": "1adc7e5c9c6c07d9ed33362faad554d2"
+		},
+		"res/spritMiddle/mingci1_spirit_text.png": {
+			"md5": "e1b1201d1d7b5b1e3f08a06e3a253be7"
+		},
+		"res/Ziphone_ShowGainLayer.json": {
+			"md5": "37131f43f145fa8a6f115f03e36a22ed"
+		},
+		"res/head_img_set/img_head53.png": {
+			"md5": "ba679d6a033fe13b93cac8563cd0708b"
+		},
+		"res/class/progress.png": {
+			"md5": "0ba52aa2ce6fd51c0b8cd33f1818048d"
+		},
+		"res/team/enterteamplace/enterteamplacebg.png": {
+			"md5": "c11b7ffdfa6326525e4c7eb22cbd241f"
+		},
+		"res/spritbg/xingrong_spirit_text.png": {
+			"md5": "65fc434996afc09257f8ed9ea87b9558"
+		},
+		"res/class/btnscoreback.png": {
+			"md5": "0ae6d2b9c249b12785e5aed7fb7169bb"
+		},
+		"res/spritbg/running_img.png": {
+			"md5": "2b3074d1f3d20aa6df477a2e6b2397ad"
+		},
+		"res/honor_result/cglz.png": {
+			"md5": "a507ebdfefb30603f61c593e4c312f93"
+		},
+		"res/class_award/class_touxiang3.png": {
+			"md5": "1adc7e5c9c6c07d9ed33362faad554d2"
+		},
+		"res/common/btn_line_switch.png": {
+			"md5": "186d4c242203693603ab493971c466c6"
+		},
+		"res/head_img_set/tstx1_0.png": {
+			"md5": "8352e0645337de8c64386107246a5e0e"
+		},
+		"res/class_ranklist/class_ranklist_3.png": {
+			"md5": "33b6a42699c321358235b6f47ecfc782"
+		},
+		"res/scoreRecord/up.png": {
+			"md5": "0bc6cd4a1e9f3b17d40a30628d58e164"
+		},
+		"res/honor_result/all_class_paiming_award_level3.png": {
+			"md5": "901ee2bde7a4ed4ca6e6f6c931005eaf"
+		},
+		"res/head_img_set/img_head44.png": {
+			"md5": "8537553d5aa61a373f4bd1c0c9f7ac89"
+		},
+		"res/learn/learn_spirtisLand_bg.jpg": {
+			"md5": "4c37d30577f2b75217296421c4a5b13d"
+		},
+		"res/mp3/success/s1.mp3": {
+			"md5": "da400ff3d4241d93b722d6113bd48340"
+		},
+		"res/Ziphone_huizhangUpgradeLayer.json": {
+			"md5": "33864d7ba93be8779516d6d32f5bd32e"
+		},
+		"res/spritbg/yibanyiwenju_spirit_text.png": {
+			"md5": "85dff0e6c918f5690bb6162869d1c2ad"
+		},
+		"src/component/ConcludeAutoLayer.jsc": {
+			"md5": "83ac7b9db9cbb1cf4ef720e5436d3aa1"
+		},
+		"res/class_award/zswz4.png": {
+			"md5": "e1318e1c03dc79e4e157c7e818812735"
+		},
+		"res/learn/zIphone_learn_bg1.jpg": {
+			"md5": "36a76f040f31219aeeec69af5c0e59d9"
+		},
+		"res/class/btn_watering.png": {
+			"md5": "d11cdf52ac5a3640424904551eadd71f"
+		},
+		"res/common/sh_close.png": {
+			"md5": "92f96b52c9999d98c0b2cd8896d642b3"
+		},
+		"res/componment/btn_cancel.png": {
+			"md5": "8d45a0838b26a9d1af456ac9e7160331"
+		},
+		"res/huizhang/kingtitle5.png": {
+			"md5": "07e9d9d6b670553130606fbdbc65ea24"
+		},
+		"src/component/RegisterLayer.jsc": {
+			"md5": "1682831e0d6628f0b7403291435fb4a7"
+		},
+		"res/spritbg/teshuyiwenju_spirit_text.png": {
+			"md5": "22f8518730198cde30db5f1a00cf9ae1"
+		},
+		"res/team/invateotherenterteam/searchSumit.png": {
+			"md5": "569ce3ac59236f752291c156e4d2ca1d"
+		},
+		"res/button/btn-pre_click.png": {
+			"md5": "1787fc0e11a47438ef0fc45dc378511a"
+		},
+		"res/class_ranklist/last_saiji_ranklist_bg.png": {
+			"md5": "e879dff7b7931db7a97af8aab85aa220"
+		},
+		"res/Ziphone_SaijiRankListLayer.json": {
+			"md5": "0c821903fd63c775ce693d8db4050615"
+		},
+		"src/component/MonthScoreLayer.jsc": {
+			"md5": "5a129cba459143eb18b8a644c728d56a"
+		},
+		"res/class_award/class_award_tong.png": {
+			"md5": "b87e5c7482075923f9c1e27d1a148d6a"
+		},
+		"res/class_award/class_touxiang1.png": {
+			"md5": "be4a675fd28e523d4debcd91fc0eefd2"
+		},
+		"res/honor/img_awardcard_show_1.png": {
+			"md5": "2c3ac1a233584cd0d45b6f7e0a58e7dd"
+		},
+		"res/head_img_set/img_head54.png": {
+			"md5": "bfc0f24b3245bbedca4f08d1e167cfe7"
+		},
+		"res/head_img_set/img_head28.png": {
+			"md5": "897e1f29d661f72a446df67226df4cf5"
+		},
+		"res/spritbg/story_item.png": {
+			"md5": "3c5d426e328c681a3e32381bb4d7b48a"
+		},
+		"res/huizhangview/huizhangguang.png": {
+			"md5": "e9075ad7aada0c7b8c344e2ef612a8a8"
+		},
+		"res/shared_vedio/btn_close.png": {
+			"md5": "7b1fd53e3fdec52153d5ad9c9c492eeb"
+		},
+		"res/honor/img_awardcup_show_1.png": {
+			"md5": "dbb3fd84b72115729064ae158ae68af6"
+		},
+		"res/honor_2/group_rank_5.png": {
+			"md5": "6e1c978b5dd2a5ff486edeff9a80b743"
+		},
+		"res/spritbg/mingcicifa_spirit_text.png": {
+			"md5": "f172ca787358f1550a12c386f87224da"
+		},
+		"res/ranklist/btn_left_show.png": {
+			"md5": "b3ca5886484da0a6ee163b03fa2d08c5"
+		},
+		"res/agreement/icon.png": {
+			"md5": "3e74864a3188668202ca2aab6b8dc7d0"
+		},
+		"res/spritMiddle/btn_teshuyiwenju1_spirit_icon.png": {
+			"md5": "9f1b72e4751a5320fbdb34ae69fe9d01"
+		},
+		"res/head_img_set/img_head5.png": {
+			"md5": "8e6d52e6a7b73f5215e73126d9ef6261"
+		},
+		"res/componment/tips_btn_1.png": {
+			"md5": "1d31a3165b3855a3c64dd3ad6cc666d4"
+		},
+		"res/button_asy/btn_back.png": {
+			"md5": "19587f8f4548977ffed62460416bc977"
+		},
+		"res/team/teamhelpbg/teamhelpbg.png": {
+			"md5": "2dc96bddc33f6b44af8a4abdd69d6c0b"
+		},
+		"res/friend/delete.png": {
+			"md5": "fc4250e28291c8b21787d49741d6bce3"
+		},
+		"res/userinfo/user_info_title.png": {
+			"md5": "4cb89c5a8a6115fa434f15306c8f687b"
+		},
+		"res/login/btn_bind.png": {
+			"md5": "87ac1e0d1288f8f21a42d815f3be7de9"
+		},
+		"res/honor_1/class_award_level6.png": {
+			"md5": "8cba3cca07dd10ffa9e103802f461552"
+		},
+		"res/Ziphone_LoginLayer.json": {
+			"md5": "99b948da3958c5f5ce465daa76eac872"
+		},
+		"res/honor_result/dalu_zhengshu.png": {
+			"md5": "372b770529870f5de1b0aa9b1d7744b8"
+		},
+		"res/honor_result/dsxjb.png": {
+			"md5": "45191247ee89016f17e6eb64f7c0e920"
+		},
+		"src/controller/HallBaseController.jsc": {
+			"md5": "da91194c22e459064dc60f74cf789df8"
+		},
+		"res/honor_1/dfwz.png": {
+			"md5": "84384e488c8454148d035439956b6f33"
+		},
+		"res/head_img_set/img_head11.png": {
+			"md5": "b7cacf4bd10dd0a6d34a6f6f9fe2de79"
+		},
+		"res/spritMiddle/btn_chenshuju3_spirit_icon.png": {
+			"md5": "c090f28ba142a92947d02b569a503070"
+		},
+		"res/class/levelTxt_4.png": {
+			"md5": "d13ed834bed21e930f52642fe4fd8e37"
+		},
+		"res/honor/iphone_honor_bg.jpg": {
+			"md5": "c5303d5408e75270fe09613ad3d880fe"
+		},
+		"res/team/teamlist/teamlistbg.png": {
+			"md5": "23f9b0034eb4fa9b5f9386fac03a8ba0"
+		},
+		"res/login_asy/login_close1.png": {
+			"md5": "bac2b8dcaf95a6532c22a8af1753e17e"
+		},
+		"res/honor_result/btn_jp.png": {
+			"md5": "5292617c006cd3fad375bc05788166d7"
+		},
+		"res/leaveMsg/bq2.png": {
+			"md5": "181171fa2f0619536dee347af2ea416a"
+		},
+		"res/friend/addFriendIcon_1.png": {
+			"md5": "904fa57d71f849fa7e70053f7142e0f7"
+		},
+		"src/component/LeaveMsgLayer.jsc": {
+			"md5": "022f488d5ec1ee86065266967079428e"
+		},
+		"res/honor_2/plwz.png": {
+			"md5": "f41544d2db041c87f570278a69941bfb"
+		},
+		"res/Ziphone_ClassRankListLayer.json": {
+			"md5": "346baccc40eb29fbb62c076f8fc3a9dc"
+		},
+		"res/head_img_set/appletx5_1.png": {
+			"md5": "0e928c9fdac42afe47b81c73441adc2e"
+		},
+		"res/head_img_set/btn_jz_choose_pre.png": {
+			"md5": "e469b5b85bcb3440fb10e518b94133c6"
+		},
+		"res/scoreRecord/report_8.png": {
+			"md5": "8dbb0797d3d2025780d731e5fdfd5923"
+		},
+		"res/huizhang/kingtitle5_bg.png": {
+			"md5": "95ca251fbfa79cf374f666645855e2a4"
+		},
+		"res/plist/sp_anims.plist": {
+			"md5": "6e964ab8f30d02423d61c9132c6024fe"
+		},
+		"res/spritLevel/beginnerItem.png": {
+			"md5": "c9338084dbe3a37112f2a34ac7763309"
+		},
+		"res/head_img_set/img_head4.png": {
+			"md5": "de1e711637ee62799160d0a10bbbf98d"
+		},
+		"res/class_task/task_full_line.png": {
+			"md5": "bc8c1d8073d99ef313c223f0d1b4d5aa"
+		},
+		"res/huizhang/kingtitle10_bg.png": {
+			"md5": "d6f07f256d2fadc950bc31cb9552991c"
+		},
+		"res/common/ranklisttips1.png": {
+			"md5": "8fc1b3f40609f30f59a495fba16cdee6"
+		},
+		"res/button/btn_press.png": {
+			"md5": "40ed28fc002f57e3f3dac74b0f1b3a0e"
+		},
+		"res/learn/cn_transtale.png": {
+			"md5": "b76e0451dfd8ea34449328f57ca0bebe"
+		},
+		"res/login/bind_bg.png": {
+			"md5": "2a86b0a046fe34be21efdc9851f16308"
+		},
+		"src/component/huizhangUpgradeLayer.jsc": {
+			"md5": "50b25a11690e0c70d7cb1ea7eabf8b80"
+		},
+		"res/class/selflist_itemBg.png": {
+			"md5": "157e680592f11cfb927a6f2872cf1061"
+		},
+		"res/course/btn_study_record.png": {
+			"md5": "e364a5ba47642f6fd7f354957b11e5a5"
+		},
+		"res/Default/CheckBox_Disable.png": {
+			"md5": "6fcfcda2f539f7fd3dd62ed617e66d0d"
+		},
+		"res/leaveMsg/btn_leave_msg.png": {
+			"md5": "c3147a99549995aa91f9850818d0f6e2"
+		},
+		"res/team/myfriendbtn_0.png": {
+			"md5": "fb6eddd9b1134adcca00ecb851aafa55"
+		},
+		"res/honor_2/mrzx.png": {
+			"md5": "6190c02693a74e2490fa0b3e490b865e"
+		},
+		"res/button/btn_first.png": {
+			"md5": "c1020b529e93126fcf6e5c19a72557e9"
+		},
+		"res/class_award/tstx4_0.png": {
+			"md5": "6ef21e637ba1e8a2edae2f72cd8c7c11"
+		},
+		"res/spritbg/btn_dongcicifa_spirit_icon.png": {
+			"md5": "8c21dc6ae40ae491f576663b88b1b7a9"
+		},
+		"res/Ziphone_UnLockLevelLayer.json": {
+			"md5": "44c0c29dcfc621c8532d77f2bab868e9"
+		},
+		"res/honor/rank_down_normal.png": {
+			"md5": "616829a94fd55e19be384dc00271b8ac"
+		},
+		"res/honor_result/zzdw.png": {
+			"md5": "94372e18cfb7295379e9815c49c500ff"
+		},
+		"res/spritbg/btn_shuci_spirit_icon.png": {
+			"md5": "417169c7dc1946ad1d16fbe074daacda"
+		},
+		"res/ranklist_asy/ranklist_back_month.png": {
+			"md5": "054382587a055611f040c499d698241d"
+		},
+		"src/view/CourseView.jsc": {
+			"md5": "cfdba3db0b972948304c4dc2a288d1b7"
+		},
+		"res/course/2_3_hide_strong.png": {
+			"md5": "9611cf6d63291c081d5cbb3e563dd424"
+		},
+		"res/login/generalCode_bg.png": {
+			"md5": "34fdf42bb93c20507f7e84bb42037622"
+		},
+		"res/honor_1/rywz.png": {
+			"md5": "8905da5faf3981689f92f99ecd3f38c7"
+		},
+		"res/class_award/class_touxiangkuang1.png": {
+			"md5": "55e9cc09deb1899cd403bb9b680575a7"
+		},
+		"res/Ziphone_InviteTaskTongzhiLayer.json": {
+			"md5": "ebbd5edcd4d80c0894ab9ae2529331f8"
+		},
+		"res/unlock_sps/jieci.png": {
+			"md5": "9cb94f21284e26feac64a83f68c14d8d"
+		},
+		"res/honor_result/btn_jb_1.png": {
+			"md5": "a7ba2dcde50ee38e393112b0684bd2f3"
+		},
+		"res/honor/small_award_bg.png": {
+			"md5": "1dbaba89b95f7b5a595ed826f7331592"
+		},
+		"res/junior/spirit_status_1_2_5.png": {
+			"md5": "9adae58c9fb03f4d9d7c0475b790ea62"
+		},
+		"res/honor_1/ygcbshz.png": {
+			"md5": "9c42d97f9b6166e2cf7d663e3f05044c"
+		},
+		"res/spritMiddle/duanyu3_spirit_text.png": {
+			"md5": "f8d9c4cb368f21a5da26e792d62d8431"
+		},
+		"res/userinfo/pointer_up.png": {
+			"md5": "f9270553da02cb0000f516e0ffaca2dc"
+		},
+		"res/junior/spirit_status_1_3_0.png": {
+			"md5": "d3452cea6e07736e815385e4b473fcf0"
+		},
+		"res/loading.jsc": {
+			"md5": "8e98c5500b57ba0810f7a435e65e1962"
+		},
+		"res/update_check/update_frame.png": {
+			"md5": "71790052c4d40e0c23b18d0c9e487414"
+		},
+		"res/honor_2/llyzshz.png": {
+			"md5": "73da0b2ec9262e9c0002e267bb7548a4"
+		},
+		"res/Ziphone_SpritLevelLayer.json": {
+			"md5": "882936ba9762f4e8f90d20ebe0a469ba"
+		},
+		"res/huizhang/kingtitle9.png": {
+			"md5": "4b983a4b7a1e71888ac1e6ee8922a800"
+		},
+		"res/spritLevel/middle_item_title.png": {
+			"md5": "cef494ae86c08ea511e3e96eaa0fc107"
+		},
+		"src/view/UpdateView.jsc": {
+			"md5": "8289f5acb8d7c2ae58a163ae153b7ae9"
+		},
+		"res/learn/huan1.png": {
+			"md5": "9145cbef43af54c9cf5ed7d639c216cb"
+		},
+		"res/class/tree_3.png": {
+			"md5": "f0de3c05061b3ce61c05819162cbe337"
+		},
+		"res/Ziphone_ConcludeLayer.json": {
+			"md5": "675a8f2caccf02fc6b3c383cf2740af1"
+		},
+		"res/honor_2/class_award_level6.png": {
+			"md5": "c5e050a9a9d16913788a69113aeee8f0"
+		},
+		"res/honor_2/cglz.png": {
+			"md5": "c298b7e0cbe82a093f36062aede3719a"
+		},
+		"res/Ziphone_AllRankListLayer.json": {
+			"md5": "af3c4881219b91b2d0513cb08817c646"
+		},
+		"res/login_asy/wx_forget.png": {
+			"md5": "db38b4c0006451bdb9e29fd51b23156d"
+		},
+		"src/common/SurNameLibs.jsc": {
+			"md5": "cf196c0f6390f47bfcd7166dbfb0d970"
+		},
+		"res/honor_2/group_rank_4.png": {
+			"md5": "5298b9bdd60e7aabfc374ed3909e1d49"
+		},
+		"res/spritbg/btn_chenshuju_spirit_icon.png": {
+			"md5": "451576862ae6f0aefc97de2e874649e0"
+		},
+		"res/head_img_set/tstx2.png": {
+			"md5": "be4a675fd28e523d4debcd91fc0eefd2"
+		},
+		"res/honor_1/wzgl.png": {
+			"md5": "bf3ff61aff8bd1aead433eebd04a37db"
+		},
+		"res/spritMiddle/btn_xingrongci1_spirit_icon.png": {
+			"md5": "0955d9c45560f33c95d7cd94b46695ec"
+		},
+		"res/class/tree_0.png": {
+			"md5": "814c5a7a1ac6c0f628430208b25e607a"
+		},
+		"res/spritMiddle/yibanyiwenju2_spirit_text.png": {
+			"md5": "f97bb45338ccedcbb4d393b035e0e74f"
+		},
+		"res/honor_result/btn_jz.png": {
+			"md5": "0e27a837d2e8aa8fc35976b318669cb4"
+		},
+		"res/common/story96_item.png": {
+			"md5": "8e6a16598fa00c8179ca6f5f0c92bb97"
+		},
+		"res/honorland/user_message_red_bu.png": {
+			"md5": "640c2f806cd5f7cfc98f4de85745ea17"
+		},
+		"res/team/btn_create_team.png": {
+			"md5": "57ad2ba0980c789db6e868298bac1dc5"
+		},
+		"res/unlock_sps/shuci.png": {
+			"md5": "a5b5a3a50f63b3ae68c8e1f074a62341"
+		},
+		"src/component/LeaveMessageLayer.jsc": {
+			"md5": "bc0166aae4b9f0d14613f2a6277fa0b8"
+		},
+		"res/spritMiddle/daici2_spirit_text.png": {
+			"md5": "33be78e5a197147e038fa4d4010f2c43"
+		},
+		"res/course/3_3.png": {
+			"md5": "c154e5586bca8bd351012005ddd76f4a"
+		},
+		"res/course/honor_isLand_new.png": {
+			"md5": "264ffea6e45ae8c2fa568ada7caf001f"
+		},
+		"res/class_ranklist/tapclasss.png": {
+			"md5": "c44cb0025a9bc3931a0ce1ffe02e0704"
+		},
+		"res/learn/father_son_bg.jpg": {
+			"md5": "f426262eba1e30f89d01efa4b4a300f3"
+		},
+		"res/honor_result/cgxwz.png": {
+			"md5": "f9e55deedd0149956f363d6a18cf9800"
+		},
+		"res/spritMiddle/chenshuju2_spirit_text.png": {
+			"md5": "2691dfe876ae4c4cd281cc88c1fb8a89"
+		},
+		"res/componment/tipshow_bg.jpg": {
+			"md5": "333d9141f6eb84fbccc1af99864b923b"
+		},
+		"res/huizhang/kingtitle6_bg.png": {
+			"md5": "8ac7fcbe65aca51b6d5a9a86b8a52331"
+		},
+		"res/Ziphone_InviteAllTaskTongzhiLayer.json": {
+			"md5": "21dc7bb780b397149e12db6744a97006"
+		},
+		"res/team/beingenterteam/beingenterbtn.png": {
+			"md5": "ada5070a3528449432bbddf4386be04a"
+		},
+		"res/honor/user_info_bg.png": {
+			"md5": "96e3093098efa95d99a1f667c6f3edd0"
+		},
+		"res/class_award/tstxk5.png": {
+			"md5": "e2a0aae13d2342e89279e93f9dbd0ee2"
+		},
+		"res/huizhang/kingtitle15.png": {
+			"md5": "01f2d0e8934e4620fa78c0078c1a3bbb"
+		},
+		"res/class/class_bg_ipad.jpg": {
+			"md5": "a0e60cdaca3dff77dc09765cc09a491e"
+		},
+		"res/spritMiddle/btn_shuci1_spirit_icon.png": {
+			"md5": "e2fcaf6c06953fcf36668c251ff4f53b"
+		},
+		"res/team/teamsdaystarget/daystargetcomplete.png": {
+			"md5": "883bfe29c29af279f7028687f6e014e4"
+		},
+		"res/class_task/invateheadbg.png": {
+			"md5": "1451bf11502c1ca4069b2a9d406e203c"
+		},
+		"res/unlock_sps/jinjiexingrongci.png": {
+			"md5": "3b12168bb1100c4e081dbeedb4b54878"
+		},
+		"res/honor_2/group_rank_7.png": {
+			"md5": "33baf2819208a2922dcedec5e2230bcc"
+		},
+		"res/friend/headBg.png": {
+			"md5": "1924b64ecc5585f5e11fbe02ba60d2f8"
+		},
+		"res/team/teamrankbtn_0.png": {
+			"md5": "598e848bb441b0a1a4329c25def9d50c"
+		},
+		"res/honorland_asy/award_2.png": {
+			"md5": "2c935ba472ceab0a46529976703865fb"
+		},
+		"res/Ziphone_TeamListLayer.json": {
+			"md5": "ccccc224023290e4cbfe8a80860eeea6"
+		},
+		"res/scoreRecord/report_4.png": {
+			"md5": "e943e4ffb8430651a48434ad594dafad"
+		},
+		"res/class_award/class_touxiangkuang3.png": {
+			"md5": "a0930cb40d50118b24cde92a6edfb569"
+		},
+		"res/honor_result/smztshz.png": {
+			"md5": "f81d4e6fae462af44cef0185c7f6ec93"
+		},
+		"res/honor_result/rywz.png": {
+			"md5": "04ebdff2a2820a91eafa83f564f45e96"
+		},
+		"res/spritbg/xinrongcicifa_spirit_text.png": {
+			"md5": "f73f8ad6cbd72cf40214ee57d4d026bc"
+		},
+		"res/Ziphone_ForgetLayer.json": {
+			"md5": "3181048761239ac64ed44ed7ada00622"
+		},
+		"res/spritMiddle/bg_sea_theme_2.jpg": {
+			"md5": "7cbbc3a6645554c899a43a1d75f3ae7b"
+		},
+		"res/honor_result/btn_about.png": {
+			"md5": "3610ab0b66c068805cd1a5c7b1fdeefb"
+		},
+		"res/class/treeReward_2.png": {
+			"md5": "366dc0638b3c0369a21dbd4238ed8ef3"
+		},
+		"res/head_img_set/img_head19.png": {
+			"md5": "5974abf9e1aee78ceaf5e71fafe505e8"
+		},
+		"res/userinfo/pointer_down.png": {
+			"md5": "c1f81a1cb54a5d4c6368f347fcf4472c"
+		},
+		"res/Ziphone_TaskXieZhuLayer.json": {
+			"md5": "e07bebced5abc419592bf1f7909f2d61"
+		},
+		"res/login/text_login.png": {
+			"md5": "ce05ac9ea16470d3aaa85db45db055bd"
+		},
+		"res/FriendFightInvate/friendAcept.png": {
+			"md5": "24c5d1cfecb2ef0b3513f06a411de8bd"
+		},
+		"res/spritMiddle/teshuyiwenju1_spirit_text.png": {
+			"md5": "e10d1595e7d1c8322611d30c1a85fede"
+		},
+		"res/honorland/user_message.png": {
+			"md5": "8077aae97c38df8d82469c1c2c6a1047"
+		},
+		"res/class_award/applewz6.png": {
+			"md5": "f6865b5a659bf5d8c27cb5bcd5152784"
+		},
+		"res/spritLevel/middleEgg.png": {
+			"md5": "d32bf0515afe854ba7d4217b868c3cb6"
+		},
+		"res/spritbg/story96.jpg": {
+			"md5": "5a78274d510b728d495d79b57931d669"
+		},
+		"res/class/levelTxt_6.png": {
+			"md5": "39e35984d7321bd3f9b9258e28c388bd"
+		},
+		"res/unlock_sps/gushihuiben.png": {
+			"md5": "3ea1423558e3edcb1d19eb31c17031e9"
+		},
+		"res/team/invateotherenterteam/searchFrame.png": {
+			"md5": "bf8e88588d9965b2e8421b3e54382dd1"
+		},
+		"res/class/treeReward_1.png": {
+			"md5": "353be237b17dc4903695727639bb9560"
+		},
+		"res/huizhang/kingtitle9_bg.png": {
+			"md5": "5e487d3551990be62817686d9f4c691f"
+		},
+		"res/login_asy/btn_radio2.png": {
+			"md5": "9bc4ab8c36589c3f04a23a000d4df508"
+		},
+		"res/friend/btn_honor_home.png": {
+			"md5": "7117d9df488fbd5875e4767f0d04aa42"
+		},
+		"res/conclude/conclude_btn_continue.png": {
+			"md5": "7b0fa773db5b51697d8a58e69543e743"
+		},
+		"src/component/AddFriendLayer.jsc": {
+			"md5": "1dff88c3cc81b169d3b08005fa690d85"
+		},
+		"res/Ziphone_TeamsReward.json": {
+			"md5": "10a28d875796962a731f6257d81b5d1e"
+		},
+		"res/honor_2/grade_paiming_award_tsjz.png": {
+			"md5": "4d1675ce1baf213adc6c182ba020013b"
+		},
+		"res/honor_result/tsjz.png": {
+			"md5": "f6089805ce5b186b531f967e7d538e1e"
+		},
+		"res/huizhang/huizhang7.png": {
+			"md5": "8474b50203412583c724085443595fd5"
+		},
+		"res/Ziphone_GainLayer.json": {
+			"md5": "fb918edc5ac34996c21d03cfeded0efb"
+		},
+		"res/class_award/grade_paiming_award_tsjz.png": {
+			"md5": "c5c6f8e0d5e834882db91a96f5291a53"
+		},
+		"res/userinfo_asy/userinfo_bg.png": {
+			"md5": "24ea9edccfe7f062308dea2029635b01"
+		},
+		"res/friendfight/headpath.png": {
+			"md5": "81b81e4295b005824601187076c10703"
+		},
+		"res/intermediate/spirit_status_2_2_0.png": {
+			"md5": "ccfb72312142339b50a28da0f4b5198e"
+		},
+		"res/head_img_set/img_head34.png": {
+			"md5": "1271d19d75d27966e69ac6a5f1779aee"
+		},
+		"res/Default/Button_Disable.png": {
+			"md5": "e53ebdf62127f1eaa0d3c48931169dd4"
+		},
+		"res/huizhang/kingtitle2_bg.png": {
+			"md5": "27b1e7a0b4d5a0601725ca79528d8a14"
+		},
+		"res/class/buildbtn.png": {
+			"md5": "8279c40fff1f40abf4c0b16971a96ea9"
+		},
+		"res/unlock_sps/fuci.png": {
+			"md5": "f07b6f8821d3954c33e049c439948130"
+		},
+		"res/honor_1/dsxjb.png": {
+			"md5": "2f17c3cc923dfa829c51c0c936ca14ce"
+		},
+		"res/honor_2/group_rank_3.png": {
+			"md5": "eaff433363b09bef974774a89654604b"
+		},
+		"res/friend/Previous.png": {
+			"md5": "0f6517c2aeedac4d5e3c3a84ea726206"
+		},
+		"res/hall/zIphone_hall_bg2.jpg": {
+			"md5": "97b7507984b86d913929aaa76937ba25"
+		},
+		"res/honor_2/zfwz.png": {
+			"md5": "07e0602f7d95d965110e492d8f16fe95"
+		},
+		"src/team/TeamCreateOrJoin.jsc": {
+			"md5": "3a26cecadafde2680a7182d76d291fa0"
+		},
+		"res/junior/spirit_status_1_3_4.png": {
+			"md5": "81b5418132c7d426cbbff77c89d5d0ef"
+		},
+		"res/course/2_2_hide_strong.png": {
+			"md5": "fc55b9fc0780647a0fd509664f22913d"
+		},
+		"res/friend/findFriendBtn.png": {
+			"md5": "5e2ff6d77b08fb3a7622e94129e103da"
+		},
+		"res/spritMiddle/cifa2_spirit_text.png": {
+			"md5": "b1bbb422f5ae0cad8fed952385983375"
+		},
+		"res/class/honorIsland_enter.png": {
+			"md5": "6fcd6b0fc7f8f6213ab89186cb68ce7c"
+		},
+		"res/spritLevel/beginnerEgg.png": {
+			"md5": "7204bea7f9311cdea44987c6e8e21f97"
+		},
+		"res/honor_result/hornor_tips.png": {
+			"md5": "9b2775c3f09c735bd1eeb3460bd489bb"
+		},
+		"res/team/teamlist/listitem.png": {
+			"md5": "93a3883c1b9b218a878df9bc919784b5"
+		},
+		"res/shared_vedio/btn_shared_vedio.png": {
+			"md5": "ddc2db39dfe55b147697f177d87bc302"
+		},
+		"res/huizhang/huizhang5.png": {
+			"md5": "5fbf2596e4addf7b47cfebb107740e74"
+		},
+		"res/class/treeReward_6.png": {
+			"md5": "f88bd2d30b8bfed562197b2a0159e8b4"
+		},
+		"res/spritbg/btn_xiaoxueduanyu_icon.png": {
+			"md5": "680acb11931ef027744a21b6687746f1"
+		},
+		"res/spritMiddle/shuci3_spirit_text.png": {
+			"md5": "95ae7038615bbf6eccea0932256dcbb7"
+		},
+		"res/Ziphone_ClassLayer.json": {
+			"md5": "9c0b96d981422090dfd4634ef0a2a56f"
+		},
+		"res/spritbg/bg_forest_theme_3.jpg": {
+			"md5": "a2c8d19b40cfde6164a74ca6c3b7e71b"
+		},
+		"res/ranklist/learn_info_bg.png": {
+			"md5": "7349b7d8c45f403fa892bee456aab9e7"
+		},
+		"res/login/protocol_bg.png": {
+			"md5": "77eab1f477de9f82134ab04d6caf88df"
+		},
+		"res/team/teamsdaystarget/daysitembg.png": {
+			"md5": "0151d3b77a3ede49bd934ecef472d56a"
+		},
+		"res/ranklist_asy/ranklist_second.png": {
+			"md5": "466f03fe660b0bd9af892e8cead02ab2"
+		},
+		"res/test_study/test_study_4.png": {
+			"md5": "650f3374b61867cf97dc68cc8e5b3519"
+		},
+		"res/spritMiddle/btn_shuci3_spirit_icon.png": {
+			"md5": "88e8f6cfc94aaa8133f647c7a4a9f94b"
+		},
+		"res/friend/friendInfoBg.png": {
+			"md5": "56c81880f772ed150332f6724d6ce5b9"
+		},
+		"res/kingtitle/kingtitle1.png": {
+			"md5": "cf4e08ac72fc60cc9c68003e9d162800"
+		},
+		"res/honor_result/one_level.png": {
+			"md5": "919dec536e053ec0d81a1a0286ede55e"
+		},
+		"res/team/teamsranks/ranklistmyitem.png": {
+			"md5": "5155896bf2918ef06ae16dcf20f5c5ab"
+		},
+		"res/honor_1/cgxjs.png": {
+			"md5": "acad9ffbf876eb56348ace09df59baf3"
+		},
+		"res/class_award/class_award_gold.png": {
+			"md5": "fef5c407db248fc0ef30a5ff811931dd"
+		},
+		"res/Default/CheckBox_Press.png": {
+			"md5": "f59a0ba680f74a91f7888dbd25bf6036"
+		},
+		"res/huizhang/huizhang3.png": {
+			"md5": "04fb6305e4bc6d2d8bd4f25629499a6c"
+		},
+		"res/huizhangview/huizhangbtn.png": {
+			"md5": "250ecbe256a89ce04b9a091a4047b114"
+		},
+		"res/common/btn_record_yesterday.png": {
+			"md5": "9f7a28aa1b06419d4edbf0e6929f780f"
+		},
+		"res/class/house2.png": {
+			"md5": "2141d647280803a7b64d49d2c6fb6ec8"
+		},
+		"res/honorland_asy/award_cup_3.png": {
+			"md5": "1310ba30865dafb4488c4f524be67c5d"
+		},
+		"res/honor_result/group_rank_1.png": {
+			"md5": "5709c23299feb5c43cb09ca8f1e27426"
+		},
+		"res/learn/aboy.jpg": {
+			"md5": "09066a694388be22c96537d365a52430"
+		},
+		"res/head_img_set/tstx4_1.png": {
+			"md5": "7d9aa703bfdc9555d2b3f009a0692c30"
+		},
+		"res/common/iphone_dl_bg4.jpg": {
+			"md5": "d528fe84ace4e400b5d6ecbcb2c74b6d"
+		},
+		"res/course/1_3.png": {
+			"md5": "24e613306413f22640cfd267c23a5977"
+		},
+		"res/class_ranklist/class_ranklist_1.png": {
+			"md5": "704d0fcb8577ffa5640e3aa33ba76ac0"
+		},
+		"res/spritbg/front_choice_bg.png": {
+			"md5": "a9beed77a6257151470665c04f47902a"
+		},
+		"res/honor/saveimgs.png": {
+			"md5": "0c0e2471e8d5ceb8b4ef36f225f1ae05"
+		},
+		"res/class_ranklist/btn_last_saiji_ranklist.png": {
+			"md5": "35643bba1bcd571bc6f28d1ffc60c7be"
+		},
+		"res/mp3/notmal/n3.mp3": {
+			"md5": "67e364ec2392fb1e96ba16ee50c4a693"
+		},
+		"src/common/StudioConst.jsc": {
+			"md5": "4e5fd619d71a9b92947804f3d000909c"
+		},
+		"src/component/ShowmsgKuang.jsc": {
+			"md5": "288d03c95135b285511267e38693a4d6"
+		},
+		"res/course/huiben.png": {
+			"md5": "02395259c348f94aca9278589d092723"
+		},
+		"res/ranklist/ranklist_day_btn.png": {
+			"md5": "8a0c333765b70b774d28345040268868"
+		},
+		"res/honor_result/dkqd.png": {
+			"md5": "d6e9ff52a046a23fe7bfaca9ceaade0c"
+		},
+		"res/Ziphone_HallScene.json": {
+			"md5": "3b1275968960bf74a58e57ad6558b182"
+		},
+		"res/class/progress_point.png": {
+			"md5": "8624746bb98adee0af2c72ec104d6cf9"
+		},
+		"res/honor_1/lryzshz.png": {
+			"md5": "1e67d4b8f74d000b4d105b5b79016318"
+		},
+		"res/class/season_no_participate.png": {
+			"md5": "778df1462d2afc6467006ad44efab43e"
+		},
+		"res/conclude/all_score.png": {
+			"md5": "efc16854626e16b8a12330165efcdfdb"
+		},
+		"res/team/teamsdaystarget/daysgrapline.png": {
+			"md5": "f2870d816a90a4b9394b75a9f06605c8"
+		},
+		"res/head_img_set/img_head15.png": {
+			"md5": "501677d7e217801d9740de5b32e1e44d"
+		},
+		"res/spritLevel/beginner_item_title.png": {
+			"md5": "e9ab92259816d1c074b0837a9a49f15e"
+		},
+		"res/honor_1/all_class_paiming_award_level3.png": {
+			"md5": "a3446e9dc3a1e100214005a583bc3565"
+		},
+		"res/ranklist/the_first_show.png": {
+			"md5": "564e8a213a3afbf8f354da423da2e341"
+		},
+		"res/button_asy/btn_last.png": {
+			"md5": "68e9280ff5902224060a20eca0c4437f"
+		},
+		"res/honor_2/cgbw.png": {
+			"md5": "028567601d6dc42d5d4c6bd8dc1e0ccf"
+		},
+		"res/spritMiddle/bg_sea_theme_5.jpg": {
+			"md5": "3fef83619968196158feec0a486b56e9"
+		},
+		"res/spritMiddle/btn_jieci3_spirit_icon.png": {
+			"md5": "5ab2490709e3ae8a40e939ae4abe4b17"
+		},
+		"res/team/teamgetreward.png": {
+			"md5": "a4f8ef773730a3b0a87966b1f2155c16"
+		},
+		"res/head_img_set/huangguang.png": {
+			"md5": "3cb30eeac5493160f3722dba6a5d6348"
+		},
+		"res/honor_2/ryzh.png": {
+			"md5": "92059516bbf1cf54461863d4d236c979"
+		},
+		"res/honor_1/syzdshz.png": {
+			"md5": "d831f17072d6b8498adc6509f735a477"
+		},
+		"res/spritMiddle/btn_chenshuju2_spirit_icon.png": {
+			"md5": "187e59335e55d8267151d876e49fd48b"
+		},
+		"src/controller/Story96Controller.jsc": {
+			"md5": "524cd3794443a7ad0bacb528d9928358"
+		},
+		"res/honor_result/ywtlshz.png": {
+			"md5": "1e95df758e6d129c7e375099d909eb25"
+		},
+		"res/class_award/award_head_image.png": {
+			"md5": "9a5b5682a6422e768792d62fa4fb5ae0"
+		},
+		"res/honor_1/cgwz.png": {
+			"md5": "11aa42a59c34afe43c1a5f201a473ae7"
+		},
+		"res/scoreRecord/btn_monthScore_1.png": {
+			"md5": "837617042fe9e2211e2a4c5ecc9161b5"
+		},
+		"res/class_award/tstxk2.png": {
+			"md5": "b0c6823e82fbb178bd382880396a4154"
+		},
+		"res/ranklist/me_ranklist.png": {
+			"md5": "71ae394c8093d21942681f7186c7a6b9"
+		},
+		"src/team/TeamsHelpLayer.jsc": {
+			"md5": "3e70c67b42fc28e58e79df5f882a7e81"
+		},
+		"res/head_img_set/tstx1_1.png": {
+			"md5": "880072135446d07836a642723dc26776"
+		},
+		"res/Ziphone_StoryShowLayer.json": {
+			"md5": "8f3a38c2cdec3acfa01d17d50b71d43d"
+		},
+		"res/honor/honor_user_bg.png": {
+			"md5": "74b0212f64056ceecbc21e6d20c3de72"
+		},
+		"src/component/HuizhangLayer.jsc": {
+			"md5": "3c809ee43c6eac9692bb953ff15f720d"
+		},
+		"res/honor_1/wdzyshz.png": {
+			"md5": "16c04900b16d17384befa195246fe426"
+		},
+		"res/head_img_set/tstx4.png": {
+			"md5": "ee459a6c7e668822dd7410356a522dbb"
+		},
+		"res/ranklist/me_ranklist_bg.png": {
+			"md5": "7b233b1b9f49ea1023370e5c078819fc"
+		},
+		"res/honorland/award_name_bg.png": {
+			"md5": "337fabd1588845c9ad45d76497299207"
+		},
+		"res/junior/spirit_status_1_1_7.png": {
+			"md5": "91ed30708bd5111af2be6254cb5ff80b"
+		},
+		"res/common/btn_shared_result.png": {
+			"md5": "dd6d1fc0c24f8ec78a70046e71d3252e"
+		},
+		"res/honor_result/hjstshz.png": {
+			"md5": "d936310b4349fb14a1d6550fac069d47"
+		},
+		"res/course/2_3.png": {
+			"md5": "5113f693dbbe89a38efcdb996a1397f0"
+		},
+		"res/Ziphone_UserInfoLayer.json": {
+			"md5": "d2abcb8cc233632ffa311c6340d94f02"
+		},
+		"src/view/HallView.jsc": {
+			"md5": "814caa91ce853043220ef88cfbfd3be7"
+		},
+		"res/leaveMsg/bq9.png": {
+			"md5": "0e03a1db54d433212fa9f456da37ce85"
+		},
+		"res/honor_result/cjwz.png": {
+			"md5": "aeefbf486e686f113f8987a1a7d95d89"
+		},
+		"src/component/StudyRecordList.jsc": {
+			"md5": "d2213da30c2f5d49d8b8f4454613d785"
+		},
+		"res/friend/myFriendBg.png": {
+			"md5": "cdf2643937b4a257c478950f31147db3"
+		},
+		"res/friend/imgHead3.png": {
+			"md5": "0ef2c6de7a88657371a3c63dfd8b5731"
+		},
+		"res/ranklist/btn_right_show.png": {
+			"md5": "dff63c533b7f7eadcee9a9fd77a89b6f"
+		},
+		"res/team/beingenterteam/bg333333.png": {
+			"md5": "e03b6bb8a282a451cfc1da8095b37c03"
+		},
+		"res/login/btn_reg1.png": {
+			"md5": "ba5c28aebd17bbdcf1b1efdf1f38cd29"
+		},
+		"res/kingtitle/kingtitle15.png": {
+			"md5": "01f2d0e8934e4620fa78c0078c1a3bbb"
+		},
+		"res/ranklist/btn_yesterday_rank_close.png": {
+			"md5": "401a80f884cd0a63a1a6a68ad7d80e98"
+		},
+		"res/honor/time_up_normal.png": {
+			"md5": "68654a5e632c1c05393725769f0284a5"
+		},
+		"res/continueFee/btn_continueFee.png": {
+			"md5": "802790f9df750f415502be7d17850db0"
+		},
+		"res/friend/addFriendIcon_0.png": {
+			"md5": "b9b2229d574c1d997c97c5b4eda88582"
+		},
+		"res/huizhang/kingtitle8_bg.png": {
+			"md5": "a5372969950294a2dedb2207c872fce5"
+		},
+		"res/Ziphone_YesterDayRankLayer.json": {
+			"md5": "4275e0644c31f0b6af2aacc22ced99fc"
+		},
+		"res/honorland_asy/award_card_1.png": {
+			"md5": "c66930c9aedf367b7af31a18d03dd64c"
+		},
+		"res/Ziphone_Story96Scene.json": {
+			"md5": "b9eaccd4c8ad2077b7d0147685e8a375"
+		},
+		"src/component/AboutAwardLayer.jsc": {
+			"md5": "d560d81355127124d9de81e12e491a30"
+		},
+		"res/agreement/dasiDataFrame.png": {
+			"md5": "80fda9f222480e405021e19a1b350390"
+		},
+		"res/class/kettle_ani.png": {
+			"md5": "98cd7c5a981117e237c09bb3f95e0496"
+		},
+		"res/class/levelTxt_12.png": {
+			"md5": "44ee85c540b1a23da4b4ed450a134cc5"
+		},
+		"res/class/levelTxt_1.png": {
+			"md5": "2508e590182f6bcd40481385f553e636"
+		},
+		"res/honor_result/wlzwshz.png": {
+			"md5": "c837223760b0110aaa4596eca3fe262e"
+		},
+		"res/class_award/class_award_submit.png": {
+			"md5": "5a83b7c8fcd03d71b416afaa3fb7ff6c"
+		},
+		"src/team/TeamIsStandardLayer.jsc": {
+			"md5": "63588da20a8c052285769d044194c107"
+		},
+		"res/spritbg/father_son_bg.jpg": {
+			"md5": "1bf473d7f92f7224196609e2f19b94ed"
+		},
+		"src/component/LoginLayer.jsc": {
+			"md5": "86ab31afedec10947fefe3deb1f9a87c"
+		},
+		"res/course/2_1.png": {
+			"md5": "6a07d56e9d64c896a9c49c7fcc59d546"
+		},
+		"res/honor_result/group_rank_4.png": {
+			"md5": "d121a1630bbb1d3ca14971365f16fdf0"
+		},
+		"res/ggao/g1.png": {
+			"md5": "6cf1596e2a928e4e7c01a9f9e35ccb7d"
+		},
+		"res/class_award/all_class_paiming_tsxz1.png": {
+			"md5": "27f7b3b85e756a6ce63cc2b0d842708a"
+		},
+		"res/honor_1/cgqb.png": {
+			"md5": "415bd31359c6390e1fbfa5743777c48f"
+		},
+		"res/honorland/welcome_bg.png": {
+			"md5": "21376da216f2aaffba0fdf76a72a888c"
+		},
+		"res/honor_result/ygcbshz.png": {
+			"md5": "7f83ed9a6fbded182f8ebe6a733bc21b"
+		},
+		"res/honor/img_award_show_2.png": {
+			"md5": "04f3f55555d71258854a3926835d0ba2"
+		},
+		"res/Ziphone_WebViewLayer.json": {
+			"md5": "cabaa3c09b645958ccfbddcbd5f9df94"
+		},
+		"res/friend/offline.png": {
+			"md5": "0a20fc3a8179f5a08f1f61f05b035739"
+		},
+		"res/button/btn_last.png": {
+			"md5": "68e9280ff5902224060a20eca0c4437f"
+		},
+		"res/favicon-1.ico": {
+			"md5": "6294eca3e1b7668dd620eeb7ad30a9de"
+		},
+		"src/component/ShowGainLayer.jsc": {
+			"md5": "2ef41732b877288932a4b8fff49e1b2b"
+		},
+		"res/head_img_set/img_head21.png": {
+			"md5": "f8ffae631485a28df981a19e3a122500"
+		},
+		"res/honorland_asy/award_card_3.png": {
+			"md5": "6a0c1af0d15b3701b1e8f5eb78b6407a"
+		},
+		"res/course/2_1_hide_strong.png": {
+			"md5": "408709d0faa78c48720ba5a4deb0e547"
+		},
+		"src/component/PictureBookLayer.jsc": {
+			"md5": "904c0b94d7804c61353d1cfc00c22e07"
+		},
+		"res/plist/anims1.plist": {
+			"md5": "ef31e75d2628fde3239efdd26f418da9"
+		},
+		"res/Ziphone_LearnScene.json": {
+			"md5": "002362cb283ffb8337aa583ad269b053"
+		},
+		"res/spritMiddle/jieci2_spirit_text.png": {
+			"md5": "583479cae0780b3731711aeb1e5dd2a4"
+		},
+		"res/honor_result/group_rank_6.png": {
+			"md5": "4969ea3dcf8f0479b0251e14cbbaa893"
+		},
+		"res/huizhang/huizhang14.png": {
+			"md5": "3a50c2dc7ea7fbac94ce9bc2991a085b"
+		},
+		"res/class_task/task_left_float.png": {
+			"md5": "ae3fc85bcdad8183c499fb5afee06d8b"
+		},
+		"res/team/teamsassistancetask/assistancegrap.png": {
+			"md5": "327000e79a3b54f15cc20ca56753b602"
+		},
+		"res/honor/honor_bg.png": {
+			"md5": "06be5fc6817f7eb4ffce265c3c58d160"
+		},
+		"res/huizhang/kingtitle6.png": {
+			"md5": "492fbb7df749856adfebf37eea4a49f8"
+		},
+		"res/ggao/ggao_bg.png": {
+			"md5": "07f17391936f503251ddd179ec17d250"
+		},
+		"res/kingtitle/kingtitle6.png": {
+			"md5": "492fbb7df749856adfebf37eea4a49f8"
+		},
+		"res/honorland_asy/award_cup_1.png": {
+			"md5": "4da6b8088e91d6603fad34c09519ee29"
+		},
+		"res/button/btn_normal.png": {
+			"md5": "275f94dfee66239f37a0393ba4de0b6a"
+		},
+		"res/class/season_participated.png": {
+			"md5": "2dd221f7af1b437667bed4368598e1c9"
+		},
+		"res/team/teamsassistancetask/assistancetip.png": {
+			"md5": "00f5e6f75fe3c9bbc904615fc615017f"
+		},
+		"res/userinfo/user_info.png": {
+			"md5": "51dcad2c7ee4b7a5a786ff4ed07254ec"
+		},
+		"res/head_img_set/img_head18.png": {
+			"md5": "e5066701511783fd4bed9a03024d7ee4"
+		},
+		"res/class_task/btnjvjue.png": {
+			"md5": "b11712bb67b0813ae9d5e986c2b06ea9"
+		},
+		"res/team/teamsdaystarget/daystargetnotcomplete.png": {
+			"md5": "9067e5455aa9cb579fc69d96ae8e576d"
+		},
+		"res/Ziphone_DownLoadLayer.json": {
+			"md5": "6fd38bd5f39b233da224a075696fa65b"
+		},
+		"res/spritbg/bukejianmingci_spirit_text.png": {
+			"md5": "dbaf49d4914294ab795a83465c432a20"
+		},
+		"res/spritMiddle/btn_teshuyiwenju3_spirit_icon.png": {
+			"md5": "c8cd8f1e4a9fe526946b4130a0de5e05"
+		},
+		"res/friend/myFriendBtn.png": {
+			"md5": "5886e4d047b30706d823068292073998"
+		},
+		"res/spritMiddle/dongci3_spirit_text.png": {
+			"md5": "49e36aa1a02ecfe40fb4344b807d0ace"
+		},
+		"res/spritbg/btn_jieci_spirit_icon.png": {
+			"md5": "6acedb1669ff1cdefc7d378d71c5a62b"
+		},
+		"res/test_study/test_study_1.png": {
+			"md5": "b912fb5c251840abc109e0321734e1b6"
+		},
+		"res/spritMiddle/bg_sea_theme_8.jpg": {
+			"md5": "273d0b16464653518d95dcab6d3b537f"
+		},
+		"res/common/lineset_bg.png": {
+			"md5": "2b42ac95f5c5bd7141356fc405ad71a1"
+		},
+		"res/login/classlist_btn.png": {
+			"md5": "ecbc330a82a89d1fd420595a2cd9e328"
+		},
+		"res/spritMiddle/btn_cifa2_spirit_icon.png": {
+			"md5": "31be2877cf0f3220b02d2ef7ed13ca01"
+		},
+		"res/spritbg/btn_bukejianmingci_spirit_icon.png": {
+			"md5": "80f6a23cefae0f958bfb4ace7732c0df"
+		},
+		"res/head_img_set/btn_left.png": {
+			"md5": "b2c4c2bbdf9dbc8010bbdbc8734fe163"
+		},
+		"res/intermediate/spirit_status_2_2_4.png": {
+			"md5": "e81c31dae8cfd137a90e50aa1b272096"
+		},
+		"src/component/ClassAwardLayer.jsc": {
+			"md5": "9c7be3874ee44d06e5603c4fa012c546"
+		},
+		"res/spritMiddle/huihuasp1_spirit_text.png": {
+			"md5": "5f1575b0bde0c501c8edfd31bb35385b"
+		},
+		"res/spritMiddle/dongci1_spirit_text.png": {
+			"md5": "5fa4f20adf27c95f26332cc518471339"
+		},
+		"res/huizhang/kingtitle10.png": {
+			"md5": "6c03ef0ef431f139a2913c6431b816fb"
+		},
+		"res/class/levelTxt_8.png": {
+			"md5": "7c633002108d9f09f1544978f11c5743"
+		},
+		"res/hall/locked.png": {
+			"md5": "471912934284d44aceee729c9523dbc1"
+		},
+		"res/head_img_set/head_img_cmt.png": {
+			"md5": "5f891d3f236d3772884b96f65f411423"
+		},
+		"res/honor_1/cgxyx.png": {
+			"md5": "e2f5e7f0c1fb7019e867ec0f35da9a18"
+		},
+		"res/honor_2/all_class_paiming_award_level3.png": {
+			"md5": "1bc98a12fac92b05726af241564309dc"
+		},
+		"res/huizhang/kingtitle1_bg.png": {
+			"md5": "b273a3381a41edeb6a531074cdd4c062"
+		},
+		"res/honor_1/ywtlshz.png": {
+			"md5": "ddd3d5d6c7a94f6395dbceb91d9f2f69"
+		},
+		"src/controller/LearnController.jsc": {
+			"md5": "343512522c46271e23a2c75fe21d1a91"
+		},
+		"res/class_award/tstx3.png": {
+			"md5": "3441166caf878c4336797555ad5f2803"
+		},
+		"res/Ziphone_SeasonLayer.json": {
+			"md5": "ed0f054960c72e08ff3b6421f6d6e38e"
+		},
+		"res/class/userHead_adornment.png": {
+			"md5": "79045d5ac216a3da6474d865985b16f1"
+		},
+		"res/hot/4g_bg.png": {
+			"md5": "9eaa2821da07c94072074abf1976ec46"
+		},
+		"res/login_asy/btn_reg1.png": {
+			"md5": "f271c2fb669beb91bededf9ab63c2e47"
+		},
+		"res/class_award/tsjz.png": {
+			"md5": "f6089805ce5b186b531f967e7d538e1e"
+		},
+		"res/honorland/award_cup_edit.png": {
+			"md5": "8d57a1ba31af66f96df5e31f3308be8f"
+		},
+		"res/agreement/setUpFrame.png": {
+			"md5": "9f509d31a7fe7397820bbb8223dff13f"
+		},
+		"res/Ziphone_ClassHelperLayer.json": {
+			"md5": "a2fcca931e70b293ef09b807d2d7df84"
+		},
+		"res/login/login_bg1.png": {
+			"md5": "98da42d2bdb8f3776530467e85261a11"
+		},
+		"res/class_ranklist/btncheck.png": {
+			"md5": "9c47390b8a0e8e7ad7db8b0de14cf0c3"
+		},
+		"res/team/daystargetbtn_1.png": {
+			"md5": "bca0ba5aff1214c9f33c20e27eb9d60f"
+		},
+		"src/component/WebViewLayer.jsc": {
+			"md5": "5f09815c82fa2b729021a103f1108385"
+		},
+		"res/huizhangview/huizhangdirect.png": {
+			"md5": "729a832a4249bc24c782d620cec307b5"
+		},
+		"res/userinfo/continue_study.png": {
+			"md5": "79229b1843cde13cbec194e6f73705de"
+		},
+		"res/spritMiddle/btn_xingrongci3_spirit_icon.png": {
+			"md5": "5f6e89687ee76abfc12fa92a127d6282"
+		},
+		"res/test_study/f_son.png": {
+			"md5": "07741771dcec1acd075ba1c7faaa8342"
+		},
+		"res/friend/imgHead4.png": {
+			"md5": "bcfba9600d8326155fc63f409eeb4238"
+		},
+		"res/leaveMsg/btn_text_click.png": {
+			"md5": "9b8ff39e76aa26222649e087264234e4"
+		},
+		"res/class_task/task_xiezhu_bg.png": {
+			"md5": "23686b2d099d2db7831a9d8192cd5173"
+		},
+		"res/spritMiddle/daici3_spirit_text.png": {
+			"md5": "700bf561e6b31aa72d28385cf0ed69b7"
+		},
+		"res/spritMiddle/btn_mingci1_spirit_icon.png": {
+			"md5": "70691f90a384a78c7bfd04cd0efa05cb"
+		},
+		"res/class_ranklist/randbg.png": {
+			"md5": "efb6aef0eb93e2957065dfc137826671"
+		},
+		"res/classinfo/qr_failed.png": {
+			"md5": "5c2c64eb1c3a6ee3bdb1c735cc9dcf6c"
+		},
+		"res/spritMiddle/mingci2_spirit_text.png": {
+			"md5": "73b73bed55fe6ef09665fcf4c08e17f2"
+		},
+		"res/huizhang/kingtitle2.png": {
+			"md5": "c02bad33a06a90fd4a4992829bc30b04"
+		},
+		"res/intermediate/spirit_status_2_1_0.png": {
+			"md5": "06eb2d64d8ea905c49073a43d49b92dd"
+		},
+		"res/team/teamsassistancetask/assistancedirect2.png": {
+			"md5": "df6a148d6dac042425d6c42073b1e2f8"
+		},
+		"res/agreement/agreementFrame.png": {
+			"md5": "671f6905ac4a6d80537f7e1a40246a35"
+		},
+		"src/controller/HallController.jsc": {
+			"md5": "9ac605f4487317fe9f0d9c0de4e0dfb8"
+		},
+		"res/userinfo/continue_study2.png": {
+			"md5": "96bbc30adb6e530577ca10ce540f7a34"
+		},
+		"res/shared_vedio/btn_shared_vedio_click.png": {
+			"md5": "8f711b821572473f90bc93cdafcda005"
+		},
+		"res/update_check/sp_update.png": {
+			"md5": "9b6d9b1feab2ff4ca122d09064c085a3"
+		},
+		"res/honor_2/dfwz.png": {
+			"md5": "9b54c979bf3468c37b5ff95c53a1079a"
+		},
+		"res/class/honorTree.png": {
+			"md5": "5e129f2ace5edc467a05b82f793324b2"
+		},
+		"res/spritbg/finish_img.png": {
+			"md5": "3301d6b3f74bf19b57a0a3c255a711a0"
+		},
+		"res/course/2_4.png": {
+			"md5": "68373bb301cb3a51d26a0366711b5a37"
+		},
+		"src/common/G_URL.jsc": {
+			"md5": "59aa850c1d84f0614651975e38abf2b6"
+		},
+		"res/friend/addFriendRightImg.png": {
+			"md5": "05217214d050543eb543ea883d5042e9"
+		},
+		"res/junior/spirit_status_1_2_0.png": {
+			"md5": "0f713ad39dbc56579de423cb671796a1"
+		},
+		"res/unlock_sps/xingrongci.png": {
+			"md5": "be9b53a1d2c7bf678f9aa5229383c379"
+		},
+		"res/class_award/tstx2_0.png": {
+			"md5": "2cc38383840ea980f1d3fb9c35cd1815"
+		},
+		"res/huizhang/huizhang11.png": {
+			"md5": "eed07fd3b8071d813aa4569914869f91"
+		},
+		"res/unlock_sps/sbxz.png": {
+			"md5": "b07d3467eb1f8095fbdcd50626f90be7"
+		},
+		"res/junior/spirit_status_1_2_2.png": {
+			"md5": "1003bba9743587840d0b8efd1046e78f"
+		},
+		"res/honor_2/kxwz.png": {
+			"md5": "03fa89b5476ce257bccabc0743e48d53"
+		},
+		"res/common/yaoqingyoujiang_bg.png": {
+			"md5": "9f336115c5670da14f025f24b4712649"
+		},
+		"res/spritbg/none_img.png": {
+			"md5": "b543217b46139a647eb8c47e2a7dda7e"
+		},
+		"res/Ziphone_ShareWXLayer.json": {
+			"md5": "752a68214e9740b1d9285b9e44c1f4c0"
+		},
+		"res/common_asy/title.png": {
+			"md5": "413dbbe0de272351d04aa3e6c2104c94"
+		},
+		"res/class/tree_2.png": {
+			"md5": "a2766e811b9d14c02adc72cac3eb7059"
+		},
+		"res/update_check/load_bg.png": {
+			"md5": "52723dbe987b6e905694a95c78d75d67"
+		},
+		"res/head_img_set/img_head49.png": {
+			"md5": "3930bcbe42c111ae3dd9b0ff48284328"
+		},
+		"src/component/ShareWXLayer.jsc": {
+			"md5": "61805c031c6753f08974dc4bc46c5a9c"
+		},
+		"res/conclude/back_hall.png": {
+			"md5": "35a6a0b76a2221dfcebce7d8c0c285fa"
+		},
+		"res/class_task/btn_class_task_close.png": {
+			"md5": "e666f86c67b4e3f4297192246c2cc4d0"
+		},
+		"res/intermediate/spirit_status_2_2_1.png": {
+			"md5": "f1cf386f385b3cc7dd820cadeb5c5e5b"
+		},
+		"res/honor_result/get_award.png": {
+			"md5": "c20264a48a59d9333300801e2e80f69f"
+		},
+		"res/huizhangview/huangguangtitle.png": {
+			"md5": "1aed6576ff7402689f3ce87ad38c0b7a"
+		},
+		"res/head_img_set/img_head27.png": {
+			"md5": "bfeab5916975471292957c054e895175"
+		},
+		"res/head_img_set/img_head9.png": {
+			"md5": "37f01a0a290239e0da11833e18bdee12"
+		},
+		"res/plist/sp_anims.png": {
+			"md5": "39453644a5ebce6f031b29d3700511f5"
+		},
+		"src/component/FriendInfoLayer.jsc": {
+			"md5": "424792f25e5d0cc096c5d50e74b3ad21"
+		},
+		"res/learn/learn_loadbg.png": {
+			"md5": "c1e80b353df310eae374b77909c88892"
+		},
+		"res/honor_2/tsjz.png": {
+			"md5": "9df05198f825a832b00b0f8a9638ad3c"
+		},
+		"res/team/teamsranks/ranklistitem.png": {
+			"md5": "3f0877ed6b5e0114a63d48f1b38fd8df"
+		},
+		"res/font/zk.ttf": {
+			"md5": "0aceab97af2cd21dc57f76aceb1b1722"
+		},
+		"res/class_award/class_award_silver.png": {
+			"md5": "0254379b19c29ee5baedf43f21d1eaa8"
+		},
+		"res/spritMiddle/bg_sea_theme_7.jpg": {
+			"md5": "ab93d218eaf603c4c23e7ac173f28cc0"
+		},
+		"res/spritMiddle/teshuyiwenju3_spirit_text.png": {
+			"md5": "890998dee469771d0d1461e16163a70e"
+		},
+		"res/spritbg/bg_forest_theme_7.jpg": {
+			"md5": "ea7295eed284ca7745f67f16dbf4c655"
+		},
+		"res/spritMiddle/bg_sea_theme_13.jpg": {
+			"md5": "56d9ffb73db02e81d7dd0b40cc088e82"
+		},
+		"res/class_task/inviteallbg.png": {
+			"md5": "2019e5815f05e354084e87dcac6f18f5"
+		},
+		"res/Ziphone_SpritIsLandScene.json": {
+			"md5": "11d74750dbddc9115a9e5bd94ea26bec"
+		},
+		"res/Ziphone_SHLayer.json": {
+			"md5": "4be8eb152fbe7f16d7e5e57c1133de96"
+		},
+		"res/spritMiddle/yibanyiwenju3_spirit_text.png": {
+			"md5": "5a1afcc14755d4b473c772e5029121ca"
+		},
+		"res/honor_2/dfqx.png": {
+			"md5": "259463a2f128dd8a5cd404e99470d426"
+		},
+		"res/honorland/btn_honor_dianzan.png": {
+			"md5": "1e6d014543002e6be4b8e36d10053617"
+		},
+		"res/Ziphone_LeaveMsgLayer.json": {
+			"md5": "4f3a228f50b9bbe4268ab203e7884c3c"
+		},
+		"src/controller/IndexController.jsc": {
+			"md5": "eb7fb4d715e78d3caaeefb15c808c758"
+		},
+		"res/honor_result/lzcbshz.png": {
+			"md5": "be27608cd30b8efc3c3ae948ed2f4d39"
+		},
+		"res/spritMiddle/btn_shuci2_spirit_icon.png": {
+			"md5": "fa7af32eb3314e6d3a0745f95cf952ba"
+		},
+		"res/ggao/g2.png": {
+			"md5": "ec8c641703e8cbfb7dc72f18acc10336"
+		},
+		"res/team/invateotherenterteam/activity.png": {
+			"md5": "857272968d0f406e65a2f46b357522fd"
+		},
+		"res/huizhang/kingtitle8.png": {
+			"md5": "360e33809ca551d8ba0cf08a0e31ec7a"
+		},
+		"res/spritMiddle/btn_duanyu3_spirit_icon.png": {
+			"md5": "e16d90485d561cffb8dbfb37d9b59801"
+		},
+		"res/honor_2/syzdshz.png": {
+			"md5": "717225cd2cad6b3e3a34e7bbd54ce2fe"
+		},
+		"res/spritMiddle/shuci1_spirit_text.png": {
+			"md5": "dc5989059b1e72dad2af32b80d15632b"
+		},
+		"res/friend/confirmBtn.png": {
+			"md5": "ae9a0946bb6fac4b849d0aa11c74e71a"
+		},
+		"res/Ziphone_huizhangGetStarLayer.json": {
+			"md5": "a9bd67d8571d743c5dc0ab2c30de3b81"
+		},
+		"res/junior/spirit_status_1_3_5.png": {
+			"md5": "25be018c64a0304bd75b54ffb404f3a5"
+		},
+		"src/component/ShDesLayer.jsc": {
+			"md5": "b50a0d4aed2acae85dfe887deec0e7dd"
+		},
+		"res/head_img_set/head_img_bg.png": {
+			"md5": "a1c6eb63942d6da93348d811a0d54711"
+		},
+		"res/button_asy/back_hall.png": {
+			"md5": "f4d92b71503e13720930b6dfd68d535c"
+		},
+		"res/team/tolearn.png": {
+			"md5": "fc23171a5c3e382479478e643af869ae"
+		},
+		"res/mp3/zhangsheng.mp3": {
+			"md5": "293f95192033c19e3b54fd396cc01f82"
+		},
+		"res/spritbg/btn_jinjiedongci_spirit_icon.png": {
+			"md5": "abf3e1950c7ddacae839cc6fbe34f1b0"
+		},
+		"res/head_img_set/btn_headbg_choose_pre.png": {
+			"md5": "cb232e1d51e94232b470f12679a7361c"
+		},
+		"res/spritMiddle/btn_dongci3_spirit_icon.png": {
+			"md5": "5a9a45ce1da712ca7ca4fc08a02613df"
+		},
+		"res/class_ranklist/class_ranklist_tap.png": {
+			"md5": "4c7e95b9d84ce41802adb592d60fba29"
+		},
+		"res/class/treeReward_3.png": {
+			"md5": "69ba97d6c0522d3f4fe6f1eb18b0665e"
+		},
+		"res/honor_2/smztshz.png": {
+			"md5": "9cf0dc1ec1c901d4b047f62d4f8c67d0"
+		},
+		"res/plist/anims1.png": {
+			"md5": "c53d86b3e20a1b2ddc68b4461216fc7b"
+		},
+		"res/Ziphone_StudyRecordList1.json": {
+			"md5": "81f8d45d7d0f7bbbcd34bfd7e57f856a"
+		},
+		"res/huizhangview/huizhangloading.png": {
+			"md5": "dcff7ff9ea596485bed030c67064c2f0"
+		},
+		"res/spritMiddle/yibanyiwenju1_spirit_text.png": {
+			"md5": "0f18b0533f32c74fa070cd27854fb42f"
+		},
+		"res/Ziphone_TeamIsStandardLayer.json": {
+			"md5": "5abdaaf4b6a59580af967e2df6bd1e8d"
+		},
+		"res/head_img_set/img_head2.png": {
+			"md5": "8333973ee002cc57366b83a4d46481ec"
+		},
+		"res/common/dasi_tips.png": {
+			"md5": "c8fe9f6bd5201c254ea415cdd0cf9f1e"
+		},
+		"res/head_img_set/img_head58.png": {
+			"md5": "8f1efbc1653b7b8ecb5520d18b168fd5"
+		},
+		"res/honor_1/llyzshz.png": {
+			"md5": "b4e427ac0b950cde7b8a673b22917d0d"
+		},
+		"res/honor_result/three_level.png": {
+			"md5": "b1794b08afe12b507ac03ef4cd92a75a"
+		},
+		"res/spritMiddle/btn_chenshuju1_spirit_icon.png": {
+			"md5": "0b377ddc18509523f65aa82c737e1b64"
+		},
+		"res/Ziphone_huizhangLayer.json": {
+			"md5": "6a42de3947465f735340990eca96b714"
+		},
+		"res/class_ranklist/class_ranklist_loading.png": {
+			"md5": "bbbe077e9893773cc2e7124c22266ca8"
+		},
+		"res/spritMiddle/btn_daici1_spirit_icon.png": {
+			"md5": "261dc60b3bdfa922675926800f61e8de"
+		},
+		"res/head_img_set/btn_sphead_choose.png": {
+			"md5": "27c9f70e4960b003ecc5f9e140c477f4"
+		},
+		"res/friend/progress_1.png": {
+			"md5": "02d26a4b9eabbf6fe699806afbf4a859"
+		},
+		"res/submit_wait/btn_submit.png": {
+			"md5": "fcd3645c851d99362ea4d265161b4aa9"
+		},
+		"res/unlock_sps/mingci.png": {
+			"md5": "08724b0a44cedfda9516b5030c406ed7"
+		},
+		"src/component/InviteTaskTongzhiLayer.jsc": {
+			"md5": "a7ee7bc8941ab1a1b886f207b27fda9f"
+		},
+		"res/huizhang/huizhang16.png": {
+			"md5": "4803537eac8ce2d8785413cf5996cc02"
+		},
+		"src/component/OtherClassLayer.jsc": {
+			"md5": "97c0043c4c5493c7995ec25e1b9075fe"
+		},
+		"res/honor_2/lryzshz.png": {
+			"md5": "c015faca921267786ea7a11b6cc58385"
+		},
+		"res/Ziphone_TeamenterRequest.json": {
+			"md5": "98dfd3c13bf583e9a1bdb7ad3defc1a6"
+		},
+		"res/team/teamsdaystarget/daystips.png": {
+			"md5": "48b8e14ffa2cd772154c99f6473b1393"
+		},
+		"res/honor_1/ryzh.png": {
+			"md5": "184c024e76c2634d38ea5dc38bb49b7e"
+		},
+		"res/friend/sp_3.png": {
+			"md5": "0903c8252b412c70d625ab441b7cf151"
+		},
+		"res/userinfo/user_head_bg.png": {
+			"md5": "5120414b91b10f372abd488dd5d42321"
+		},
+		"src/component/ShareWX.jsc": {
+			"md5": "ee74d30be2d0dec44ed62c0ec96a20cb"
+		},
+		"res/head_img_set/img_head35.png": {
+			"md5": "c45b31febd4ad345864ba5a5258dd698"
+		},
+		"res/team/classbtn_1.png": {
+			"md5": "cead9273ae36fe85e8077b219d8b30ff"
+		},
+		"res/update_check/btn_no_update.png": {
+			"md5": "c5e70ae31dd84464c9af19608a4077c6"
+		},
+		"res/honor_result/group_rank_3.png": {
+			"md5": "c20805d9a0c9ef413fd7d21fc10d584b"
+		},
+		"res/team/createteam/makesurecreatebtn.png": {
+			"md5": "c83ceb2b9849942a18a6a4c57b3ebb78"
+		},
+		"res/head_img_set/img_head17.png": {
+			"md5": "41cbc40a779705df1cc44e7f23e41fd8"
+		},
+		"res/Ziphone_TeamsHelpLayer.json": {
+			"md5": "6db082dd2a751cb6b1cbeefc48e8f134"
+		},
+		"res/honor_1/cgxjj.png": {
+			"md5": "42cde68be3819947061c3b183821abd7"
+		},
+		"res/scoreRecord/studyRecordUnit.png": {
+			"md5": "c152e95e5dc9707f64e535ed3233bec7"
+		},
+		"res/leaveMsg/leaveMsg_bq_l.png": {
+			"md5": "19793af3cce9eba5dcb144a66e3977a0"
+		},
+		"res/kingtitle/kingtitle14.png": {
+			"md5": "e1096db5fed2d0688815719be3ab49c6"
+		},
+		"res/course/3_4.png": {
+			"md5": "21072540c84c188e751c657f66b051d1"
+		},
+		"res/class/btn_rank.png": {
+			"md5": "915850a1985332c767dd0bf0079874bd"
+		},
+		"res/intermediate/spirit_status_2_1_2.png": {
+			"md5": "7022443d7923d036e98a7b1b12e90dd9"
+		},
+		"res/login_asy/forgetbtn.png": {
+			"md5": "1c2ac96f0b2cc54dd5a82953d3ca55d4"
+		},
+		"res/login/wx_login.png": {
+			"md5": "b9bf44d70acaf8abb70e82e792570b4a"
+		},
+		"src/team/TeamListLayer.jsc": {
+			"md5": "0ad3758b1a90cd8f0136172b304dfd42"
+		},
+		"res/spritMiddle/shuci2_spirit_text.png": {
+			"md5": "17ffed60fa7665a944b592923362004c"
+		},
+		"res/button_asy/btn_pre.png": {
+			"md5": "409270f388c232bc6b52eceb129c5684"
+		},
+		"res/head_img_set/img_head45.png": {
+			"md5": "cb87176cf3d54eeadd014df9e63f7233"
+		},
+		"res/course/btn_login.png": {
+			"md5": "b6cc06f6831709b0db24ae4badee78e9"
+		},
+		"res/head_img_set/img_head37.png": {
+			"md5": "b508813f57e5a8d7766bba7f423edab7"
+		},
+		"res/honor_1/all_class_paiming_award_level1.png": {
+			"md5": "abc93d998010940640611a0abf48496d"
+		},
+		"res/Ziphone_GGaoLayer.json": {
+			"md5": "cd3f637164c2c2dcb439da5e46f6d416"
+		},
+		"res/scoreRecord/report_11.png": {
+			"md5": "773dfb01f587f603138a2efa20184ee8"
+		},
+		"res/shared_vedio/shared_ka_day.png": {
+			"md5": "2d38e0014ab937377462cdf81e0663c8"
+		},
+		"res/Default/CheckBoxNode_Normal.png": {
+			"md5": "8f16a9b9b2605015c7c0a910b4129a9f"
+		},
+		"res/shareWX/shareBg.png": {
+			"md5": "45d1d08644b73d240556bdf21a254441"
+		},
+		"res/honor_1/zqwz.png": {
+			"md5": "b6f6a5c09eb40bbe4288d908e1398d2d"
+		},
+		"res/shared_vedio/shared_vedio_bg.png": {
+			"md5": "ce2148b7316364b9212bfed5cadbf3b3"
+		},
+		"src/common/FunctionsManager.jsc": {
+			"md5": "3a6850bc20eef1b83a3ef1410d3d2e30"
+		},
+		"res/Ziphone_TeamAgreeOtherInvateList.json": {
+			"md5": "19c2aa93912df0e89e012d59ae1dcd66"
+		},
+		"res/common/f_son.png": {
+			"md5": "1bdcedc58a6a7f31aee8385a0efefd8a"
+		},
+		"src/common/SceneManager.jsc": {
+			"md5": "35a17a6a9458438f858086c19c93f883"
+		},
+		"res/friend/inputBox.png": {
+			"md5": "f43c321100a45c30527fc0e63e95b61b"
+		},
+		"res/Ziphone_StudyRecordItemLayer1.json": {
+			"md5": "fbdac9cc755a53cba0a369f655385668"
+		},
+		"res/honor/img_award_show_1.png": {
+			"md5": "2f9a39b7a23eed3387ac5b19fb8ad428"
+		},
+		"res/unlock_sps/fathersong.png": {
+			"md5": "b6858ca868eee8c35487a9b9095a6abe"
+		},
+		"res/Ziphone_HonorLayer.json": {
+			"md5": "5e4e6bc4995e3f0ce568d603463010f5"
+		},
+		"res/unlock_sps/96story.png": {
+			"md5": "26aecf3e4a967a5dbdf6e4c208872a53"
+		},
+		"res/honorland/all_edit_award_bg.png": {
+			"md5": "79f624fdc84c112c89267d4b67519a9e"
+		},
+		"res/head_img_set/img_head43.png": {
+			"md5": "413ab28f02a2ec5c32a91a3756569332"
+		},
+		"res/team/enterteamplace/enterteamplaceagreebtn.png": {
+			"md5": "1275d0bca1cdce42f1aadc535b3a00a6"
+		},
+		"res/spritbg/shuci_spirit_text.png": {
+			"md5": "3dee8dbf819bcf90cd95cfb580e0cda8"
+		},
+		"res/team/teamsdaystarget/members.png": {
+			"md5": "1de883109c41de3a3257ec3b6583a888"
+		},
+		"res/honor_2/cgxxk.png": {
+			"md5": "71c49186e3fa42c37877fe4eb6fe476c"
+		},
+		"res/friend/imgHead2.png": {
+			"md5": "47ddee229f5622fcee2d96b86922bb94"
+		},
+		"res/spritMiddle/btn_dongci1_spirit_icon.png": {
+			"md5": "29561f5973ff6c6e5c89cbb372c698e9"
+		},
+		"res/honor_result/sun_effect_bg.png": {
+			"md5": "c40dae5ba26669fd67859b07f6ce26b9"
+		},
+		"res/login/reg_bg.png": {
+			"md5": "397d0c80afdda721fe085b1b7b726d10"
+		},
+		"res/honor_1/group_rank_6.png": {
+			"md5": "5a4a201a0c2f4bd67e58a2e5ed9f4727"
+		},
+		"res/learn/btn_learn_backHall.png": {
+			"md5": "c5fa4392902b8a1c13b0fb1ccd1ac2f4"
+		},
+		"res/head_img_set/img_head30.png": {
+			"md5": "984c2839352bf90ac68bc4138145395d"
+		},
+		"res/spritMiddle/fuci2_spirit_text.png": {
+			"md5": "c4a9a39082a049bc4f3f21c09a145152"
+		},
+		"src/common/ViewBaseLayer.jsc": {
+			"md5": "6ed727566364436ddeacdef7a47e50cd"
+		},
+		"res/honor_1/hjstshz.png": {
+			"md5": "39c508d632a42d5a3960327a82e21434"
+		},
+		"res/honor_1/wlzwshz.png": {
+			"md5": "90a8cb84179bfb569d1f4f4f4db23b88"
+		},
+		"res/class_award/zsjz1.png": {
+			"md5": "f6089805ce5b186b531f967e7d538e1e"
+		},
+		"res/friendfight/friendAcept.png": {
+			"md5": "24c5d1cfecb2ef0b3513f06a411de8bd"
+		},
+		"res/userinfo/userinfo_bg.png": {
+			"md5": "01b34977272e4c15745d89b09ff47d57"
+		},
+		"res/honor_2/group_rank_6.png": {
+			"md5": "2477178ab336dd8b3f2b1de646ac52f1"
+		},
+		"res/componment/btn_submit.png": {
+			"md5": "1199d0b2242936be8233ae64dec4980d"
+		},
+		"res/honor_1/lzcbshz.png": {
+			"md5": "88f44632e479317834de5744ae1c5b37"
+		},
+		"res/leaveMsg/bq3.png": {
+			"md5": "71672147095930cd34a42101c7e2e86b"
+		},
+		"res/class/Ziphone_honorIsland_enter.jpg": {
+			"md5": "17490c90a8e642f20030a9710ed82d47"
+		},
+		"res/test_study/test_sprite_1.png": {
+			"md5": "ce774f97ccbd3b11b6cc56072e364e89"
+		},
+		"res/class_ranklist/class_ranklist_close.png": {
+			"md5": "23abab3a2c3118ff9b2dd61a66eed373"
+		},
+		"res/class_task/btnjiaru.png": {
+			"md5": "15c9cd6dcc3a5ccc0fe63f67686d9789"
+		},
+		"res/spritbg/jinjiexiongrong_spirit_text.png": {
+			"md5": "317160d0e0d20dded9e13df234ce15c7"
+		},
+		"res/spritMiddle/learnBg.png": {
+			"md5": "bc3e17be4fab8c5dc1f6612087af7b67"
+		},
+		"res/honor_1/cqyx.png": {
+			"md5": "e7c5438e65e1b7ea258ea8fc196a412a"
+		},
+		"src/team/TeamsRewardLayer.jsc": {
+			"md5": "2fccb8a2ed1ea8a8c8acf7b30c79ad65"
+		},
+		"res/team/teamlist/headicon.png": {
+			"md5": "5ccf9310336a268ba43981bc3736f7f3"
+		},
+		"res/class/specialHead_2.png": {
+			"md5": "6c0a5f46a3935c90042a6500273fbabc"
+		},
+		"res/class_award/all_class_paiming_tsxz3.png": {
+			"md5": "f841e347282942a3f06ca3278f355cda"
+		},
+		"res/scoreRecord/btn_monthScore_0.png": {
+			"md5": "0ab8b1b94085a98251365a7b0e41f1fd"
+		},
+		"res/spritMiddle/dongci2_spirit_text.png": {
+			"md5": "96dff2394f44388e88783f7a020f7377"
+		},
+		"res/head_img_set/img_head_none.png": {
+			"md5": "8cd2e468dc016577983bae7062de2547"
+		},
+		"res/head_img_set/class_touxiang3.png": {
+			"md5": "1adc7e5c9c6c07d9ed33362faad554d2"
+		},
+		"res/unlock_sps/jinjiemingci.png": {
+			"md5": "5d8b7c114ae3c98ec3246df424a5d41e"
+		},
+		"res/class/levelTxt_7.png": {
+			"md5": "13300c534b20ccb3cde8a5bc563d62b5"
+		},
+		"res/huizhangview/huizhanggetstar.png": {
+			"md5": "7eeb6ea5897eb6fc0342d4f6caba14bf"
+		},
+		"res/class_award/zswz5.png": {
+			"md5": "2cd33d3b1b9873685da5c9dc360f6a1d"
+		},
+		"res/head_img_set/img_head20.png": {
+			"md5": "841e951aeb5dae4cc25647e538e6a6fa"
+		},
+		"res/team/beingenterteam/bejvjueanniu.png": {
+			"md5": "a46477ab906bb641d5108bfabe3b89b4"
+		},
+		"res/spritMiddle/btn_daici2_spirit_icon.png": {
+			"md5": "27594b083864e3c4d42f6705d9f63788"
+		},
+		"res/honor_result/cgxyx.png": {
+			"md5": "50279d09db8ea0be2546f3635e8eb991"
+		},
+		"res/leaveMsg/bq5.png": {
+			"md5": "b1daa29a511714e7c2cdfa3808813b49"
+		},
+		"res/classinfo/btn_userInfo_1.png": {
+			"md5": "cdacaa8ae7225ed269c9401cea2c38b8"
+		},
+		"res/honor_result/btn_honor_close.png": {
+			"md5": "538051130e96caa0f2add013b6563f63"
+		},
+		"res/leaveMsg/bq12.png": {
+			"md5": "6d984c01d95369a741f5fead7d80f37f"
+		},
+		"res/Ziphone_Fei.json": {
+			"md5": "4d8708b072f5455a782483bd34a796d8"
+		},
+		"res/junior/spirit_status_1_1_1.png": {
+			"md5": "7682530bc3e4ce3f204739fc93d1a75e"
+		},
+		"res/honor_1/all_class_paiming_award_level2.png": {
+			"md5": "f51bbec8d6ab6b58377dfe1b47c88c05"
+		},
+		"res/common/title.png": {
+			"md5": "d41f1a507b3c3aa281f70e802ea01beb"
+		},
+		"res/unlock_sps/llyz.png": {
+			"md5": "49afa7b391349e583d700893bc1b9df9"
+		},
+		"src/component/FriendLayer.jsc": {
+			"md5": "049e563d8966854a06a3ef971a51ddee"
+		},
+		"src/component/AllInviteTaskTongzhiLayer.jsc": {
+			"md5": "97fd9eec2e4f3c311b1a553c90cb6873"
+		},
+		"res/class/house0.png": {
+			"md5": "b04777804e105b564c5bf41339e63470"
+		},
+		"src/common/Constant.jsc": {
+			"md5": "189c5ae38cf6979a93007850ff1febc0"
+		},
+		"res/class/drop_ani.png": {
+			"md5": "240e6b624ff1bb4573f1033bdc315358"
+		},
+		"res/leaveMsg/btn_guli.png": {
+			"md5": "e09bdff60a88273b1e2e212aa083bf12"
+		},
+		"res/honor/time_up_select.png": {
+			"md5": "5b5e849e05f94db68c87c7d1a3e16364"
+		},
+		"res/submit_wait/chaoshi_bg.png": {
+			"md5": "469ba06e4c733c15c39cef556abc1750"
+		},
+		"res/honor_1/zfwz.png": {
+			"md5": "d80cc8985c62ace96b071096fc922b45"
+		},
+		"res/head_img_set/img_head26.png": {
+			"md5": "d2eb9e4ef15673bf52aade5db9c2bd63"
+		},
+		"res/class/bronze_medal.png": {
+			"md5": "ac24b3a9dde6e885285a7529780e97d1"
+		},
+		"src/component/EmailListLayer.jsc": {
+			"md5": "cfc00c3ca77f72a8b6a620477bd651c9"
+		},
+		"src/team/TeamAgreeOtherInvateList.jsc": {
+			"md5": "ff449514f76ceca9d9cc248432fc1fcf"
+		},
+		"res/common/leave_masage.png": {
+			"md5": "9b05fd670033d4d50b08d3de55b41d13"
+		},
+		"res/spritMiddle/duanyu2_spirit_text.png": {
+			"md5": "8974355afb27cd62fcfd1f58213a956e"
+		},
+		"res/Ziphone_HonorEnterLayer.json": {
+			"md5": "b21c47544edfaa76e4bfe6812e354381"
+		},
+		"res/class_task/task_comment.png": {
+			"md5": "f28436892fd558d015a03200cb3c2df8"
+		},
+		"res/login/wx_login_bg.png": {
+			"md5": "f9526f23de84b70bed396ff6882d00fe"
+		},
+		"res/class_task/btn_task_commit.png": {
+			"md5": "5fb604abad1306e307c0d64445085d24"
+		},
+		"res/common/share_frd.png": {
+			"md5": "1f99822f0f1d6cc341c7bc0a0e102af9"
+		},
+		"res/spritbg/bg_forest_theme_5.jpg": {
+			"md5": "2a2b0bb5545044aae293e8bd07b88491"
+		},
+		"res/common/dl_jdt.png": {
+			"md5": "3571dacccb068d003d4780b1453a5bcf"
+		},
+		"res/class/huizhang_hor.png": {
+			"md5": "da3d5e6b005abaa1a6c00c719022574a"
+		},
+		"res/honor/myHome.png": {
+			"md5": "017134283b81494e9b639635cf34513a"
+		},
+		"res/Default/Button_Press.png": {
+			"md5": "e34f7688676ea6f1fee5c9131e206811"
+		},
+		"res/class_award/zswz2.png": {
+			"md5": "20ba767f4fba15076a6a3ae4c214f639"
+		},
+		"src/component/FriendInputLayer.jsc": {
+			"md5": "7b6851399262120382e5b744cdc6cdda"
+		},
+		"res/plist/honor_anim.plist": {
+			"md5": "4b55b16222a0106cf16541d4fd7adaf7"
+		},
+		"res/button/btn_pre.png": {
+			"md5": "409270f388c232bc6b52eceb129c5684"
+		},
+		"res/Ziphone_MainScene.json": {
+			"md5": "22fff7d3be48094853a603fada022545"
+		},
+		"src/component/ProtocolLayer.jsc": {
+			"md5": "95a64351168169a6cee35c8c3c898a62"
+		},
+		"res/spritMiddle/middle_spritebg.jpg": {
+			"md5": "514b96487892b7b1a098b7ef733dc1fc"
+		},
+		"res/learn/frame.png": {
+			"md5": "5fea74ec4733d9cf0daa97875bed3784"
+		},
+		"res/kingtitle/kingtitle8.png": {
+			"md5": "360e33809ca551d8ba0cf08a0e31ec7a"
+		},
+		"res/spritMiddle/mingci3_spirit_text.png": {
+			"md5": "f674ab54128db20c52bc8a5feb953b20"
+		},
+		"res/friend/text_1.png": {
+			"md5": "c65e6510350d88e56de8bf90c912e258"
+		},
+		"res/head_img_set/img_head24.png": {
+			"md5": "159a07c560ec7cbc4f04715a0ca95951"
+		},
+		"res/head_img_set/img_head38.png": {
+			"md5": "43baf6b4ddfa0f232b3d71c160a2f540"
+		},
+		"res/honor_result/lryzshz.png": {
+			"md5": "a611ccb305dee6348f8e028d2e463330"
+		},
+		"res/learn/btn_continue_learm.png": {
+			"md5": "d694fd98c1d641aaa7e33d56f52c8cbe"
+		},
+		"res/head_img_set/appletx5_0.png": {
+			"md5": "80010b0880dfb893545a7c19f6f91810"
+		},
+		"res/scoreRecord/report_9.png": {
+			"md5": "6ac639647b222a65cee3d1761e1e0dd4"
+		},
+		"res/class_ranklist/randbg2.png": {
+			"md5": "7ff10cec2f9a4e189f37ff298dde5e45"
+		},
+		"res/common/listViewBar.png": {
+			"md5": "d50107d21afb19cbf3dcc244356daf04"
+		},
+		"res/spritMiddle/btn_duanyu1_spirit_icon.png": {
+			"md5": "64cfedfe876bf61326466af0f68a55cd"
+		},
+		"res/spritMiddle/duanyu1_spirit_text.png": {
+			"md5": "4d73ec39426cc0d8b44bae0ff7a2eed7"
+		},
+		"res/class_award/group_rank_3.png": {
+			"md5": "30a0c264f99f8da461c6882fd622094b"
+		},
+		"res/class_award/tstx3_1.png": {
+			"md5": "bf8c0cf2014071d4e48e95c74e94a1aa"
+		},
+		"res/spritbg/btn_mingcicifa_spirit_icon.png": {
+			"md5": "e71660eda656c2724e36ca4977fed9e6"
+		},
+		"res/userinfo/btn_publish.png": {
+			"md5": "a2319d3eaf61c137a08cb65e303cc415"
+		},
+		"res/hot/btn_open_wifi.png": {
+			"md5": "23ec9c752e8a9f42e8e66da4b70db127"
+		},
+		"res/spritbg/bg_forest_theme_2.jpg": {
+			"md5": "f2283673fa01cc1fb944165dc4c5c0db"
+		},
+		"src/component/LoadingLayer.jsc": {
+			"md5": "4458eae4052c12af64628ad400172832"
+		},
+		"res/conclude/audo.png": {
+			"md5": "29c1b511a8a8291df8ef1726a2ea8af4"
+		},
+		"res/honor_result/cgxjj.png": {
+			"md5": "2093aff5c8c0cd4dd209f04dfcdb999b"
+		},
+		"res/team/beingenterteam/jiarou.png": {
+			"md5": "be00312a7c1df825cf120a4b6686f93d"
+		},
+		"res/spritbg/fuci_spirit_text.png": {
+			"md5": "47a5f97f39263274d7f0752bcb50c85a"
+		},
+		"res/honor_result/cgwz.png": {
+			"md5": "4eed06dd9cf9157bf28d54d50adaee15"
+		},
+		"res/spritMiddle/pointer.png": {
+			"md5": "181594e8e0bcd878f553c4964c4db454"
+		},
+		"res/class_task/task_no_invited.png": {
+			"md5": "3ba3e50917f6d17ba526fe9464e4ad67"
+		},
+		"res/honor_1/group_rank_7.png": {
+			"md5": "19524e05829df1b4c13718cc2b0c8c05"
+		},
+		"res/spritMiddle/btn_duanyu2_spirit_icon.png": {
+			"md5": "40dd50bda64ebdbfca9681b0b5c6241c"
+		},
+		"res/honor_2/rywz.png": {
+			"md5": "0726a14acaaa8e7607d226ee52e5097d"
+		},
+		"res/friend/classPage.png": {
+			"md5": "d38702b8b75e867434c724de2f6ce37c"
+		},
+		"res/shareWX/wxFriend.png": {
+			"md5": "63c429a41ebaf8cd841286f8c95be96e"
+		},
+		"res/class/userlist_itemBg.png": {
+			"md5": "1ded26ca98201096c2e6c19ef3314841"
+		},
+		"res/agreement/dasiDataBtn.png": {
+			"md5": "7107bfd066b0eed1aaae00540c544ef4"
+		},
+		"res/team/teamlist/enterteambtn.png": {
+			"md5": "8e94e846e89a1fc16cb5edae342af455"
+		},
+		"res/Ziphone_ContinueFeeLayer.json": {
+			"md5": "86ce065497e843de4ea781815a8308d7"
+		},
+		"res/friend/basic_class_2.png": {
+			"md5": "a6ea0211926181c50e49d2df1c412d72"
+		},
+		"res/mp3/failed/f2.mp3": {
+			"md5": "a0e42918bf87ea597af8b0ed1432bda3"
+		},
+		"res/class_award/class_touxiang.png": {
+			"md5": "9a86da0f4d00f855173a083d28bf62d9"
+		},
+		"res/spritbg/father_son_text.png": {
+			"md5": "3aaa1e9fc5a80d57cfd03f8e00b92b08"
+		},
+		"res/conclude/failed_socre.png": {
+			"md5": "4a38fd4bd99fcf32c73a66a0553eddd4"
+		},
+		"res/honor_1/wzdf.png": {
+			"md5": "84384e488c8454148d035439956b6f33"
+		},
+		"res/class/tree_4.png": {
+			"md5": "1f821621a03ad9dbb57c880d7e97813d"
+		},
+		"res/scoreRecord/report_7.png": {
+			"md5": "090d032d945902e42fa94c8d2eafe795"
+		},
+		"res/class/gold_medal.png": {
+			"md5": "7b922b4e7ab1687584b5d80582c6a284"
+		},
+		"res/scoreRecord/btn_close.png": {
+			"md5": "64bbe9bfbed7691b6c70db484a552505"
+		},
+		"src/component/ExitPopupLayer.jsc": {
+			"md5": "a77f2ac205e5c4806422f4902cb5c72b"
+		},
+		"src/component/SpritLevelLayer.jsc": {
+			"md5": "e95b20a12f663e172f40a03153fe13c4"
+		},
+		"res/Ziphone_AboutAwardLayer.json": {
+			"md5": "074b80a3d611f9b0cf78402c3b365790"
+		},
+		"res/common/roomtype_choice.png": {
+			"md5": "f9df3b6e1a3c3d623a682a3a31a5062c"
+		},
+		"src/component/UnTaskXieZhuLayer.jsc": {
+			"md5": "23ae5e9b82190b6721a896eacad180ef"
+		},
+		"res/honor_1/group_rank_1.png": {
+			"md5": "f95aba367fcfe326732941a5773249bf"
+		},
+		"res/junior/spirit_status_1_1_5.png": {
+			"md5": "e0ed9c8965ba3eff3c333e7b04958b7f"
+		},
+		"res/class/levelTxt_3.png": {
+			"md5": "9a0ea16cf86c6c9bdc5ff742eedf32a1"
+		},
+		"res/honor/time_down_normal.png": {
+			"md5": "119a89533c0265043beead8583e5a94e"
+		},
+		"res/honor_2/all_class_paiming_award_level1.png": {
+			"md5": "6f3d07c36ee8c5cf828d3de935f9bc7c"
+		},
+		"src/app.jsc": {
+			"md5": "87be818bd5dfc033f50b74bddcd7d0f4"
+		},
+		"res/class_ranklist/class_ranklist_others_bg.png": {
+			"md5": "e832bd13f602ce1f2f49188b2293722b"
+		},
+		"res/honor_result/small_award_bg.png": {
+			"md5": "29f42318b88a5fa10f9d7bce6ab6c9b9"
+		},
+		"res/class_award/class_new_award.png": {
+			"md5": "1fbbf677737a131e472a5b77f758abc7"
+		},
+		"res/test_study/test_study_bg.png": {
+			"md5": "e17689a91e6ed8e5899d402410872d3c"
+		},
+		"res/friend/addFriendIcon.png": {
+			"md5": "48f2c9d3132fc9ebae61094cb3c55366"
+		},
+		"res/class/tree_6.png": {
+			"md5": "e24a121c09d44dbd9fe0cdb6e7039222"
+		},
+		"res/submit_wait/btn_restudy2.png": {
+			"md5": "657740cbf32bfeaf2c99a7e9547a499f"
+		},
+		"res/Default/ImageFile.png": {
+			"md5": "d7215eb49a4242f2c1b7434e0620bd4c"
+		},
+		"res/honor_result/ryzh.png": {
+			"md5": "4033356265ecced743217248e079eff1"
+		},
+		"res/honor_1/class_award_level4.png": {
+			"md5": "70dbcef282e16cc0dc816e1516f1cb5d"
+		},
+		"src/team/TeamsTaskAndRandLayer.jsc": {
+			"md5": "0342f303695411d2d8a11b45f8b74205"
+		},
+		"res/friend/inputBg.png": {
+			"md5": "b93147f8131b541d862255f9a6f64f2c"
+		},
+		"res/friend/deleteFriendIcon_0.png": {
+			"md5": "31fd7b2467921c4c69e831fabfdfc300"
+		},
+		"res/class_task/inviteallbgone.png": {
+			"md5": "06f55d214b6dab1077626bcc19e81a6d"
+		},
+		"res/team/invateotherenterteam/invatebtn.png": {
+			"md5": "25033a0888d51b44aee1d3a78962a89c"
+		},
+		"res/common/loading_small.png": {
+			"md5": "6f378385b8100f46f1f25e8358097397"
+		},
+		"res/spritMiddle/btn_yibanyiwenju2_spirit_icon.png": {
+			"md5": "041f57b27ffd75a22da232f5e78bcdb6"
+		},
+		"res/class_award/tstxk4.png": {
+			"md5": "6ac8f063e66c533e6765fa522745af42"
+		},
+		"res/huizhang/kingtitle14.png": {
+			"md5": "e1096db5fed2d0688815719be3ab49c6"
+		},
+		"res/login/wx_reg.png": {
+			"md5": "03dd0a496b32967e6b3d71ea61eb6988"
+		},
+		"res/common/time_count_down.png": {
+			"md5": "ec5d0678ade03d3802b614278969737e"
+		},
+		"res/spritMiddle/bg_sea_theme_4.jpg": {
+			"md5": "d34caecfa06cd05e8cce9c1e80f4ee78"
+		},
+		"res/course/btn_continue_study_new.png": {
+			"md5": "d7833ce7561e023c2fa9c59d3aad97e6"
+		},
+		"res/button_asy/btn_restart.png": {
+			"md5": "5abd4a6e57c45e865ed4137a38394290"
+		},
+		"res/mp3/failed/f4.mp3": {
+			"md5": "7a65524161ccc0886f29c7d9e8aa1bc7"
+		},
+		"res/Ziphone_FriendInputLayer.json": {
+			"md5": "79d262d36dffeffe360e6339dd76abc9"
+		},
+		"res/unlock_sps/wdzy.png": {
+			"md5": "2631da4945533aa2bea9ccf5152e5b56"
+		},
+		"res/common/pointer.png": {
+			"md5": "89b627c3b63ef05c2b1789b4d7d80e5a"
+		},
+		"src/component/WxBindLayer.jsc": {
+			"md5": "433606f2ff28457cc9bea11e75a99149"
+		},
+		"res/honor_result/llyzshz.png": {
+			"md5": "0da0ef283292c5854ebb0b98fa026461"
+		},
+		"res/class/treeReward_5.png": {
+			"md5": "4b20c96213649fc75cf25d78c322b7d4"
+		},
+		"res/common/login_bg_new.png": {
+			"md5": "ebc3138988ee6a3cbfc979ad5a1cf336"
+		},
+		"res/class_award/class_new_award_bg.png": {
+			"md5": "ed2f17cb8970f0552e139b1269720f50"
+		},
+		"res/head_img_set/img_head10.png": {
+			"md5": "13b1aaad8f704949d5164c64b2d67131"
+		},
+		"res/submit_wait/submit_error_bg.png": {
+			"md5": "5c94b731f44192d09b98775b09ae4775"
+		},
+		"res/Default/CheckBox_Normal.png": {
+			"md5": "aaa0ac8d3aceecfbda01063934ba3030"
+		},
+		"res/common/btn_back.png": {
+			"md5": "48f196ce67175d48986e684b2ab75ec6"
+		},
+		"res/common/btn_reg.png": {
+			"md5": "95c1d57b7144e81d3eb513ada1827556"
+		},
+		"res/spritLevel/advancedItem.png": {
+			"md5": "c8345ecf4c0d47ba1b78f5a9b1b185cf"
+		},
+		"src/component/ConcludeLayer.jsc": {
+			"md5": "330be76cab88c63e4247be4c24f185d6"
+		},
+		"res/head_img_set/img_head57.png": {
+			"md5": "878dd2f54cc20b8f6545b54bb6517c6f"
+		},
+		"res/login_asy/item_short.png": {
+			"md5": "91e28ecd9d4206aa41db5a884b460cf6"
+		},
+		"res/honor_result/sbxzshz.png": {
+			"md5": "fc67d7a5c8d307a285e0299201a04807"
+		},
+		"res/kingtitle/kingtitle4.png": {
+			"md5": "3fbc74a2f0a825890512b1bcdf1bdd87"
+		},
+		"res/head_img_set/img_head7.png": {
+			"md5": "19f568cf5c7e24b7d1182de74290e0d1"
+		},
+		"res/leaveMsg/btn_biaoqing_click_pre.png": {
+			"md5": "cdddb0662063d83be653a493fb3fd20a"
+		},
+		"res/friend/honorPage.png": {
+			"md5": "93d670e435c3427edeff123ae62702f1"
+		},
+		"res/FriendFightInvate/friendreject.png": {
+			"md5": "5dc54a4b57445b39375c20fa6f693a82"
+		},
+		"res/huizhangview/huizhangloadingbg.png": {
+			"md5": "82db28ae0975ebdbeafb814ed02870f7"
+		},
+		"res/ranklist/me_item.png": {
+			"md5": "6953901cf7b5735df9780056fda960a7"
+		},
+		"res/button_asy/btn_normal.png": {
+			"md5": "275f94dfee66239f37a0393ba4de0b6a"
+		},
+		"res/class_award/group_rank_7.png": {
+			"md5": "88f329067a7ad2cca8df40cb4a80174a"
+		},
+		"res/Ziphone_MonthRankList.json": {
+			"md5": "400ad4bfa38660bd057b98c4e4c44ef0"
+		},
+		"res/hall/now.png": {
+			"md5": "1453e586456f3ad4ee61768b79b8444a"
+		},
+		"res/huizhang/kingtitle4.png": {
+			"md5": "3fbc74a2f0a825890512b1bcdf1bdd87"
+		},
+		"res/honorland/award_edit.png": {
+			"md5": "a892a680c13ad74bd8e04bf92bb0b903"
+		},
+		"res/login_asy/send_num.png": {
+			"md5": "cfd5eb2dc8d3ec0f03178cfc575ca35a"
+		},
+		"res/honor_result/aureole.png": {
+			"md5": "7dcc2658b34c1ed40b4010176dc6c085"
+		},
+		"res/class/treeReward_7.png": {
+			"md5": "0f4aa55510cfeada856044f9e4f836c8"
+		},
+		"res/scoreRecord/monthRecordBg.png": {
+			"md5": "2fab1e88a567dcc5b0c390e590a79da2"
+		},
+		"res/leaveMsg/btn_biaoqing_click.png": {
+			"md5": "828ba998338c903a09d8b79367301fab"
+		},
+		"res/junior/spirit_status_1_3_3.png": {
+			"md5": "7dfb762d24129b2ad8460f5a80ce5886"
+		},
+		"res/intermediate/spirit_status_2_2_2.png": {
+			"md5": "edfb73a3fe6440435bb504091a99b312"
+		},
+		"res/honor_1/cjwz.png": {
+			"md5": "e8a4dc042339ab289168eba6d6742f57"
+		},
+		"res/common/all_ranklist_bg.png": {
+			"md5": "df156bda08da8016e3cf7c1ce7321558"
+		},
+		"res/class_ranklist/btn_class_ranklist.png": {
+			"md5": "a8596e19f6f72873d3801590e966ed37"
+		},
+		"res/huizhang/huizhang6.png": {
+			"md5": "88aeee87d726f6463b77a24c344f8139"
+		},
+		"res/test_study/story96_item.png": {
+			"md5": "558b7de6d09b46abfdece2bfe0aeb5d1"
+		},
+		"res/friendfight/friendfightinvatebg.png": {
+			"md5": "381b6bf5e30e571e96756abce86ca3ac"
+		},
+		"res/spritMiddle/chenshuju3_spirit_text.png": {
+			"md5": "7d8ee9a487321691123ae80a7d2b5b8a"
+		},
+		"res/team/learn_team_bg1.png": {
+			"md5": "59210f4ff949271fce73d4e1f051817b"
+		},
+		"res/honor_2/cgwz.png": {
+			"md5": "cb1242a2d949ad460b2b5d0255b132ce"
+		},
+		"res/course/1_1_hide_strong.png": {
+			"md5": "defa482b0483d0943c241572e551e632"
+		},
+		"res/spritMiddle/btn_cifa1_spirit_icon.png": {
+			"md5": "98db7364d90a11c7854f239404d33585"
+		},
+		"res/spritLevel/advancedEgg.png": {
+			"md5": "9944b60ecef1b1cb87cecd2445de8aca"
+		},
+		"res/leaveMsg/leaveMsg_bq_r.png": {
+			"md5": "48eb1fdcc8d204a51b9c18b04b08f36b"
+		},
+		"res/honor_2/cgxns.png": {
+			"md5": "2b3b557427c8659a511d3a0ec9a39459"
+		},
+		"res/honor_1/sbxzshz.png": {
+			"md5": "e510c94dbdec5fffee0ac606f5e748ac"
+		},
+		"res/team/teamsassistancetask/assistancebg.png": {
+			"md5": "971c1a9a50dbe4410f91bafdb9b6aff7"
+		},
+		"res/honor_result/wdzyshz.png": {
+			"md5": "a3a24c28a50c4120a460e39098722fdb"
+		},
+		"res/junior/spirit_status_1_3_1.png": {
+			"md5": "7682530bc3e4ce3f204739fc93d1a75e"
+		},
+		"res/honor_result/class_award_level2.png": {
+			"md5": "7094ef93ebbe8c10874d5d0271d77dc7"
+		},
+		"res/team/jvjueanniu.png": {
+			"md5": "a46477ab906bb641d5108bfabe3b89b4"
+		},
+		"res/team/teamhelpbg/checkBoxFrame.png": {
+			"md5": "bdef249060b8904d85d75e0b1cce4f02"
+		},
+		"res/head_img_set/tstx4_0.png": {
+			"md5": "6ef21e637ba1e8a2edae2f72cd8c7c11"
+		},
+		"res/ranklist/ranklist_mon_btn.png": {
+			"md5": "baeeb8e18ba03a04ea849b695075b9de"
+		},
+		"res/head_img_set/tstx1.png": {
+			"md5": "1adc7e5c9c6c07d9ed33362faad554d2"
+		},
+		"res/honor_1/mrzx.png": {
+			"md5": "d9e3636cc78e8b748360ab6570a61d2d"
+		},
+		"res/scoreRecord/report_2.png": {
+			"md5": "d3d2c5c4c315af299af5279e8360e207"
+		},
+		"res/class_task/task_fenge_line.png": {
+			"md5": "db26b8e4a06834fe6f0b10a7751665ce"
+		},
+		"res/honor_result/zfwz.png": {
+			"md5": "1b76a94005af2a7c320e533d969b41b1"
+		},
+		"res/honor/rank_up_select.png": {
+			"md5": "ea20915a01c1f08f0928a1622c43e399"
+		},
+		"res/honor/rank_up_normal.png": {
+			"md5": "6b7b1c6c4d6ba443ad71ac2d16c85ffb"
+		},
+		"src/view/IndexView.jsc": {
+			"md5": "f9e1cf03af57331fd5729de0c803eb6c"
+		},
+		"res/Ziphone_AddFriendLayer.json": {
+			"md5": "83d5cf0e1804b736ba010ac51716d371"
+		},
+		"res/classinfo/classInfo_bg.png": {
+			"md5": "0e076b401cc667a0d96d6e80ef8efb1c"
+		},
+		"res/team/invateotherenterteam/nextBatchFriend.png": {
+			"md5": "91d4c7c080e1f866ae1941910406d033"
+		},
+		"res/honor_2/wlzwshz.png": {
+			"md5": "05fbac2a02b74d403bf6bdfcaf901d3e"
+		},
+		"res/junior/spirit_status_1_2_4.png": {
+			"md5": "1af41b8fad269c210aae962731e8cfb9"
+		},
+		"res/submit_wait/btn_xuanze_guanqia.png": {
+			"md5": "7c16e9e8e304fc3ffa13587735544031"
+		},
+		"res/head_img_set/tstx2_1.png": {
+			"md5": "255d12e56034f136b1f19a423dc87e5e"
+		},
+		"res/mp3/right.mp3": {
+			"md5": "98c1198949f926dc1504c016706f994a"
+		},
+		"res/class_award/group_rank_5.png": {
+			"md5": "5d9ec78034d6936b03fab6fe7940ef39"
+		},
+		"res/spritMiddle/jieci3_spirit_text.png": {
+			"md5": "90abf76111ac42f4053b959498ca4517"
+		},
+		"res/spritMiddle/fuci1_spirit_text.png": {
+			"md5": "9b5f97f789a36cd84362986be1a3ad5b"
+		},
+		"res/unlock_sps/scmw.png": {
+			"md5": "595a138ab89d2cec6104ce6ebafd8706"
+		},
+		"res/head_img_set/tstx3.png": {
+			"md5": "3441166caf878c4336797555ad5f2803"
+		},
+		"res/head_img_set/tstx3_1.png": {
+			"md5": "bf8c0cf2014071d4e48e95c74e94a1aa"
+		},
+		"res/junior/spirit_status_1_3_7.png": {
+			"md5": "91ed30708bd5111af2be6254cb5ff80b"
+		},
+		"res/Ziphone_Father_SonScene.json": {
+			"md5": "f7f2e346748759eaf63c7b9508c65b70"
+		},
+		"res/class/userHead_bg.png": {
+			"md5": "2adb11d90f8c437b35182d24844f6420"
+		},
+		"res/spritMiddle/btn_huihuasp2_spirit_icon.png": {
+			"md5": "3f708be1adfc05b06c67b5e65971110d"
+		},
+		"res/huizhangview/starkuang.png": {
+			"md5": "079029ee52684cb2c55b87a88b335840"
+		},
+		"res/honor_2/group_rank_1.png": {
+			"md5": "495d2506059833d10e92113c84f35265"
+		},
+		"res/plist/count_down_timer.png": {
+			"md5": "0db91b7d7b7b3c0e9f459178fa558924"
+		},
+		"res/honor_result/all_class_paiming_award_level1.png": {
+			"md5": "741c02666036599990030e6794bd353d"
+		},
+		"res/userinfo_asy/continue_study.png": {
+			"md5": "c53b74c75c02ce4ee33986403abf1471"
+		},
+		"res/class_task/juxing_bg.png": {
+			"md5": "13b676fb3c887b2707c00cb8e4ce7901"
+		},
+		"res/Ziphone_TeamMakeupLayer.json": {
+			"md5": "463541cfbc3769dc788ae540c1ac0e8c"
+		},
+		"src/net/HttpMessageManager.jsc": {
+			"md5": "eac98c346d75599bfa9346f5d4c75432"
+		},
+		"res/spritbg/L2-1.jpg": {
+			"md5": "bb51556c6024d3c5584415476b9efbbf"
+		},
+		"res/friend/sp_1.png": {
+			"md5": "25e116451e4936e54a6e70ee39d5021b"
+		},
+		"res/leaveMsg/leave_msg_timeput_bg.png": {
+			"md5": "3a5c35ee349cc92605c9502ca1647e8b"
+		},
+		"res/submit_wait/btn_restudy.png": {
+			"md5": "164e699e9a08d1bb6d939c1b4a3ad342"
+		},
+		"res/Ziphone_CourseScene.json": {
+			"md5": "d55b30c660358e59999ce4f3b950954a"
+		},
+		"res/huizhang/kingtitle12_bg.png": {
+			"md5": "650d9dcf5ffc5662a46a6878510c16a1"
+		},
+		"src/controller/CourseController.jsc": {
+			"md5": "7135616d72493bd68d0bdc1856b7d1d0"
+		},
+		"res/Ziphone_RegLayer.json": {
+			"md5": "20c30c63e8a4ba594f2e3b7681d5da1a"
+		},
+		"res/agreement/exitBtn.png": {
+			"md5": "13c8e3367784d1aebcd11213720589de"
+		},
+		"res/common/dl_jdt_di.png": {
+			"md5": "4fead812787a25babb31ea9e89a4bfa3"
+		},
+		"res/head_img_set/img_head14.png": {
+			"md5": "81977a86cf3373137c261b9c32057c21"
+		},
+		"res/honor_result/btn_jb.png": {
+			"md5": "9a27a732b08f7808f0a1b5b3fac1343e"
+		},
+		"res/class_award/tstx3_0.png": {
+			"md5": "675406980b76773566582dfde095340d"
+		},
+		"res/honor_result/ryzx.png": {
+			"md5": "4033356265ecced743217248e079eff1"
+		},
+		"res/huizhang/kingtitle4_bg.png": {
+			"md5": "deac335966fa69d682c45ed85a27c0ea"
+		},
+		"src/component/SHLayer.jsc": {
+			"md5": "98f26cd1f8078b23709d7b96e889b937"
+		},
+		"res/head_img_set/img_head56.png": {
+			"md5": "0d2389309a39349c75d8f60d1b11e804"
+		},
+		"res/scoreRecord/down.png": {
+			"md5": "f22c4ab004ac0704b46a8920ff18d024"
+		},
+		"res/learn/learn_load.png": {
+			"md5": "cf82bb109497fbbf7ced4e103b9c9723"
+		},
+		"res/common/share_quan.png": {
+			"md5": "6a178ca18d90596453272eb3d0b4af23"
+		},
+		"res/login/text_reg.png": {
+			"md5": "99c239f560ee16df5d9adebd1514547e"
+		},
+		"res/study_record/record_item.png": {
+			"md5": "f1bce6e9660271b1beef342ac00720cf"
+		},
+		"res/update_check/btn_update_rightnow.png": {
+			"md5": "a72eb34b16cbd353327ef3f290f22507"
+		},
+		"res/spritMiddle/btn_teshuyiwenju2_spirit_icon.png": {
+			"md5": "37b016bed103084592c279daca7b2e09"
+		},
+		"res/honor_2/cgqb.png": {
+			"md5": "9dbe0bb0938d5b4fa8574ff19d0d2265"
+		},
+		"res/huizhang/notgethuizhang.png": {
+			"md5": "0670e28b9ab9813265b4631326c43a9b"
+		},
+		"res/Ziphone_FriendFightInvate.json": {
+			"md5": "c1abf75d8597ee413fc3b69276a761b4"
+		},
+		"src/component/RankList.jsc": {
+			"md5": "d0ef33adf8667432e6c09525d67195a8"
+		},
+		"res/shareWX/close.png": {
+			"md5": "4c580217f31d7cb5439cea4d38ea75a9"
+		},
+		"res/class_ranklist/btn_class_ranklist_ch.png": {
+			"md5": "674ce77440b3c06e9f0fcdc53df8b493"
+		},
+		"res/class_task/task_invite_bg.png": {
+			"md5": "0da5669f402c3202680584b539fcf76c"
+		},
+		"res/spritbg/jinjiedongci_spirit_text.png": {
+			"md5": "9714e473b3a55bbb13d91c1a32158921"
+		},
+		"res/conclude/conclude_btn_replay.png": {
+			"md5": "9e5892604e62e26630b6d7c13046987a"
+		},
+		"res/honor/award_house_bg.png": {
+			"md5": "2c5530259a54bcfc8d30423c1e1f02d2"
+		},
+		"res/honor_result/cgqb.png": {
+			"md5": "d96d5082b4b1a1dc06ef9cfed535d70b"
+		},
+		"res/common/extend_bg.jpg": {
+			"md5": "159c0655d2011a4e775d02c0fc634843"
+		},
+		"res/spritbg/dong_spirit_text.png": {
+			"md5": "2aa38da249d587ae1da81c6248029f24"
+		},
+		"res/class/house4.png": {
+			"md5": "717a141b254c3e133ce5db2176b7a9c9"
+		},
+		"res/honor_2/cgxjs.png": {
+			"md5": "161a799c9ac1a7f1f1b32776015895f0"
+		},
+		"res/head_img_set/img_head33.png": {
+			"md5": "b40257929818edf93e49dce108dc986c"
+		},
+		"res/login/sex_c_bg.png": {
+			"md5": "2b2b0f0824a2ffc47c65220eeb767efc"
+		},
+		"res/common/iphone_dl_bg1.jpg": {
+			"md5": "ed2526c11a8654853f548adf2ee58be9"
+		},
+		"res/honor_2/ygcbshz.png": {
+			"md5": "4ee43b8035f469aa8aab7389adb5c91e"
+		},
+		"res/huizhang/kingtitle15_bg.png": {
+			"md5": "6560f340a7da372463c34f9a4efdd45e"
+		},
+		"res/head_img_set/img_head50.png": {
+			"md5": "29bf0635df0017db819b9deed5782e61"
+		},
+		"res/spritbg/btn_xingrong_spirit_icon.png": {
+			"md5": "44fb3e03d4d15bc5d50c22a814f4900f"
+		},
+		"res/class_task/class_task_head_bg.png": {
+			"md5": "5eca09a979f662c83cbe63b77cc7271f"
+		},
+		"res/course/2_2.png": {
+			"md5": "13702e06350c104ca69f46452772f362"
+		},
+		"res/course/3_2_hide_strong.png": {
+			"md5": "2326fa202df82fe1bcbb4d6599bade08"
+		},
+		"res/agreement/closeBtn.png": {
+			"md5": "bac2b8dcaf95a6532c22a8af1753e17e"
+		},
+		"res/Ziphone_ShowTipsLayer.json": {
+			"md5": "4c376ca914b144d49d145d2663205107"
+		},
+		"res/spritbg/story_bg_book_item.png": {
+			"md5": "e764f8ab06814ed9b987b283e4d6869b"
+		},
+		"res/class/specialHead3.png": {
+			"md5": "1de7574e4f70f1c9d94ff0dc95964b7c"
+		},
+		"res/honor_1/zzdw.png": {
+			"md5": "cfeec7a6f791fd5e47e52afb637fc21d"
+		},
+		"res/mp3/failed/f1.mp3": {
+			"md5": "f2188efd965cffc61c446a5a82d4b222"
+		},
+		"res/friend/hiuben_story.png": {
+			"md5": "72a971b46b5f59aa97b3f44295a0400c"
+		},
+		"res/course/3_2.png": {
+			"md5": "df2f19d52568331eef197e7b9629394d"
+		},
+		"res/head_img_set/btn_jz_choose.png": {
+			"md5": "7b8f1a510562040d5f102736e70218c5"
+		},
+		"res/spritMiddle/bg_sea_theme_6.jpg": {
+			"md5": "a8edab87b1bea230414f3d3b132c090f"
+		},
+		"src/team/TeamsMakeupLayer.jsc": {
+			"md5": "c7d2b611d2f60372e737c2c9065ccca7"
+		},
+		"res/course/3_3_hide_strong.png": {
+			"md5": "7c8d1908fa4a6968e387775c908467c2"
+		},
+		"res/hall/zIphone_hall_bg1.jpg": {
+			"md5": "0633059b6e1ba4969d32d01c31f3ba93"
+		},
+		"res/honor_result/syzdshz.png": {
+			"md5": "546342851f18bd7988d476e724b87117"
+		},
+		"res/spritMiddle/bg_sea_theme_12.jpg": {
+			"md5": "a03c2a2944f03a6deb0f30d1f72b1ae4"
+		},
+		"res/honor_result/btn_cmt.png": {
+			"md5": "b3c2ea92c74050f2f3c43434ed5c150d"
+		},
+		"res/class_award/class_award_effect.png": {
+			"md5": "fa10e83bf755f23fc446cdcf821703c9"
+		},
+		"res/class_task/btn_task_cancel.png": {
+			"md5": "c7af474807b6ada689162cdba1e95d76"
+		},
+		"res/class/hammers2.png": {
+			"md5": "5089d2047565dc66ba896d8d6da38756"
+		},
+		"res/class_award/class_award_level2.png": {
+			"md5": "03fb91cc752faa0eaff8b307b56cc07c"
+		},
+		"res/continueFee/continueFeeBg.png": {
+			"md5": "2a6fbdca4398c13ed6cd9e8adbaca3b2"
+		},
+		"res/Ziphone_SharedFightLayer.json": {
+			"md5": "ee265c446eb4b495a7df1cdba0891da5"
+		},
+		"res/honor/time_down_select.png": {
+			"md5": "41063fc51bda71185a63ffd9462cec0b"
+		},
+		"res/honor/img_awardcard_show_2.png": {
+			"md5": "b15d4aafd21081cc7333d0ee093a0078"
+		},
+		"res/spritbg/sp_lock.png": {
+			"md5": "a72b09b90a90192d2bce31fe7efa376e"
+		},
+		"res/login/64logo.png": {
+			"md5": "c5a664525bf78c3cb4da0ef54e243591"
+		},
+		"res/scoreRecord/studyRecordBg.png": {
+			"md5": "6bc0eff48a2f699a264e546d1fdb2cb6"
+		},
+		"res/Ziphone_FriendInfoItemLayer.json": {
+			"md5": "d501ba50bc223baf38bb00a119ca7106"
+		},
+		"res/leaveMsg/leaveMsg_text_r.png": {
+			"md5": "2fac95398893cc6e8b31e3ebeaa25943"
+		},
+		"res/mp3/notmal/n2.mp3": {
+			"md5": "92223990ea99e528dce10505009a0a4f"
+		},
+		"res/honor_2/wdzyshz.png": {
+			"md5": "3062affed125e0b1abb47bfe851d069b"
+		},
+		"src/component/ClassRankListLayer.jsc": {
+			"md5": "053e7681f6487248e2d2a801e091b06c"
+		},
+		"res/common/iphone_dl_bg3.jpg": {
+			"md5": "e28530ef8a004262e5ab23cf94d80d48"
+		},
+		"res/spritbg/btn_yibanyiwenju_spirit_icon.png": {
+			"md5": "0fbd6494f6dd4ab1554345ab3234ce2a"
+		},
+		"res/team/makeup/btn_toteam.png": {
+			"md5": "112aa6f4cdd48c69a9f4e95fd42a0e08"
+		},
+		"res/ranklist/ranklist_close.png": {
+			"md5": "6dc56a9c24be9a05d4b98ccc417254cb"
+		},
+		"res/learn/zIphone_learn_bg3.jpg": {
+			"md5": "eb61858ffcc369ad2b5c738c267b0af0"
+		},
+		"res/honor_result/group_rank_2.png": {
+			"md5": "fcbb5f96bf9c9870e3c1f012a135f237"
+		},
+		"res/leaveMsg/bq10.png": {
+			"md5": "6a2195dab63a73ce0508082afc6990c3"
+		},
+		"res/junior/spirit_status_1_2_1.png": {
+			"md5": "7682530bc3e4ce3f204739fc93d1a75e"
+		},
+		"res/login/item_short.png": {
+			"md5": "7c1af5abe98dc4845fc68b717c24babc"
+		},
+		"res/componment/tips_bg_1.png": {
+			"md5": "a6a3dbc841a1358996141213e14428ad"
+		},
+		"res/spritMiddle/btn_dongci2_spirit_icon.png": {
+			"md5": "ef6fbda1ea08fa398c83e7867deb04c6"
+		},
+		"res/leaveMsg/msg_click.png": {
+			"md5": "50b14e35fd6836a3d37f1facaffed76a"
+		},
+		"res/conclude/success_score.png": {
+			"md5": "ff669604c81aec22d1b442df5f9b4f50"
+		},
+		"res/kingtitle/kingtitle11.png": {
+			"md5": "fde42230f363d9b0df8c55fbb3bda3f3"
+		},
+		"res/shared_vedio/shared_ka_day_click.png": {
+			"md5": "ebfeb3b791c1564bf516f2d00f53aaf8"
+		},
+		"res/class/classTree.png": {
+			"md5": "45d8745f61757b90996c7bdf2383a4b9"
+		},
+		"res/head_img_set/btn_head_choose.png": {
+			"md5": "679ba1b90b60c67777c3cca764a1ca23"
+		},
+		"res/class_award/tstx4.png": {
+			"md5": "ee459a6c7e668822dd7410356a522dbb"
+		},
+		"src/resource.jsc": {
+			"md5": "58f3016d437dcfe64f892dbaea8fc0b2"
+		},
+		"res/huizhang/kingtitle7.png": {
+			"md5": "09fa1adb89c2b7540df5f120e75edc95"
+		},
+		"res/class_task/task_progress_no_start.png": {
+			"md5": "6ce0037e9475adf5d9d6369e7e1732ab"
+		},
+		"res/class/hammers.png": {
+			"md5": "65f7254ec202e0ef431a6270f57a81e4"
+		},
+		"res/head_img_set/img_head47.png": {
+			"md5": "1110b43283f4ae6ce71ae8b922beddc2"
+		},
+		"res/class_award/all_class_paiming_tsxz5.png": {
+			"md5": "794f403fcd9da3b098028840f6f6eb4b"
+		},
+		"res/spritMiddle/bg_sea_theme_10.jpg": {
+			"md5": "f1d3980df1ece2494b78ebd9dc06aa01"
+		},
+		"res/class_ranklist/class_ranklist_bg.png": {
+			"md5": "dccf9913e840d3cc8b4708b0b32d25a7"
+		},
+		"res/friend/findFriendImg.png": {
+			"md5": "59f002270a4e19c58caa1706f9f4ea14"
+		},
+		"res/ranklist/my_rank.png": {
+			"md5": "ba87c8c24302f891dc4d8609231fda4f"
+		},
+		"res/course/1_2.png": {
+			"md5": "db942df141ef66e7968e532756308c13"
+		},
+		"res/class_task/class_task_is_friend_icon.png": {
+			"md5": "6ec0b4917cfdf4eacd753c67ce03d664"
+		},
+		"main.jsc": {
+			"md5": "7c4f2a65e8c92eaa14bed7cffeac8e9d"
+		},
+		"res/spritbg/father_son_item_select.png": {
+			"md5": "07a0bbb6f1343eea1b40313ecc2e8a92"
+		},
+		"src/component/SaijiRankListLayer.jsc": {
+			"md5": "028a26afdb7fbd37bbc0439a5af94249"
+		},
+		"res/Ziphone_ClassAwardLayer.json": {
+			"md5": "e065589b6c6154877265daab99a65c6a"
+		},
+		"src/team/TeamInvateOtherteamLayer.jsc": {
+			"md5": "af4927c7d0c3ca2f8a6e50306e9aa166"
+		},
+		"res/head_img_set/huangguangselect.png": {
+			"md5": "7a1f30146caacb8265ca2f7ae70aa16d"
+		},
+		"res/course/btn_yuezhan.png": {
+			"md5": "f2595007160d76162e718cafd4522b7a"
+		},
+		"res/spritbg/dongcicifa_spirit_text.png": {
+			"md5": "f82bc2f79a0ae93643103ed986798368"
+		},
+		"res/Ziphone_LoadingLayer.json": {
+			"md5": "485c98b59620ce992a1609e83dd90630"
+		},
+		"res/Ziphone_SpiritIsLandLayer.json": {
+			"md5": "b9c938674a0b74fd7c2bc8889ba1abf0"
+		},
+		"res/honor_2/dkqd.png": {
+			"md5": "3e390a28087f6f89e64058070dbf8572"
+		},
+		"res/class_task/class_task_refresh.png": {
+			"md5": "e448f4a30fc55cdd5a169823e9e9439e"
+		},
+		"res/class/specialHead_1.png": {
+			"md5": "51feebe53510fff4f86b867b12bee2a4"
+		},
+		"res/head_img_set/img_head22.png": {
+			"md5": "bfa9420dd05a14db902c1c9e6ab646ce"
+		},
+		"res/honor_2/wzdf.png": {
+			"md5": "9b54c979bf3468c37b5ff95c53a1079a"
+		},
+		"res/honor_result/gain_text_bg.png": {
+			"md5": "b6501d80eca6c496514e2826b08fc41b"
+		},
+		"res/spritMiddle/btn_yibanyiwenju3_spirit_icon.png": {
+			"md5": "723d9d35250b582e0bb133f075c014d0"
+		},
+		"res/class/house1.png": {
+			"md5": "8f704bd9ef7e400048358476ed11d967"
+		},
+		"res/spritbg/bg_forest_theme_1.jpg": {
+			"md5": "a9fb74420b7ea3124c95c7c704b6f4e5"
+		},
+		"res/plist/honor_anim.png": {
+			"md5": "8b6af0a50c283e41177eb9fc02799a78"
+		},
+		"res/team/teamrankbtn_1.png": {
+			"md5": "35f0179ba8623e70f285e84a70d4fca7"
+		},
+		"res/honorland_asy/award_3.png": {
+			"md5": "94fb85ad35a002afe348600f6a8f2a9f"
+		},
+		"res/login_asy/bg_counttime.png": {
+			"md5": "1bb1d242d60607b405d4e94bc6af9ed0"
+		},
+		"res/classinfo/btn_classInfo_0.png": {
+			"md5": "de70fa764eae6f934ab2cad56fe08531"
+		},
+		"res/friend/basic_class_3.png": {
+			"md5": "790aa0dfba946b4e3413da3eada104a0"
+		},
+		"res/honor_result/all_class_paiming_award_level2.png": {
+			"md5": "337b7ea2dcc5f501421900e4e798f6d2"
+		},
+		"res/friend/sameFriendBtn.png": {
+			"md5": "3cc818ff99194157eb5828405a9bc90f"
+		},
+		"res/spritbg/btn_richanghuihua_spirit_icon.png": {
+			"md5": "64d5b73c557c15d23fbc52d184b5da56"
+		},
+		"res/honor_result/cgbw.png": {
+			"md5": "040f9788a1408960e35b73c1a7ab57b6"
+		},
+		"res/team/invateotherenterteam/invateitembg.png": {
+			"md5": "d440e753992e44d5845669ab19232640"
+		},
+		"res/team/invateotherenterteam/nextBatchClassmate.png": {
+			"md5": "e448f4a30fc55cdd5a169823e9e9439e"
+		},
+		"src/component/TestStudyLayer.jsc": {
+			"md5": "16530f8587e3cf6f8ca011df042138c5"
+		},
+		"res/intermediate/spirit_status_2_1_3.png": {
+			"md5": "eaf3164cd26c77ffa695f98c5a40b103"
+		},
+		"res/common/user_message_red_bu.png": {
+			"md5": "640c2f806cd5f7cfc98f4de85745ea17"
+		},
+		"res/login/btn_radio2.png": {
+			"md5": "adf7cab015d968843c1d7f8c10b62af5"
+		},
+		"res/honor_1/cgxlz.png": {
+			"md5": "7bd815f46fbe6d131873a7dbd4e3a83c"
+		},
+		"res/huizhangview/huizhangstar.png": {
+			"md5": "a5a3bb5c224cbd5ccebc5acc8f7c4751"
+		},
+		"res/class/house3.png": {
+			"md5": "047f0a445360266539009d35c797e3e5"
+		},
+		"src/controller/SpiritIsLandController.jsc": {
+			"md5": "33f02d8abd1631163c57b0a9122e37d6"
+		},
+		"res/honorland/btn_honor_pai.png": {
+			"md5": "4dbc69fbcfdaf69e67faf5b9bcc9836b"
+		},
+		"res/honor_1/ggwz.png": {
+			"md5": "20bf38614a3d95c81fb0b909c7d0ab27"
+		},
+		"res/learn/zIphone_learn_bg2.jpg": {
+			"md5": "85a6894c146895dd580dc0fec81ac8e3"
+		},
+		"res/FriendFightInvate/headpath.png": {
+			"md5": "81b81e4295b005824601187076c10703"
+		},
+		"res/leaveMsg/bq1.png": {
+			"md5": "83bff735b72631bdfd55a72d7bc43e46"
+		},
+		"res/spritMiddle/xingrongci1_spirit_text.png": {
+			"md5": "839e950c15b569f0cfd85093bea507b5"
+		},
+		"res/class/levelTxt_11.png": {
+			"md5": "e09dda3c801c72fafe2d9e223d345cb7"
+		},
+		"src/component/GainLayer.jsc": {
+			"md5": "6ce1489988859f83ddae10a7b4ebd694"
+		},
+		"res/spritbg/father_son_item.png": {
+			"md5": "ec15df209dc3b0d3c69bac141e3f4c66"
+		},
+		"res/sh/sh_clsoe.png": {
+			"md5": "18cd578a65a88bf2d48d3285aa5fe1a1"
+		},
+		"res/team/teamlist/createteambtn.png": {
+			"md5": "d9f56031a278e30f9117b4203c9884c9"
+		},
+		"res/friend/addFriendBG.png": {
+			"md5": "449dd41b0d8bf60ec5116db9454b48dd"
+		},
+		"res/Ziphone_TeamCreateLaye.json": {
+			"md5": "1858b12a6429c4d5045a577e5f0baf33"
+		},
+		"src/view/LearnView.jsc": {
+			"md5": "dceccf4a2fdd36d400c03ef6e6900c06"
+		},
+		"res/course/2_4_hide_strong.png": {
+			"md5": "9017ffc31e23c11caa7a4836b8dd9327"
+		},
+		"res/huizhang/kingtitle7_bg.png": {
+			"md5": "4466df393ae885d905af6e1da14cfb9e"
+		},
+		"src/component/ProjectSummaryLayer.jsc": {
+			"md5": "b9887e2634cfe67fc1bb411bef4072f1"
+		},
+		"res/honor/img_awardcup_show_2.png": {
+			"md5": "106185caac3922c49a0e5a03d5006e88"
+		},
+		"res/head_img_set/btn_head_choose_pre.png": {
+			"md5": "8cd2e468dc016577983bae7062de2547"
+		},
+		"res/learn/en_transtale.png": {
+			"md5": "797f889f20f4372ce62e9894be848333"
+		},
+		"res/team/teamsranks/teamsranktitle.png": {
+			"md5": "5fb7adf59b4838e7184b7e538a1f2faa"
+		},
+		"res/class_award/tstx4_1.png": {
+			"md5": "7d9aa703bfdc9555d2b3f009a0692c30"
+		},
+		"res/class/levelTxt_5.png": {
+			"md5": "5ce7a6317a4a38ed01f22cb85409bd98"
+		},
+		"res/common/cn_transtale.png": {
+			"md5": "61d2e9d3bacd3614959f686b8d187243"
+		},
+		"res/unlock_sps/cimingcifa.png": {
+			"md5": "fda9c4f83c521c412fdb2add69beb68c"
+		},
+		"res/spritbg/bg_forest_theme_4.jpg": {
+			"md5": "9817206f104b0451cfaebef65069fc7b"
+		},
+		"res/login_asy/text_login.png": {
+			"md5": "ce05ac9ea16470d3aaa85db45db055bd"
+		},
+		"res/honorland/btn_honor_back.png": {
+			"md5": "d5b79d6d4781cf9e212f68e66444d062"
+		},
+		"res/honor_result/sczwshz.png": {
+			"md5": "7bd7b55c043343a9cbcd2f4b499974f6"
+		},
+		"src/controller/DongSpiritIsLandController.jsc": {
+			"md5": "8412d87ca435c85af00ffe156af379fc"
+		},
+		"res/spritbg/spritisLandBg.jpg": {
+			"md5": "b536fb01817c779b4cc82df1dd69ac82"
+		},
+		"res/team/invateotherenterteam/invateteambg.png": {
+			"md5": "e82be327796497dc5fde9cde2b2c8599"
+		},
+		"res/Ziphone_ExitPopup.json": {
+			"md5": "7cfb360cd522324bfc0303df4e28d9d4"
+		},
+		"res/class_task/task_right_float.png": {
+			"md5": "2bafe13188639db849392e73cd47544c"
+		},
+		"res/hot/btn_open_4g_click.png": {
+			"md5": "8352f1c9193441b202979dda8c7fc718"
+		},
+		"res/hall/passed.png": {
+			"md5": "4e7e1efd2e130e4e0fddd9106fc6b900"
+		},
+		"res/unlock_sps/jinjiedongci.png": {
+			"md5": "5b753ac50037d0997fe0f735d1218b1c"
+		},
+		"res/hall/zIphone_hall_bg3.jpg": {
+			"md5": "58ea8aa9912d80188d26da9a34816fb6"
+		},
+		"res/spritLevel/Ziphone_bg.jpg": {
+			"md5": "e9649f2daa6662be086d3b27a1447d46"
+		},
+		"res/learn/story96.jpg": {
+			"md5": "f3a30b0e77fa285cb7a18f367ca48037"
+		},
+		"res/team/teamlist/headbg.png": {
+			"md5": "8a420f77019311b7d43ce415d07dca65"
+		},
+		"res/Ziphone_TeamInvateOtherteam.json": {
+			"md5": "1ef2520f7f7a6ad579aa4e983999b2af"
+		},
+		"res/honor_2/cqyx.png": {
+			"md5": "37468a6ad511c54dae84f50c2ce7b34c"
+		},
+		"res/favicon.ico": {
+			"md5": "6294eca3e1b7668dd620eeb7ad30a9de"
+		},
+		"res/friend/deleteFriendIcon_1.png": {
+			"md5": "0fe7e8fd16fc9d3b5e25ef348cf93d16"
+		},
+		"res/head_img_set/img_head61.png": {
+			"md5": "f61c970c0db6ab9bef81e13e6b936874"
+		},
+		"res/Default/CheckBoxNode_Disable.png": {
+			"md5": "356688731f0a86379b68ac72844f0fa5"
+		},
+		"res/scoreRecord/report_1.png": {
+			"md5": "363a847791aa26ddf63a13180a9036e6"
+		},
+		"res/friend/btn_class_main.png": {
+			"md5": "d6a437ec61d0025ff84eba6436e382a6"
+		},
+		"res/class_award/group_rank_6.png": {
+			"md5": "4969ea3dcf8f0479b0251e14cbbaa893"
+		},
+		"res/intermediate/spirit_status_2_1_5.png": {
+			"md5": "0b3c323e723ef307b3e75fdeb7730456"
+		},
+		"res/button/btn_next.png": {
+			"md5": "bddaf190c6b93cb05a2cf9d7783c3265"
+		},
+		"res/team/friendhelpbtn.png": {
+			"md5": "0574772b83603d3d1dfc91ca0cc0c822"
+		},
+		"res/login/item_long.png": {
+			"md5": "2d522a7f42f9f10edc36fa6f717ebeed"
+		},
+		"res/plist/huiben_anims.plist": {
+			"md5": "001a24b67fd254023ef3feae769bb111"
+		},
+		"res/spritbg/chenshuju_spirit_text.png": {
+			"md5": "791cd6a698fbdbed855e02ea5757cd4f"
+		},
+		"src/component/SharedVedioLayer.jsc": {
+			"md5": "9a32f6685d8b729c7155d4eea093fd4d"
+		},
+		"res/common/btn_login.png": {
+			"md5": "38eafd9e317c8c01a02ebbc6cc1b6b0c"
+		},
+		"res/kingtitle/kingtitle3.png": {
+			"md5": "364c8d17f7c3073b7ce382e210208f80"
+		},
+		"res/plist/count_down_timer.plist": {
+			"md5": "5673f2a99d6506ef33e75d9863e79b7c"
+		},
+		"res/honor_2/group_rank_2.png": {
+			"md5": "06c6467d474793c041638e1e2391f10d"
+		},
+		"src/component/ShowTipsLayer.jsc": {
+			"md5": "7ad8bde45890cc3ae31e0d27401e2ccd"
+		},
+		"res/course/3_1.png": {
+			"md5": "838f2d19d8676a05af1914c1b3fc719a"
+		},
+		"res/team/activity.png": {
+			"md5": "857272968d0f406e65a2f46b357522fd"
+		},
+		"res/spritMiddle/bg_sea_theme_14.jpg": {
+			"md5": "1ba53f88d25797d654986815ef8bd410"
+		},
+		"src/team/TeamBeInvateLayer.jsc": {
+			"md5": "dd8d54158d176e43bdcbad5e1df4483a"
+		},
+		"res/Ziphone_ProtocolLayer.json": {
+			"md5": "619f7e14f752f63ab31d378177d7ff6d"
+		},
+		"res/kingtitle/kingtitle2.png": {
+			"md5": "c02bad33a06a90fd4a4992829bc30b04"
+		},
+		"src/utils/UMUtils.jsc": {
+			"md5": "7fd0a893e5daf8d54403c4731a610bc4"
+		},
+		"res/head_img_set/img_head41.png": {
+			"md5": "008d730b79e06639722ae3a21e8fb7b6"
+		},
+		"res/friend/shuoming_text_bg.png": {
+			"md5": "c92d695cf9b5ff3c5ec55b8ae3058391"
+		},
+		"res/spritbg/btn_daici_spirit_icon.png": {
+			"md5": "86937928ad46bd73b96165013481ec17"
+		},
+		"res/honor_result/shared_daka.png": {
+			"md5": "a033a6f2a82ef1d9524b5cdec0ac4a09"
+		},
+		"src/component/SpiritIsLandLayer.jsc": {
+			"md5": "04ccd356c472d0baa85ee8a40adff84d"
+		},
+		"res/Ziphone_HotUpdateScene.json": {
+			"md5": "813c5e5b1c7960800055074f88e8504b"
+		},
+		"res/friend/progress_2.png": {
+			"md5": "bdf85218e7faae9967af681683d9c4f9"
+		},
+		"res/course/test.png": {
+			"md5": "46bee396b80e7a2c33aee6869c0ee642"
+		},
+		"res/leaveMsg/msg_click_pre.png": {
+			"md5": "3d282ed037299e1e782834cb6b0947f6"
+		},
+		"res/common/ranklisttips2.png": {
+			"md5": "9bceb627abbf14be8ce85eee54df1e66"
+		},
+		"res/huizhang/huizhang4.png": {
+			"md5": "b81fcf0e84d5c9ec65c4d4652c2e891c"
+		},
+		"res/update_check/load_bar.png": {
+			"md5": "af2c6363aa6bf2263f1493b618c8dcbd"
+		},
+		"res/spritMiddle/xingrongci2_spirit_text.png": {
+			"md5": "0b5b8bf3c59cfed61fb51fa49dd3aaa2"
+		},
+		"res/honor_2/cgxjj.png": {
+			"md5": "6aacac3c5f2bd3dc2be0e3d1c5bca10b"
+		},
+		"res/honorland/btn_honor_zhuanzhuan.png": {
+			"md5": "9d3742a0083622731785dd24190feb4a"
+		},
+		"res/class/tree_1.png": {
+			"md5": "d18be1301b4d595dd3149b11b96f97df"
+		},
+		"res/honorland/img_honor_left.png": {
+			"md5": "fa25d0eb1f099011a41e8cb555f3cbb1"
+		},
+		"res/course/1_3_hide_strong.png": {
+			"md5": "2b98db91df4502d5c040e06e23669eee"
+		},
+		"res/mp3/wrong.mp3": {
+			"md5": "ccd60ed6a9086806e0af1b7dcb2386ef"
+		},
+		"res/junior/spirit_status_1_1_3.png": {
+			"md5": "7dfb762d24129b2ad8460f5a80ce5886"
+		},
+		"res/huizhang/kingtitle11.png": {
+			"md5": "fde42230f363d9b0df8c55fbb3bda3f3"
+		},
+		"res/class_task/invite_submit_bg.png": {
+			"md5": "821a96e711431a416e007fa5dbb55212"
+		},
+		"res/spritMiddle/cifa3_spirit_text.png": {
+			"md5": "1642b31816089d9383ed21b47197f4a1"
+		},
+		"src/component/YesterdayRanklistLayer.jsc": {
+			"md5": "2a5c681c2a564bffbcdf0a843a6b0ae2"
+		},
+		"res/hot/btn_open_4g.png": {
+			"md5": "a026fa897520ff600ae1c8b8ebc86109"
+		},
+		"res/class_award/tstx2.png": {
+			"md5": "be4a675fd28e523d4debcd91fc0eefd2"
+		},
+		"res/head_img_set/img_head3.png": {
+			"md5": "bc85de9a74a7065114d2cec303c02454"
+		},
+		"res/honor_1/group_rank_3.png": {
+			"md5": "8ddd2870fcc84ba750767e6690b6888f"
+		},
+		"res/intermediate/spirit_status_2_2_3.png": {
+			"md5": "15c3792f3a4d213829f57726fa92cd6b"
+		},
+		"res/honor_result/one_level_1.png": {
+			"md5": "9e3bea866b68f2fad8a14a9fa6cf1581"
+		},
+		"res/friend/sameFriendImg.png": {
+			"md5": "9cc3b74fd6adbaf397d7be133cbec3bc"
+		},
+		"res/login/zIphone_unlogined2.jpg": {
+			"md5": "0bf7e3c0f02f11dcca3b1c7f827f14d7"
+		},
+		"res/userinfo/userinfo_bg2.png": {
+			"md5": "1b9233b726bfdf03758af56c486c7993"
+		},
+		"res/team/teamsdaystarget/members_xiezhu.png": {
+			"md5": "38d58816138244d19628a6111e99408b"
+		},
+		"res/scoreRecord/report_5.png": {
+			"md5": "e58c16d45228eca9c5e466aea9b11e8c"
+		},
+		"res/class/classdirect.png": {
+			"md5": "2a70826c1b79774c285a21d42607eaca"
+		},
+		"res/team/myfriendbtn_1.png": {
+			"md5": "59b4eea2e1feaac4ee6714142b85200d"
+		},
+		"res/huizhangview/huizhanggetstar2.png": {
+			"md5": "ee5c29d9562e055e198d795b680c31d6"
+		},
+		"src/component/WxLoginLayer.jsc": {
+			"md5": "9e95bcc21a8addc15d9ae4e5c2880e90"
+		},
+		"res/leaveMsg/bq7.png": {
+			"md5": "b595728aa7dcf5f04d2b54ab1902dc95"
+		},
+		"res/ranklist_asy/normal_ranklist.png": {
+			"md5": "5ff52fab777f3c0fdd36b983c6597d7d"
+		},
+		"res/team/asisttaskbtn_1.png": {
+			"md5": "7dafcf99fa17adf27200b7d0960437bb"
+		},
+		"res/head_img_set/class_touxiang1.png": {
+			"md5": "be4a675fd28e523d4debcd91fc0eefd2"
+		},
+		"res/spritbg/spirit_text.png": {
+			"md5": "f190f5ddd2f2a1e7238527104cbfcddb"
+		},
+		"res/common/unlock.png": {
+			"md5": "454ce4daeed951e3274237980f220418"
+		},
+		"res/team/btn_class_task_close.png": {
+			"md5": "e666f86c67b4e3f4297192246c2cc4d0"
+		},
+		"res/class_task/inviteallbg2.png": {
+			"md5": "1a7cb842e0b783cda553fc9b261fbf0f"
+		},
+		"res/login/shenhe_reg.png": {
+			"md5": "6d18a742cdfab80e7e989b3f7aff5e68"
+		},
+		"res/class_award/all_class_paiming_tsxz2.png": {
+			"md5": "bedd371fb184c87231fde34e52dea614"
+		},
+		"res/team/teamsassistancetask/assistancedirect.png": {
+			"md5": "d7f0e6274509013cd9c5e19b71b9199e"
+		},
+		"src/component/InviteTaskLayer.jsc": {
+			"md5": "3b3edcd59a1df96a0faec09d7f59a126"
+		},
+		"res/leaveMsg/leaveMsg_text_l.png": {
+			"md5": "0ef931403280f5ecef1a442f174b70b4"
+		},
+		"res/class_ranklist/class_ranklist_2.png": {
+			"md5": "2801faa738be8629962cae63ad8ec217"
+		},
+		"res/huizhang/kingtitle12.png": {
+			"md5": "dc563354cf903e95a269e97b64635e49"
+		},
+		"res/class/bg_class_tree.jpg": {
+			"md5": "4e2fde4e510723d5a0e62a5403ddb9a9"
+		},
+		"res/spritMiddle/btn_fuci2_spirit_icon.png": {
+			"md5": "bf055ed1ac29c7d8f29c854b6b96a842"
+		},
+		"res/spritMiddle/btn_mingci2_spirit_icon.png": {
+			"md5": "9c7a500005f778bdbedfb171be517658"
+		},
+		"src/component/AllRankList.jsc": {
+			"md5": "7bed0c017c084bcefc5c39a4dc4c27e1"
+		},
+		"res/honor_result/dfqx.png": {
+			"md5": "8395e9744ddb59fe608a49daf4578860"
+		},
+		"res/common/btn_nuan_chun.png": {
+			"md5": "f7e871542a20532592fb2a243ef88f38"
+		},
+		"res/head_img_set/img_head31.png": {
+			"md5": "ba1d40364c8ee04b2b637c61692dcb2c"
+		},
+		"res/class_ranklist/class_ranklist_loading_bg.png": {
+			"md5": "3c4fc40a02e21158206a8795212dd632"
+		},
+		"res/team/headicon.png": {
+			"md5": "5ccf9310336a268ba43981bc3736f7f3"
+		},
+		"src/component/HeadImgSetLayer.jsc": {
+			"md5": "8ea553aedde4b6f07844732b04668a0d"
+		},
+		"res/mp3/notmal/n1.mp3": {
+			"md5": "8c55e4cf2711ece8715b00cb5659721f"
+		},
+		"res/shareWX/friendCircle.png": {
+			"md5": "eb7192bf0dce63816f7c6b605d12844f"
+		},
+		"res/head_img_set/img_head12.png": {
+			"md5": "b364c1a3dc3ed5c6bf411ba5add30dbc"
+		},
+		"res/class_task/invitingtip.png": {
+			"md5": "89cad3c7a875aaee94f90f250b6fcdf0"
+		},
+		"res/friend/father_son.png": {
+			"md5": "c3c80e0ce6dfd3ccb27f0bb8dd9f2f8a"
+		},
+		"res/honor_result/two_level.png": {
+			"md5": "37a4b358057b610b79f618182a5ffd2a"
+		},
+		"res/honor_2/class_award_level2.png": {
+			"md5": "5473fdf8d29a7ce8f7aee59ed289043a"
+		},
+		"res/leaveMsg/biaoqing_click_pre.png": {
+			"md5": "06d26b5ffd121f421a34220e59180d02"
+		},
+		"res/honor_2/cjwz.png": {
+			"md5": "4f70c5c52e47362cbc08af2fd6162897"
+		},
+		"res/head_img_set/img_head48.png": {
+			"md5": "6ecc1750c9d9e8646fd1bbe8c70d0aca"
+		},
+		"src/component/UnLockLevelLayer.jsc": {
+			"md5": "699df823e957cadb3f8a896d0394b751"
+		},
+		"res/classinfo/btn_classInfo_1.png": {
+			"md5": "8376c4f33c30a8c359cd20295828d858"
+		},
+		"res/userinfo/user_info_bg.png": {
+			"md5": "22f2735d925106b675fcb0a8c28b1538"
+		},
+		"res/honor_result/kxwz.png": {
+			"md5": "3f24f6cb58bf5171478ae816eb6c9db8"
+		},
+		"res/honor_result/class_award_level2bg.png": {
+			"md5": "68044c6b4695a95a0b5afd57ae1a83e5"
+		},
+		"res/course/wxfight_bg.jpg": {
+			"md5": "a3c3172159131ebb03121dd18c6ab0bd"
+		},
+		"res/honor_1/kxwz.png": {
+			"md5": "d5873612a8187f84faa8f9092eb75b15"
+		},
+		"res/Ziphone_LoadingBgLayer.json": {
+			"md5": "c8ec2c9b9f2cccd2b3b06e3b3555cd49"
+		},
+		"res/honor_result/group_rank_7.png": {
+			"md5": "88f329067a7ad2cca8df40cb4a80174a"
+		},
+		"res/class_ranklist/btn_last_saiji_ranklist_ch.png": {
+			"md5": "def316925ddd71ef8fe8f508956c3a13"
+		},
+		"res/spritbg/jieci_spirit_text.png": {
+			"md5": "6997caaa1891a61923fbee657dac4a59"
+		},
+		"res/agreement/determine.png": {
+			"md5": "3aacb07268169480d9c0f32e826af353"
+		},
+		"res/class/house6.png": {
+			"md5": "dc49a1a144612f4d0238c7d83fbc8ff8"
+		},
+		"res/head_img_set/btn_right.png": {
+			"md5": "f57a781e40594376c94c9dc75f6aaf94"
+		},
+		"res/honor_1/dkqd.png": {
+			"md5": "46c74992b9c25e17e8b9519fc7f69d71"
+		},
+		"res/common/huiben_item.png": {
+			"md5": "6d580555e906b9ca82ad6ef8be176c18"
+		},
+		"res/head_img_set/choose_icon.png": {
+			"md5": "dbd4cbfa10fb237820c82de109a5c1b6"
+		},
+		"res/honor_2/class_award_level4.png": {
+			"md5": "3b3e09275e81131eb0bea73757cb5ea9"
+		},
+		"res/huizhangview/getStar.png": {
+			"md5": "83ae7b60d65503fd80901b81ff983827"
+		},
+		"res/mp3/success/s2.mp3": {
+			"md5": "779866a7853ad62efc2b6175ef220a29"
+		},
+		"res/team/beingenterteam/bg222.png": {
+			"md5": "cf594926f282417f3ccbd350a1050415"
+		},
+		"res/huizhang/huizhang13.png": {
+			"md5": "a425b13bd657dcfd2c03f757908b9204"
+		},
+		"res/conclude/conclude_btn_back.png": {
+			"md5": "4b90baf12a616a857bf0eb7ba83ad8d8"
+		},
+		"res/spritMiddle/daici1_spirit_text.png": {
+			"md5": "c570a4712bf8ee29ef775a76009c653d"
+		},
+		"res/honor_1/cgxxk.png": {
+			"md5": "7ddd055619736d7b59d4eaa28bcbdbe3"
+		},
+		"res/huizhangview/huizhangtitle.png": {
+			"md5": "68466a80796d4b21e34ad3f636fbaa16"
+		},
+		"res/class_award/zswz1.png": {
+			"md5": "a0995dd7d0c121cb77158d3aa11f31de"
+		},
+		"res/class_ranklist/tapclassb.png": {
+			"md5": "3edc31c3f1c2b01a458d29e18d6991d8"
+		},
+		"src/component/ClassHelperLayer.jsc": {
+			"md5": "679b70399ab238a9c9c8924ed21dae29"
+		},
+		"res/honor_2/sbxzshz.png": {
+			"md5": "1b1c54bbc4e6bfd24e0c2ae1c07094fd"
+		},
+		"res/huizhang/kingtitle3_bg.png": {
+			"md5": "4e39c1c24ab0c400e7a16c1baf96ce56"
+		},
+		"res/class_award/tstxk1.png": {
+			"md5": "26c230b8213f6e9962d27304dbe6b1bc"
+		},
+		"res/classinfo/btn_userInfo_0.png": {
+			"md5": "ceaf1b84faec91021943187bdf8bc022"
+		},
+		"res/class/levelTxt_0.png": {
+			"md5": "acf1742b2d48bee3548a07a80218259b"
+		},
+		"res/course/course_ranklist.png": {
+			"md5": "fd18aa105268d7d2229c664986b1845c"
+		},
+		"res/spritMiddle/jieci1_spirit_text.png": {
+			"md5": "9607e8bc67c3ab154bc0f3562eadea4a"
+		},
+		"res/honorland/award_card_edit.png": {
+			"md5": "3d1ca8d905f5ad3d1a430dcb52b49f08"
+		},
+		"res/class/ranklist_bg.png": {
+			"md5": "d3c2cb515ffb4ceec5000af08a47dbe3"
+		},
+		"res/spritMiddle/btn_fuci1_spirit_icon.png": {
+			"md5": "cbd2bd2f901a9b3c450a6b497d5469dc"
+		},
+		"res/course/3_4_hide_strong.png": {
+			"md5": "0c781a28d9fb34586e9730b76fabed72"
+		},
+		"res/ranklist/ranklist_year_btn.png": {
+			"md5": "e01567c7c6e948951604f5bbe66e9d6b"
+		},
+		"res/login/login_input1.png": {
+			"md5": "9ef95fc9a3b66470c24c65d2602839dd"
+		},
+		"res/common/ic_back.png": {
+			"md5": "06956976715fdb602a69cbcc7926f6b1"
+		},
+		"res/userinfo/userinfo_exit.png": {
+			"md5": "3f1cdecad513594a4c28c6a0b2c6cacf"
+		},
+		"res/spritbg/btn_teshuyiwenju_spirit_icon.png": {
+			"md5": "6676e19dddcd192060ac556ee76ce073"
+		},
+		"res/head_img_set/img_head29.png": {
+			"md5": "42ce1ad7728150568f5ab48275d8c02f"
+		},
+		"res/honor_result/email_bg.png": {
+			"md5": "fc25c4b969d80b95240966836a22292c"
+		},
+		"res/team/btn_join_team.png": {
+			"md5": "c502a7cd834a20b388e8ed0e2eb139c4"
+		},
+		"res/class/btnscoreup.png": {
+			"md5": "012d7eca98de919c043274c854881aab"
+		},
+		"res/class_ranklist/randbg3.png": {
+			"md5": "cf339e0036e13080473f02d28bc9205a"
+		},
+		"res/honorland_asy/award_card_2.png": {
+			"md5": "224922b60b53e7dd42f18e6c40021c37"
+		},
+		"res/Ziphone_TeamsTaskAndRandLayer.json": {
+			"md5": "d04e49d052b19abaea76f8314f6bd542"
+		},
+		"res/Ziphone_TestStudyLayer.json": {
+			"md5": "bcd9b2b0f33e7dd9a5f51487f8ff23fc"
+		},
+		"res/Ziphone_TeamBeInvateLayer.json": {
+			"md5": "f909a49524d5aea6056baf1715bb21c5"
+		},
+		"res/honor_result/sun_x.png": {
+			"md5": "c913f59cbc5a4cd0978ec75d9cc7d571"
+		},
+		"res/class_award/zswz3.png": {
+			"md5": "52393a993de1ce43d13d87e26ad60a4a"
+		},
+		"res/spritMiddle/btn_huihuasp1_spirit_icon.png": {
+			"md5": "41fa1401499ac26c6e1deb8830bba52f"
+		},
+		"res/huizhang/kingtitle13_bg.png": {
+			"md5": "e07605bec7738614fba5f3afb3668b5c"
+		},
+		"res/junior/spirit_status_1_1_0.png": {
+			"md5": "5033e62a59a81677df68f009276480ac"
+		},
+		"res/class_award/tstx1_0.png": {
+			"md5": "8352e0645337de8c64386107246a5e0e"
+		},
+		"res/class_award/appletx5_1.png": {
+			"md5": "0e928c9fdac42afe47b81c73441adc2e"
+		},
+		"res/honor_1/group_rank_4.png": {
+			"md5": "6f818b68c292ac645cfc8507cede75f3"
+		},
+		"res/honor_result/ggwz.png": {
+			"md5": "b26004101bf68919f2e2aec479a5969c"
+		},
+		"src/component/GGaoLayer.jsc": {
+			"md5": "d8694463c1ab3caaacdf7b1fdb1cdc8a"
+		},
+		"res/Ziphone_FriendInfoLayer.json": {
+			"md5": "32d3bccdbeff450f50e70f2e91704a01"
+		},
+		"res/class/levelTxt_2.png": {
+			"md5": "e1229ce931633bf5abe27e6409b6119d"
+		},
+		"res/course/btn_spirit_isLand.png": {
+			"md5": "f3dfd17a0dea46a61953770d4c5fcf3e"
+		},
+		"res/head_img_set/img_head60.png": {
+			"md5": "f2b8afa29bfd94e8566e9d3e7a14b556"
+		},
+		"res/friend/friend_info_bg.png": {
+			"md5": "1ce7599351c6804c4417d907085911d5"
+		},
+		"res/huizhang/kingtitle11_bg.png": {
+			"md5": "9a2299a07a0673067d7b51c3ccd26040"
+		},
+		"res/scoreRecord/report_6.png": {
+			"md5": "2a7908982d74ba18484ad461701a8bfa"
+		},
+		"res/userinfo/countdown.png": {
+			"md5": "6684208f918091f9764604506d6df6cd"
+		},
+		"res/Ziphone_InviteSubmitLayer.json": {
+			"md5": "e7314a3290d3bed1ac9dcc0a99b6a47f"
+		},
+		"res/head_img_set/img_head46.png": {
+			"md5": "68e5e787595583f80262bc3f5d12a487"
+		},
+		"res/honor_result/wzgl.png": {
+			"md5": "d55b0fb0a3f182cb487c70ada11bff6d"
+		},
+		"res/intermediate/spirit_status_2_1_4.png": {
+			"md5": "324d92af7b300abff8ad3006e764a97b"
+		},
+		"res/spritMiddle/btn_jieci1_spirit_icon.png": {
+			"md5": "a98cbe759ba6b3d299144f04a9efa8d0"
+		},
+		"res/login_asy/item_long.png": {
+			"md5": "ab0b79a99ee2a5b74ee27c06a5974ed9"
+		},
+		"res/honor_1/cglz.png": {
+			"md5": "1959add07a8f48028d4cee4ff5830f9d"
+		},
+		"res/login/ranklist_bg.jpg": {
+			"md5": "96fa0160655d5e986934bac0a03db4ea"
+		},
+		"res/honorland_asy/award_cup_2.png": {
+			"md5": "4743f8ba1b4b14e8b5825c76f6c4cbd5"
+		},
+		"res/class_award/class_touxiang2.png": {
+			"md5": "d0a587c326a26303ffb7d47e9cea24ed"
+		},
+		"src/component/UserInfoLayer.jsc": {
+			"md5": "4418f9405979764c737e35aa3cd205a8"
+		},
+		"res/honor_2/wzgl.png": {
+			"md5": "a0d3198dd02e818187be0b70792e8e50"
+		},
+		"res/class/house5.png": {
+			"md5": "d28bdba25181467724ebe82d39db29f7"
+		},
+		"res/class_award/tstx1_1.png": {
+			"md5": "880072135446d07836a642723dc26776"
+		},
+		"res/team/teamsassistancetask/assistancetaskhelp.png": {
+			"md5": "166c20c856a1302dd4f2ca4190b31520"
+		},
+		"res/login/zIphone_unlogined1.jpg": {
+			"md5": "1d4a0f8538461bcd96d622b38826e8ef"
+		},
+		"res/huizhang/huizhang2.png": {
+			"md5": "27a0178b61f006f435e052a072860abf"
+		},
+		"res/honor_result/cgxlz.png": {
+			"md5": "f3b212906cbf159e147ec70ad40695c2"
+		},
+		"res/update_check/btn_update_cmt.png": {
+			"md5": "f226adb3e8326d6769b339d4722cfcfc"
+		},
+		"res/spritMiddle/btn_mingci3_spirit_icon.png": {
+			"md5": "5e5ba26c450d22857984167c7295a587"
+		},
+		"res/spritMiddle/teshuyiwenju2_spirit_text.png": {
+			"md5": "bc22c7b564279c4f52b72d0bc6702d5f"
+		},
+		"res/head_img_set/img_head40.png": {
+			"md5": "e669291e41994751417055361f719673"
+		},
+		"src/component/ClassLayer.jsc": {
+			"md5": "a61e3fcd1bd0057663f7ea10e3ada61f"
+		},
+		"res/class_task/class_task_invite_bg.png": {
+			"md5": "3338757887eba744932444cfc7510b40"
+		},
+		"src/team/TeamCreateLayer.jsc": {
+			"md5": "d01571bdc87f5fce2c5812d7b7d561a1"
+		},
+		"res/ranklist_asy/ranklist_fourth.png": {
+			"md5": "4fd12fe76e5b289a76b7eb564a88eb7b"
+		},
+		"res/class/levelTxt_9.png": {
+			"md5": "c4a886939200db5146b2073a0997803e"
+		},
+		"res/honor_2/zqwz.png": {
+			"md5": "fed8f9ba3bd5c0593e968253952d6dc1"
+		},
+		"res/spritMiddle/xingrongci3_spirit_text.png": {
+			"md5": "8dd372198209f69b5f95f3633fd43b89"
+		},
+		"res/class/wateranima2.png": {
+			"md5": "ca65d3bb4b98d608a08de933bbca1190"
+		},
+		"res/head_img_set/btn_headbg_choose.png": {
+			"md5": "64a1d38d4c357ba0c8cefb2ebfaf6f57"
+		},
+		"res/spritbg/story_bg_book_line.png": {
+			"md5": "a52cfc4b816a1c5396344fff96f08c36"
+		},
+		"res/FriendFightInvate/friendfightinvatebg.png": {
+			"md5": "381b6bf5e30e571e96756abce86ca3ac"
+		},
+		"res/course/3_1_hide_strong.png": {
+			"md5": "a142680fdfa3cc4bde2a47b6e4bd5240"
+		},
+		"res/spritMiddle/btn_yibanyiwenju1_spirit_icon.png": {
+			"md5": "1819f6a9dd94976c3d34a38b6615a9af"
+		},
+		"res/common/button.png": {
+			"md5": "99d9cf7fe6d6345b34089c9679950265"
+		},
+		"res/honor_result/plwz.png": {
+			"md5": "026b05338e85ca90bf9b627003ef3d86"
+		},
+		"res/huizhangview/huizhang1.png": {
+			"md5": "e02766395bcd576211bcce8d087bf375"
+		},
+		"res/common/roomtype_unchoice.png": {
+			"md5": "f336cf0335aab5f4ea22805e6db2f7e8"
+		},
+		"res/ranklist/me_item1.png": {
+			"md5": "6953901cf7b5735df9780056fda960a7"
+		},
+		"res/class/silver_medal.png": {
+			"md5": "d8d9a753ff6560e889822c4ef803df19"
+		},
+		"src/component/HonorEnterLayer.jsc": {
+			"md5": "195e32ac5c7389ea17e97ae3f10d30d3"
+		},
+		"res/honor_result/help_bg.png": {
+			"md5": "2a585ce80d4e2d5767badbdf71e8df46"
+		},
+		"res/huizhang/kingtitle13.png": {
+			"md5": "d51cc501eea72a1d44fe69be11f1c750"
+		},
+		"res/spritMiddle/fuci3_spirit_text.png": {
+			"md5": "518ddc5166a471ea29340adc43974605"
+		},
+		"src/controller/FatherSonController.jsc": {
+			"md5": "a8a2ad60b5f61e147db81ca7b68be2aa"
+		},
+		"res/kingtitle/kingtitle5.png": {
+			"md5": "07e9d9d6b670553130606fbdbc65ea24"
+		},
+		"res/friendfight/friendreject.png": {
+			"md5": "5dc54a4b57445b39375c20fa6f693a82"
+		},
+		"res/class/wateranima.png": {
+			"md5": "d68ebed189c0ac722f72d9960ca0d5df"
+		},
+		"src/jsList.jsc": {
+			"md5": "35f99afcc3bef388243affec1dde5a1b"
+		},
+		"res/leaveMsg/btn_text_click_pre.png": {
+			"md5": "25c70cffc12648c099db941d236198c5"
+		},
+		"res/honor_1/cgxwz.png": {
+			"md5": "b210707fe9ec17ad2caa7a9b7861971e"
+		},
+		"res/huizhang/kingtitle14_bg.png": {
+			"md5": "26b06487d61e4e3ab0726507f6f47dce"
+		},
+		"res/head_img_set/img_head42.png": {
+			"md5": "7833c17a5fcf9c00b3a77350b0d35faf"
+		},
+		"res/head_img_set/img_head52.png": {
+			"md5": "1b906ed7984ce28b4494235a465aca6d"
+		},
+		"res/junior/spirit_status_1_1_2.png": {
+			"md5": "1003bba9743587840d0b8efd1046e78f"
+		},
+		"res/leaveMsg/leaveMsg_bg.png": {
+			"md5": "27bc1cbe4412dab34261b2f89620ff88"
+		},
+		"res/spritbg/bg_forest_theme_6.jpg": {
+			"md5": "4eaf522f7631dda820f60f367f0b6e80"
+		},
+		"res/honor_result/class_award_level6.png": {
+			"md5": "b4ac1cb16850df00625c9fb54ad38794"
+		},
+		"res/scoreRecord/report_12.png": {
+			"md5": "53de4467324d9dc8dfef361ee805e9e4"
+		},
+		"res/common/ranklist_item_bg.png": {
+			"md5": "ffc20db183aa2046bb5681067e7cc31e"
+		},
+		"res/huizhang/kingtitle3.png": {
+			"md5": "364c8d17f7c3073b7ce382e210208f80"
+		},
+		"res/class/tree_5.png": {
+			"md5": "a7851edaf4cbd45521f6d0566cd1e202"
+		},
+		"res/spritbg/daici_spirit_text.png": {
+			"md5": "81ece63205d04a1bb13c5634c9b3641c"
+		},
+		"res/honor_2/lzcbshz.png": {
+			"md5": "b61d4e88aa26aef16965a4819eaaddaa"
+		},
+		"res/common/icon_logo_text.png": {
+			"md5": "0850ea98140e879a613030d3573f1e56"
+		},
+		"res/class_ranklist/tapalls.png": {
+			"md5": "2462389c514f0f6db1ebcd3c9820194b"
+		},
+		"res/common/shared_restult_close.png": {
+			"md5": "f70550b99edb68b223bc5787c686f25f"
+		},
+		"res/honor_2/cgxyx.png": {
+			"md5": "00a5d12b51bea42006462dd5a549942d"
+		},
+		"res/honor_result/cqyx.png": {
+			"md5": "27fe378c1689a386461cdec62245be7e"
+		},
+		"res/team/teamsassistancetask/assistanceloadingbg.png": {
+			"md5": "f348be1daa53f916914497d1fbb7072f"
+		},
+		"res/honor_1/cgxns.png": {
+			"md5": "ce88ae0f0c62594b0003d80598ccdad9"
+		},
+		"src/controller/UpdateController.jsc": {
+			"md5": "838f72a4cdfa97ee088184b3c73dee6b"
+		},
+		"res/class/btn_help.png": {
+			"md5": "35d800542bd4b82f7bbdb49ef7d7293e"
+		},
+		"res/common/iphone_dl_bg2.jpg": {
+			"md5": "f1d95e41cb7b38064f87f5a78f4cf830"
+		},
+		"res/test_study/story_bg.png": {
+			"md5": "913bfb37ebaec5f3b93aa99148415107"
+		},
+		"src/component/HonorLayer.jsc": {
+			"md5": "ad1b2482acef1740326a82ebe1219324"
+		},
+		"res/class_ranklist/class_ranklist_my_bg.png": {
+			"md5": "81e65c5eb8c7ef1c91bb261a6e04799b"
+		},
+		"res/leaveMsg/bq6.png": {
+			"md5": "62cfd39737e29f6f875faaa9ef785d8a"
+		},
+		"res/honor_2/ywtlshz.png": {
+			"md5": "b7ce0c88187d83e75f8fe18a4c2d215b"
+		},
+		"res/mp3/notmal/n4.mp3": {
+			"md5": "b8c0441ac3b92cb161f243b968d2197b"
+		},
+		"res/honorland/award_bg.png": {
+			"md5": "29f42318b88a5fa10f9d7bce6ab6c9b9"
+		},
+		"res/honor_result/btn_jp_1.png": {
+			"md5": "31da4c18e459a6958c87808cd306e85e"
+		},
+		"res/team/teamsdaystarget/daysenter.png": {
+			"md5": "25033a0888d51b44aee1d3a78962a89c"
+		},
+		"res/scoreRecord/report_10.png": {
+			"md5": "2ac25aa59236d158cc5a656d44c7972f"
+		},
+		"res/spritMiddle/btn_daici3_spirit_icon.png": {
+			"md5": "bd707f5078d017b2c9c7fc3e43595096"
+		},
+		"res/spritMiddle/cifa1_spirit_text.png": {
+			"md5": "d444c6471a17e55a6ad321b0e19c62e6"
+		},
+		"res/friend/introduceFriendBtn.png": {
+			"md5": "5cef6bbb485c072df9a8657bb6615ced"
+		},
+		"res/leaveMsg/bq11.png": {
+			"md5": "149b1e0bd416d064a96a906c7cd213b2"
+		},
+		"res/junior/spirit_status_1_2_3.png": {
+			"md5": "7dfb762d24129b2ad8460f5a80ce5886"
+		},
+		"res/spritMiddle/bg_sea_theme_9.jpg": {
+			"md5": "7e597d7fd6fe5e3985563803dc9429bd"
+		},
+		"res/friend/next.png": {
+			"md5": "2c56393d4e82f64c195ae1ee80256463"
+		},
+		"res/ranklist/yesterday_ranklist_bg.png": {
+			"md5": "075ae024b65d30ff182247681e6a28aa"
+		},
+		"res/honor_2/sczwshz.png": {
+			"md5": "3bbd34e18a3a174df468a59ee1999b25"
+		},
+		"res/junior/spirit_status_1_1_4.png": {
+			"md5": "5b084f66a7ea15779bd6eb12c6fdc760"
+		},
+		"res/team/makeup/btn_close.png": {
+			"md5": "70d72e9a80dc6db1a8c962d3d491edb3"
+		},
+		"res/huizhangview/huizhangframe.png": {
+			"md5": "0a9ac8efdab75874db87d076310a3507"
+		},
+		"src/component/huizhangGetStarLayer.jsc": {
+			"md5": "3da975ad6a058340a73f989c634d5da8"
+		},
+		"src/component/SharedFightLayer.jsc": {
+			"md5": "898f8cb4e64dde9d7d16b370610eae57"
+		},
+		"res/leaveMsg/bq4.png": {
+			"md5": "2421868140caf189b702c096e3852e89"
+		},
+		"res/class_task/class_task_score_bg.png": {
+			"md5": "e378c6327833d1e32e589e0564d8b75b"
+		},
+		"res/Ziphone_ShDesLayer.json": {
+			"md5": "3756e31b108961a91b4979d7c12d5551"
+		},
+		"res/ranklist/ranklist_open2.png": {
+			"md5": "5d84e236602a4c683bc48ffe26bc7a59"
+		},
+		"res/head_img_set/class_touxiang2.png": {
+			"md5": "d0a587c326a26303ffb7d47e9cea24ed"
+		},
+		"res/team/invateotherenterteam/search2.png": {
+			"md5": "d64f5264c0f53168885bc705d87c9b0b"
+		},
+		"res/spritbg/btn_spirit_icon.png": {
+			"md5": "294aa7a8ea71ee5120b0f000bf6ef1d6"
+		},
+		"res/kingtitle/kingtitle13.png": {
+			"md5": "d51cc501eea72a1d44fe69be11f1c750"
+		},
+		"res/spritbg/story_bg_book.png": {
+			"md5": "3596d583aa5381aeaf8d157f5fc61010"
+		},
+		"res/hot/btn_open_wifi_click.png": {
+			"md5": "877fd20229afaf7a602a65bce48f76c0"
+		},
+		"res/honor/locked_edit.png": {
+			"md5": "48a5dff77b0a7d1ec88e3c5881dead2f"
+		},
+		"res/head_img_set/head_imgs_bg_set_.png": {
+			"md5": "01ce7d9b7f9e8415bb0182d52d5207a2"
+		},
+		"res/class/treeReward_4.png": {
+			"md5": "ad6e662531f18bfd6086b99d8a38e24b"
+		},
+		"res/mp3/failed/f3.mp3": {
+			"md5": "0ca7c910707c06e55d5e93655d2f15a5"
+		},
+		"res/team/classbtn_0.png": {
+			"md5": "10ce19356d9ef7562c5d886ffc4d5f6b"
+		},
+		"res/huizhang/kingtitle1.png": {
+			"md5": "edacd77e7bc091bf3cdb1fc4c71ac129"
+		},
+		"res/team/teamsdaystarget/daystargetnotdo.png": {
+			"md5": "37039f362a29abb26dcb02d16e1341b7"
+		},
+		"res/friend/addFriendIconNew.png": {
+			"md5": "f33a1d2a08aeb433822bc9497506fba8"
+		},
+		"res/spritbg/btn_fuci_spirit_icon.png": {
+			"md5": "4ef0211eaf971c711dde66e25bf309f9"
+		},
+		"res/Ziphone_SharedVedioLayer.json": {
+			"md5": "fff56b8ee9dd78bdc7486732a25117f8"
+		},
+		"res/spritbg/xiaoxueduanyu_spirit_text.png": {
+			"md5": "8bc3899125476ca4ee16ca46239fc1d3"
+		},
+		"res/class_award/class_touxiangkuang.png": {
+			"md5": "3cd34ae43b6d2390856438a91135d3b8"
+		},
+		"res/team/beingenterteam/beingenterteambg.png": {
+			"md5": "88421ebac54b135edb1292eb5dca1da2"
+		},
+		"res/friend/sp_shuoming_text_bg.png": {
+			"md5": "f3c11d72fc38bd0f1048b8dcc01c570a"
+		},
+		"res/spritMiddle/btn_cifa3_spirit_icon.png": {
+			"md5": "0488d24db3ad65481d0dab6e7441e782"
+		},
+		"res/Default/Button_Normal.png": {
+			"md5": "eeb2a669862d09233be76e60f88ee4ab"
+		},
+		"res/honor_1/cgbw.png": {
+			"md5": "669523946481acde86d625e5f2c7115b"
+		},
+		"res/Ziphone_InviteTaskLayer.json": {
+			"md5": "e6bfec55b5aaef812674340922be0692"
+		},
+		"res/team/invateotherenterteam/search.png": {
+			"md5": "1fb18aeefa4fb54c0858bdd976da274d"
+		},
+		"res/login/protocol_item1.png": {
+			"md5": "dc2e08015d77e22c57eb1cf7d529324c"
+		},
+		"res/leaveMsg/bq8.png": {
+			"md5": "72815599ee601809458e80c35c0f3d0f"
+		},
+		"res/honor_2/cgxbw.png": {
+			"md5": "0ed72b4c54979f5c1a9b830c44d4c643"
+		},
+		"res/honor_1/smztshz.png": {
+			"md5": "a505e4dc67ba382565abec48f7c68a31"
+		},
+		"res/spritbg/btn_jinjieshuci_spirit_icon.png": {
+			"md5": "f6306269dbecd832498a603db534f296"
+		},
+		"res/class_award/group_rank_2.png": {
+			"md5": "b24f0558e3a29ba671652e733dcbcf58"
+		},
+		"res/junior/spirit_status_1_3_2.png": {
+			"md5": "1003bba9743587840d0b8efd1046e78f"
+		},
+		"res/head_img_set/img_head36.png": {
+			"md5": "8cb5b8a609dca2db51d69ac764ea07d4"
+		},
+		"res/honor_1/plwz.png": {
+			"md5": "7851ac79a4e05f14b56e60d58d6b0471"
+		},
+		"res/honor_result/btn_jz_1.png": {
+			"md5": "d49e61c2f31e4af8b010db68d8e1765c"
+		},
+		"res/class_award/tstxk3.png": {
+			"md5": "24079942f34963e64c5a007e6999e739"
+		},
+		"res/kingtitle/kingtitle9.png": {
+			"md5": "4b983a4b7a1e71888ac1e6ee8922a800"
+		},
+		"res/honor_result/cgxjs.png": {
+			"md5": "e2813ca2566688b733589e0d574d88b2"
+		},
+		"res/honorland_asy/award_1.png": {
+			"md5": "59d3b9e41b66b116439f39f9a1c234aa"
+		},
+		"res/intermediate/spirit_status_2_2_5.png": {
+			"md5": "d971f295afe9b27e20a74d82bcf8f382"
+		},
+		"res/honor_2/all_class_paiming_award_level2.png": {
+			"md5": "666b1df12579832e39176fb637f59a5e"
+		},
+		"res/team/teamsdaystarget/nostart.png": {
+			"md5": "9f6ddedd65240eb47143e93006c7555a"
+		},
+		"res/friend/basic_class_1.png": {
+			"md5": "7451ee1c0a8ba719fe7fb2cafd0e5a83"
+		},
+		"res/honor_2/dsxjb.png": {
+			"md5": "197c0dad99b022e73d3f5b593b87eeeb"
+		},
+		"res/team/isStandard.png": {
+			"md5": "47c863feef11ae5339bde75eb84979dc"
+		},
+		"res/ranklist_asy/ranklist_first.png": {
+			"md5": "20f2f10a8dfe6abb98999311940a8dd4"
+		},
+		"res/team/teamhelpbg/checkBoxUse.png": {
+			"md5": "a0ecc2b86f2f7db47ff77858b98d7c94"
+		},
+		"res/honor_1/grade_paiming_award_tsjz.png": {
+			"md5": "9589be02bd2d170966e4921fc5161721"
+		},
+		"res/honor_1/sczwshz.png": {
+			"md5": "e5d2aa6f650a2e6acc0e1b9e185335d9"
+		},
+		"res/junior/spirit_status_1_2_7.png": {
+			"md5": "91ed30708bd5111af2be6254cb5ff80b"
+		},
+		"res/spritMiddle/chenshuju1_spirit_text.png": {
+			"md5": "95183a3fd4a561ba4228591fce47b8b7"
+		},
+		"res/ranklist/others_item.png": {
+			"md5": "ea5e1e74d6a31de2a1b27b2c4b38a568"
+		},
+		"res/honor/honor_isLand.png": {
+			"md5": "097a3f74db67b6abe091856b13ca28b2"
+		},
+		"res/Ziphone_IndexScene.json": {
+			"md5": "22ba8796afc70b1884ed2818723d73ce"
+		},
+		"res/honor_1/group_rank_2.png": {
+			"md5": "52fab869e93e32bce990163374440909"
+		},
+		"res/class_task/btn_class_task_invite.png": {
+			"md5": "a62317e593b704f7595a04a970e96b03"
+		},
+		"res/team/teamsdaystarget/daystargetongoing.png": {
+			"md5": "3f120fe5c023310eee658513a0d75ab7"
+		},
+		"res/honor_result/cgxxk.png": {
+			"md5": "97c141e59683bc69c69e58d3db4fd4b0"
+		},
+		"res/spritMiddle/btn_jieci2_spirit_icon.png": {
+			"md5": "cd9b72d98b1f9c59c26b0cc6965ea29d"
+		},
+		"res/spritLevel/middleItem.png": {
+			"md5": "df3386744b5cb82860e267bf726467f7"
+		},
+		"res/leaveMsg/btn_continue_learn.png": {
+			"md5": "c080ec3fee645385f16c5da36d3327a0"
+		},
+		"res/class_award/group_rank_4.png": {
+			"md5": "5227f3b076c5e3b43de0e06425bde1fb"
+		},
+		"res/head_img_set/img_head55.png": {
+			"md5": "259990d79b35027e279d4b347424bcf8"
+		},
+		"res/continueFee/btn_commit.png": {
+			"md5": "20f0dd52eef93cc439bfe4ef511f9a8f"
+		},
+		"res/intermediate/spirit_status_2_2_7.png": {
+			"md5": "f1cf386f385b3cc7dd820cadeb5c5e5b"
+		},
+		"res/intermediate/spirit_status_2_1_1.png": {
+			"md5": "fec967c4b1700cc9e578191dcdb79cb4"
+		},
+		"res/honor_result/zqwz.png": {
+			"md5": "99366a96dc3adea9e77dac5bf801759f"
+		},
+		"res/login/wx_accout_login.png": {
+			"md5": "5e8dbf4a3d0520c610abaacc94db9ae1"
+		},
+		"res/ranklist_asy/ranklist_fivth.png": {
+			"md5": "4fd12fe76e5b289a76b7eb564a88eb7b"
+		},
+		"res/test_study/img_picture_book_center.png": {
+			"md5": "db7eeef215753f04cec5683f4253415e"
+		},
+		"res/huizhang/huizhang15.png": {
+			"md5": "cb194b292b36426d803240ce099d45fe"
+		},
+		"res/friend/96_story.png": {
+			"md5": "db70394e496e7f2e13378ca7686a3eff"
+		},
+		"res/honor_1/tsjz.png": {
+			"md5": "71a1b48f88a1d234d7a1e66f9c04f9b9"
+		},
+		"res/class_task/btn_task_award_get.png": {
+			"md5": "cadaa50672c754ca844c9a7cd50fab18"
+		},
+		"res/Ziphone_MonthScoreLayer.json": {
+			"md5": "2df8d8317600ffd0e166c7c28cf214c3"
+		},
+		"res/class/btn_invite.png": {
+			"md5": "ec575ce06d58f3b1f8492ac3c89d9602"
+		},
+		"res/spritbg/jinjieshuci_spirit_text.png": {
+			"md5": "2c89e8cdf9314d9ab328fccfcd9d1ecd"
+		},
+		"res/spritLevel/hideTree.png": {
+			"md5": "2431cd43db424aaa6ef060bca2e9da4a"
+		},
+		"res/head_img_set/img_head1.png": {
+			"md5": "fe9094ad6a14d8e08002b7a11bd6921f"
+		},
+		"src/component/FriendFightBeInvateLayer.jsc": {
+			"md5": "abf2d0fab34f7bc7742b890ac416551d"
+		},
+		"res/common/sp_finished.png": {
+			"md5": "fb565844db6d6e62071b638b7903407e"
+		},
+		"res/huizhang/huizhang9.png": {
+			"md5": "a95b45b47379aa5d0934dd40796a7a46"
+		},
+		"res/Ziphone_RankListTipsLayer.json": {
+			"md5": "dc190fa952cbc574c97e145682932ba4"
+		},
+		"res/honor_2/cgxlz.png": {
+			"md5": "ac605e04b5293fcd0413f7adfbcb4ee0"
+		},
+		"res/spritMiddle/btn_fuci3_spirit_icon.png": {
+			"md5": "a3a427ae6fa8fb00e90e986be232524c"
+		},
+		"res/head_img_set/img_head39.png": {
+			"md5": "1419258a464ebb03f34efb11c1675470"
+		},
+		"src/component/SeasonLayer.jsc": {
+			"md5": "ef1980e9bcfd5bd29eac2d95a55f2cbf"
+		},
+		"res/common/story_back.png": {
+			"md5": "3ef99c0ce3703110d584d319f1691a5d"
+		},
+		"res/ranklist_asy/ranklist_third.png": {
+			"md5": "9e981d58e6ab26bf89e51b29577994c2"
+		},
+		"res/login_asy/btn_radio1.png": {
+			"md5": "c6a68543c10368eae9c1a1989e0bfa0e"
+		},
+		"res/spritbg/btn_dong_spirit_icon.png": {
+			"md5": "402375c9b6166d06f17d2a64b262b2c0"
+		},
+		"res/class_award/tstx2_1.png": {
+			"md5": "255d12e56034f136b1f19a423dc87e5e"
+		},
+		"res/spritbg/richanghuihua_spirit_text.png": {
+			"md5": "0564eb0efa60b2a40ad8e6c627a3ef25"
+		},
+		"res/team/daystargetbtn_0.png": {
+			"md5": "fab7948fbd6f2ea8c1249e2ef0dace35"
+		},
+		"res/spritMiddle/bg_sea_theme_11.jpg": {
+			"md5": "f72195409cb4893db9d21e75bafbbeca"
+		},
+		"res/spritbg/father_son_bg.png": {
+			"md5": "c2f9a55ee4be339256c6ae80cd88bacd"
+		},
+		"res/class_award/appletx5_0.png": {
+			"md5": "80010b0880dfb893545a7c19f6f91810"
+		},
+		"res/honor_1/group_rank_5.png": {
+			"md5": "19524e05829df1b4c13718cc2b0c8c05"
+		},
+		"res/spritMiddle/bg_sea_theme_3.jpg": {
+			"md5": "10e4bb6aaf11e093dc1f2f66347f0018"
+		},
+		"res/class_ranklist/tapallb.png": {
+			"md5": "f992f43f96ae67d6ea2f4272cb95e406"
+		},
+		"res/hot/wifi_bg.png": {
+			"md5": "c2ecb22eb6e2db5eb5200e856db889db"
+		},
+		"res/head_img_set/tstx2_0.png": {
+			"md5": "2cc38383840ea980f1d3fb9c35cd1815"
+		},
+		"res/team/createteam/cancelcreatebtn.png": {
+			"md5": "e02aa529067027a60cfa3d0a9484f322"
+		},
+		"res/honor_result/class_award_level4.png": {
+			"md5": "51652632e6b2e9749f739836cace9ad2"
+		},
+		"src/component/LearnTipLayer.jsc": {
+			"md5": "530dc35e24540c46c02d3850cce05144"
+		},
+		"res/common/shared_restult_bg.png": {
+			"md5": "695461fcf87372b2bede3e097e9a1f5a"
+		},
+		"res/head_img_set/img_head51.png": {
+			"md5": "a7c86b69add2b27e37f2c6680a8b686c"
+		},
+		"res/Default/Sprite.png": {
+			"md5": "1f29d99120920fbc8ee2d05f45d7eef6"
+		},
+		"res/login/login_input2.png": {
+			"md5": "23d444bc86794e716f678eb7d48d13cf"
+		},
+		"res/Ziphone_EmailListLayer.json": {
+			"md5": "b59f905b36ea23bb984ba49e4eeebd0e"
+		},
+		"res/huizhang/huizhang10.png": {
+			"md5": "9ef612e19454977c7247fafdd418626b"
+		},
+		"res/kingtitle/kingtitle7.png": {
+			"md5": "09fa1adb89c2b7540df5f120e75edc95"
+		},
+		"res/ranklist_asy/ranklist_back_day.png": {
+			"md5": "3774603dddc31bed033d14cf5e1456f7"
+		},
+		"res/honor_1/class_award_level2.png": {
+			"md5": "973ee34560727068ce81240e8f92aff8"
+		},
+		"res/intermediate/spirit_status_2_1_7.png": {
+			"md5": "fec967c4b1700cc9e578191dcdb79cb4"
+		},
+		"res/team/asisttaskbtn_0.png": {
+			"md5": "0e9930da2bc73dc49fd7a6c98712e722"
+		},
+		"res/learn/learn_bg.png": {
+			"md5": "47b38a732ae97de40a6749bfb574dd75"
+		},
+		"res/class/progressBg.png": {
+			"md5": "9ccb5b3ec6b6a037c5855333a3b75d3e"
+		},
+		"res/honor_result/mrzx.png": {
+			"md5": "dc6c7387434291314ceedadecf870aa8"
+		},
+		"res/huizhang/huizhang1.png": {
+			"md5": "cc87df170dee6e9acd34a304c90b6221"
+		},
+		"res/common/iphone_dl_bg5.jpg": {
+			"md5": "0fdbabf2768f7fb7324923efc3e35b87"
+		},
+		"res/course/btn_reg.png": {
+			"md5": "4fcdd2c4e728d9d1793011522c8d0724"
+		},
+		"res/head_img_set/tstx3_0.png": {
+			"md5": "675406980b76773566582dfde095340d"
+		},
+		"res/head_img_set/img_head32.png": {
+			"md5": "83215a4caef4ae3032c7b9735bcda43b"
+		},
+		"res/button_asy/btn_first.png": {
+			"md5": "c1020b529e93126fcf6e5c19a72557e9"
+		},
+		"res/class_ranklist/awardbg.png": {
+			"md5": "ffb2ca9b0f18474f32c4ef945ae4275c"
+		},
+		"res/head_img_set/img_head6.png": {
+			"md5": "5ffe986ed97be4a21ceba83b1fba9c3e"
+		},
+		"res/team/learn_team_bg2.png": {
+			"md5": "2af306ceba639eabf6cd52fb77f7ac86"
+		},
+		"res/huizhang/huizhang12.png": {
+			"md5": "82a8c63d89549a42621bcd6184ccee71"
+		},
+		"res/kingtitle/kingtitle12.png": {
+			"md5": "dc563354cf903e95a269e97b64635e49"
+		},
+		"res/friend/imgHead1.png": {
+			"md5": "3da7ed7bdc3640d1901b04aa3c4466d0"
+		},
+		"res/button_asy/btn_next.png": {
+			"md5": "bddaf190c6b93cb05a2cf9d7783c3265"
+		},
+		"res/update_check/btn_small.png": {
+			"md5": "2407ad0beaab90823a3c48342fc8e4e6"
+		},
+		"src/component/InviteSubmitLayer.jsc": {
+			"md5": "5962d7defdc7671136bdd131e4ee1dd0"
+		},
+		"res/team/submit.png": {
+			"md5": "adbb2ed2aad84d974727ac7f69921a36"
+		},
+		"res/team/teamsassistancetask/assistanceloading.png": {
+			"md5": "d6c092768e4c60344c3a64fb74913732"
+		},
+		"res/class_award/appletxk6.png": {
+			"md5": "b9d12af6f41109a82daf6c33c5c5c946"
+		},
+		"res/Ziphone_UnTaskXieZhuLayer.json": {
+			"md5": "510398488ffa676f20bf890558643b40"
+		},
+		"res/honor_result/dfwz.png": {
+			"md5": "7bfc2167a1f69788a875fa5eadfe279b"
+		},
+		"res/login_asy/protocol_item1.png": {
+			"md5": "9fb83353d84f89490a634e6a58a879d7"
+		},
+		"res/unlock_sps/daici.png": {
+			"md5": "d61f0b2475dcf8f3a47f217780b0cbfb"
+		},
+		"res/honor_1/dfqx.png": {
+			"md5": "03fd62945f32c30d4d34201453aa8ac5"
+		},
+		"res/userinfo/choice_picture.png": {
+			"md5": "0f1a8b5ad7201496e757960c41c8489a"
+		},
+		"res/head_img_set/btn_sphead_choose_pre.png": {
+			"md5": "6e6d9ff1b43fbcaeb51ebb46dbbe4554"
+		},
+		"res/head_img_set/img_head13.png": {
+			"md5": "9e546a1a716a3d28e454cdc19017956f"
+		},
+		"res/course/1_4_hide_strong.png": {
+			"md5": "d2f2f44f46e434f712ff4a938671e250"
+		},
+		"res/mp3/success/stwo1.mp3": {
+			"md5": "397f9fbfc2610e113c66f409887c0f42"
+		}
+	},
+	"remoteVersionUrl": "http://client.dasijiaoyu.com/dev_update/update_android_res/version/version.manifest",
+	"version": "2.9.83",
+	"engineVersion": "3.0 beta",
+	"remoteManifestUrl": "http://client.dasijiaoyu.com/dev_update/update_android_res/version/project.manifest"
+}
